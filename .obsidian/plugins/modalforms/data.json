@@ -81,7 +81,8 @@
       ],
       "version": "1",
       "template": {
-        "createCommand": true,
+        "createInsertCommand": false,
+        "createNoteCommand": false,
         "parsedTemplate": []
       }
     },
@@ -700,7 +701,8 @@
       ],
       "version": "1",
       "template": {
-        "createCommand": true,
+        "createInsertCommand": false,
+        "createNoteCommand": false,
         "parsedTemplate": []
       }
     }
