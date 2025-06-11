@@ -705,6 +705,33 @@
         "createNoteCommand": false,
         "parsedTemplate": []
       }
+    },
+    {
+      "title": "Add New Room",
+      "name": "ROOM",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Location",
+          "label": "Location:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "dataview",
+            "query": "[\"First Floor\",\"Ground Floor\",\"Outside\",\"Underground\"]"
+          }
+        }
+      ],
+      "version": "1"
     }
   ]
 }
