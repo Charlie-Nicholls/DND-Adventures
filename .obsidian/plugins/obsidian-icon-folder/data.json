@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebook",
+      "LiNotepadText",
       "FasMagnifyingGlass",
       "🪄",
       "FasBook",
@@ -13,9 +15,7 @@
       "FasCross",
       "RiPoliceBadgeFill",
       "FasPersonMilitaryPointing",
-      "🎖",
-      "FasMoneyBills",
-      "LiBird"
+      "🎖"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -41,6 +41,8 @@
   },
   "Assets/PDF": "FasFilePdf",
   "Assets/Videos": "FasVideo",
+  "Session Notes": "LiNotebookPen",
+  "Compendium/Lore/Deities": "FasPersonRays",
   "Compendium/Lore/Events": "FasCalendar",
   "Compendium/Lore/Organizations": "FasSitemap",
   "Compendium/Party/Player Characters": "FasUser",
@@ -127,5 +129,7 @@
   "Ghosts of the Damned/NPCs (Minor)/Matilda Molesly.md": "FasPerson",
   "Ghosts of the Damned/NPCs (Minor)/Edwina Thimble.md": "FasPerson",
   "Ghosts of the Damned/Cutscenes.md": "FasBook",
-  "Ghosts of the Damned/General Clues.md": "FasMagnifyingGlass"
+  "Ghosts of the Damned/General Clues.md": "FasMagnifyingGlass",
+  "Ghosts of the Damned/YPI Game/Session 01 (2025-06-11).md": "LiNotepadText",
+  "Ghosts of the Damned/YPI Game": "LiNotebook"
 }

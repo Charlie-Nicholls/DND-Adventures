@@ -23,7 +23,7 @@ ___
 >^IntroText
 
 ### Description
-Maid at Beaverton Hall. [[Mystic Myrtle]] has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠[[Harriet Adder]] is also using it for blackmail etc... Refers to her as Miss Adams.
+Maid at [[Beaverton Hall]]. [[Mystic Myrtle]] has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠[[Harriet Adder]] is also using it for blackmail etc... Refers to her as Miss Adams.
 
 ### Secrets
 - Employed by ⁠[[Mystic Myrtle]] to eavesdrop
