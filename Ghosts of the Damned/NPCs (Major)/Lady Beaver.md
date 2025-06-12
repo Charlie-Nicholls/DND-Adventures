@@ -42,4 +42,4 @@ ac: 10
 hp: 10
 stats: [10,10,12,8,8,14]
 languages: English
-saves: [Spirituality: 3, Performance: 4]
+skillsaves: [Spirituality: 3, Performance: 4]

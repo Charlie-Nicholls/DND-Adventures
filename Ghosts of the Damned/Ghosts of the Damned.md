@@ -12,5 +12,3 @@ CurrentGame: [[YPI Game]]
 <span class="sub2"> :FasCircleExclamation: Quest | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
 
 ---
-
-`=this.CurrentGame`

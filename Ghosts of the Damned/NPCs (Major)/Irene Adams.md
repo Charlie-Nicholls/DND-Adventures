@@ -42,4 +42,4 @@ ac: 13
 hp: 10
 stats: [16,12,14,10,8,10]
 languages: English
-saves: [Athletics: 5, Stealth: 3]
+skillsaves: [Athletics: 5, Stealth: 3]

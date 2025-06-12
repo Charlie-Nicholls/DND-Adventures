@@ -1,20 +1,20 @@
 ---
 type: pc
 level: 4
-ac: 13
-hp: 23
-modifier: 3
-race: "Wolf"
-class: "Rogue"
-subClass: "Inquisitive"
-cover: "/Ghosts of the Damned/Assests/imgDetective.jpg"
+ac: 12
+hp: 28
+modifier: 2
+race: "Crow"
+class: "Bard"
+subClass: "College of Whispers"
+cover: "/Ghosts of the Damned/Assests/imgAuthor.jpg"
 ---
 
 ###### `=this.file.name`
-:FasMagnifyingGlass: Legendary Detective
+<span class="sub2">:RiQuillPenFill: Chronicler of Mysteries </span>
 ___
 > [!infobox|no-t right]
-> ![[imgDetective.jpg|350]]
+> ![[imgAuthor.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -26,9 +26,9 @@ ___
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 14 |
->> | :FasMagnifyingGlass: Passive Investigation | 18 |
->> | :RiSpeakFill: Passive Insight | 12 |
+>> | :LiEye: Passive Perception | 12 |
+>> | :FasMagnifyingGlass: Passive Investigation | 14 |
+>> | :RiSpeakFill: Passive Insight | 14 |
 >> | :FasShield: Armour Class | `=this.ac` |
 >> | :FasHeart: Max Hit Points | `=this.hp` |
 >

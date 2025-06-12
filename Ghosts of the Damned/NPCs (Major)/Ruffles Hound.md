@@ -47,7 +47,7 @@ Watched her fall, brought her body out for the others to see.
 > hp: 27
 > stats: [16,14,16,8,10,10]
 > languages: English
-> saves: [Atheletics: 5, Deception: 3, Intimidation: 3]
+> skillsaves: [Atheletics: 5, Deception: 3, Intimidation: 3]
 > traits:
 >   - name: Surprise Attack
 >     desc: "If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat."

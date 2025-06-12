@@ -47,4 +47,4 @@ ac: 16
 hp: 20
 stats: [18,12,16,14,9,10]
 languages: English, Russian
-saves: [Athletics: 6, Deception: 4, Intimidation: 6]
+skillsaves: [Athletics: 6, Deception: 4, Intimidation: 6]

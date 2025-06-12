@@ -49,4 +49,4 @@ ac: 10
 hp: 10
 stats: [8,10,10,14,14,10]
 languages: English
-saves: [Academics: 4, Medicine: 4]
+skillsaves: [Academics: 4, Medicine: 4]

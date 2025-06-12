@@ -44,7 +44,7 @@ None
 > hp: 17
 > stats: [11,12,13,16,16,7]
 > languages: English
-> saves: [History: 5, Medicine: 5]
+> skillsaves: [History: 5, Medicine: 5]
 > actions:
 >   - name: Cure Wounds (2/Day)
 >     desc: Target creature gains 2d4 + 3 HP

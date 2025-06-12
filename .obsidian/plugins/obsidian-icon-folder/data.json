@@ -109,7 +109,6 @@
   "Ghosts of the Damned/NPCs (Major)/Aurora Fable.md": "LiStars",
   "Ghosts of the Damned/NPCs (Major)/Doctor Redmund Herring.md": "FasStethoscope",
   "Ghosts of the Damned/NPCs (Major)/Dr Corbyn Beaver.md": "FasStethoscope",
-  "Ghosts of the Damned/NPCs (Major)/Featherwick Crowley.md": "RiQuillPenFill",
   "Ghosts of the Damned/NPCs (Major)/Harriet Adder.md": "FasCoins",
   "Ghosts of the Damned/NPCs (Major)/Irene Adams.md": "FasGhost",
   "Ghosts of the Damned/NPCs (Major)/Lady Beaver.md": "LiStars",
@@ -132,5 +131,6 @@
   "Ghosts of the Damned/General Clues.md": "FasMagnifyingGlass",
   "Ghosts of the Damned/YPI Game/Session 01 (2025-06-11).md": "LiNotepadText",
   "Ghosts of the Damned/YPI Game": "LiNotebook",
-  "Ghosts of the Damned/Assets": "FasImage"
+  "Ghosts of the Damned/Assets": "FasImage",
+  "Ghosts of the Damned/Party/Featherwick Crowley.md": "RiQuillPenFill"
 }

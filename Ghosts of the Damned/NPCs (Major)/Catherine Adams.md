@@ -42,4 +42,4 @@ ac: 10
 hp: 10
 stats: [10,8,10,12,12,10]
 languages: English
-saves: []
+skillsaves: []

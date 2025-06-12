@@ -44,7 +44,7 @@ Not at party
 > hp: 18
 > stats: [8,16,10,11,14,16]
 > languages: English, Russian, French, German
-> saves: [Deception: 5, Insight: 4, Sleight of Hand: 5]
+> skillsaves: [Deception: 5, Insight: 4, Sleight of Hand: 5]
 > actions:
 >   - name: Smoke Bomb (1/Day)
 >     desc: "Toss a smoke bomb obscuring a 15 ft. radius around you for one minute or until a strong wind disperses it. Each creature in it's radius must make a DC13 Constitution saving throw or take 2d6 poison damage"

@@ -54,4 +54,4 @@ ac: 13
 hp: 20
 stats: [8,16,12,10,8,18]
 languages: English
-saves: [Deception: 6, Performance: 6, Sleight of Hand: 5]
+skillsaves: [Deception: 6, Performance: 6, Sleight of Hand: 5]
