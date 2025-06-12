@@ -52,7 +52,7 @@ displayLink: "[[Hidden Study]]"
 >	The letters document in detail years of secrets, both British and Russian, sold by Squire Beaver to Harriet Adder during his career as a spy. Letters since Harriet's death are addressed to her previous subordinates and get increasingly angry in tone, suggesting he viewed himself as her natural successor and wished to lead the organisation.
 >^Letters
 
-> [!recite|nbrd no-i]- Misha Bearov File
+> [!recite|nbrd no-i]- [[Misha Bearov]] File
 >	This file tells the true story of Misha's trouble. The chef was previously a russian smuggler who Squire Beaver worked with. They investigated a mole in their sect who was leaking their plans to the government. This mole was the Squire who was selling them through a third party. When the sect learned of a mole in their organization, Squire Beaver framed someone and then killed them before they could prove their innocence. He knew if Misha could put it together given the chance, so he told the Kommidore Misha was the leak and they tried to kill him, Misha was lead to believe by the Squire that the government though he killed the mole and were out for revenge. Squire Beaver's then used his British Government contacts to set Misha up with a new life in England and a false identity under the name of "Winnie Bearett".
 >^Letters
 

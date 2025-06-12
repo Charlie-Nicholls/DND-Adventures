@@ -19,7 +19,7 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Squire Beaver has all the bearings of a man who was extremely well built in his youth. He stands tall and with an arrogance his now pudgy body does not reflect, but underneath the fat, the muscles have not yet fully faded away. His fur was once a light brown but now has distinctly grey patches sprouting across his body. He wears an expensive suit that was probably tailor made just a few years ago but has since been somewhat left behind by his gut.
+>	Squire Beaver has all the bearings of a man who was extremely well built in his youth. He stands tall and with an arrogance that would've suited him in his youth, but his aging and fattening body no longer reflects. But, underneath the fat, the muscles have not yet fully faded. His fur was once a light brown but now has distinctly grey patches sprouting across his body. He wears an expensive suit that was probably tailor made just a few years ago but has since been somewhat left behind by his waist.
 >^IntroText
 
 ### Description

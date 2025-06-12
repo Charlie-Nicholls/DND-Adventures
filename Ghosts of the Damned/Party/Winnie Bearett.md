@@ -8,11 +8,10 @@ race: Bear
 class: Barbarian
 subClass: Path Of The Beast
 cover: "/Ghosts of the Damned/Assests/imgChef.jpg"
-displayLink: "[[Winnie Bearett]]"
-aliases: ["Winnie Dapooh Bearett","Misha Bearov"]
+alias: "Misha Bearov"
 ---
 
-###### Misha Bearov A.K.A Winnie Dapooh Bearett
+###### `=this.alias` A.K.A `=this.file.name`
 :LiChefHat: Head Chef of Beaverton Hall
 ___
 > [!infobox|no-t right]

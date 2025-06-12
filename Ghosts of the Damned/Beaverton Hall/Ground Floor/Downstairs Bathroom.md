@@ -36,7 +36,7 @@ displayLink: "[[Downstairs Bathroom]]"
 >	One of the heads is very slightly not straight and has a small fleck of blood on it. On testing you find they can be rotated and hear a clicking mechanism as you do. The fact one wasn't returned to it's original position implies the last person to use this was rushing. There is a slight echo to the clicking sound which leads you to believe there is some passage underneath the busts.
 >^Nat20
 
-**Additional Clues Modified by Murderer Roll**
+**Additional Clues Modified by Murderer Roll #1**
 
 
 |Roll|1-8|9-15|16+|

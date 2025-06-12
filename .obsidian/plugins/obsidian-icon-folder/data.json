@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiKnifeBloodFill",
       "LiCode2",
       "FasPerson",
       "RiLightbulbFill",
@@ -14,8 +15,7 @@
       "FasImage",
       "RiToolsFill",
       "FasShuttleSpace",
-      "FasFolderOpen",
-      "FasHotel"
+      "FasFolderOpen"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -137,5 +137,6 @@
   "Ghosts of the Damned/Beaverton Hall/Ground Floor": "LiHouse",
   "Ghosts of the Damned/Beaverton Hall/Outside": "LiTrees",
   "Ghosts of the Damned/Beaverton Hall/Underground": "LiHouse",
-  "_Assets/Chase Track Test Code.md": "LiCode2"
+  "_Assets/Chase Track Test Code.md": "LiCode2",
+  "Ghosts of the Damned/Murderer Instructions.md": "RiKnifeBloodFill"
 }

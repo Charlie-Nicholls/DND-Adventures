@@ -32,7 +32,7 @@ displayLink: "[[Power Control Room]]"
 >	There is a grate in the floor leading to a room you can barely make out as having a desk and cabinets in it. Estimating from the layout of the house, this room seems to be under Squire Beaver's Study. The dials are labelled with 'Pressure', 'Voltage', 'Amps'. There is a switchboard labelled 'Gate Control' that presumably controls the dam. The Lever marked "Main Study" is slightly wet as are many of the currently off switches under dam control. One lever is separate from the rest and next to a viewing port.
 >^Hard
 
-**Additional Clues Modified by Murderer Roll**
+**Additional Clues Modified by Murderer Roll #2**
 
 |Roll|1-8|9-15|16+|
 | :---: | :---: | :---: | :---: |
