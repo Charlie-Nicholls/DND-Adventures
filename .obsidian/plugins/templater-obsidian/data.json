@@ -32,7 +32,7 @@
     ""
   ],
   "startup_templates": [
-    "Assets/Templates/STARTUP.md"
+    "_Assets/Templates/STARTUP.md"
   ],
   "intellisense_render": 1,
   "enable_ribbon_icon": false
