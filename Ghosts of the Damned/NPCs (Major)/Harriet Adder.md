@@ -8,7 +8,7 @@ displayLink: "[[Harriet Adder]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgHarrietAdder.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -23,16 +23,6 @@ ___
 >^IntroText
 
 ### Description
-
-
-### Secrets
-- 
-
-### Knowledge
-- 
-
-### Alibi 
-
 
 ### Statblock
 >```statblock
