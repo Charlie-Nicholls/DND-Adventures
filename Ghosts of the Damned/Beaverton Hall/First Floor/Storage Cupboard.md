@@ -18,11 +18,7 @@ displayLink: "[[Storage Cupboard]]"
 [[Upstairs Hallway]]
 
 ### Investigation Checks
-
 Nothing of interest.
-
-### Secret Passages
-None
 
 ### Other
 [[Colonel Hawkings]] will lock [[Dr Redmund Herring]] in here until his innocence is proven.

@@ -18,12 +18,4 @@ displayLink: "[[Upstairs Bathroom]]"
 [[Upstairs Hallway]]
 
 ### Investigation Checks
-
 Nothing of Interest
-
-### Secret Passages
-None
-
-### Other
-
-

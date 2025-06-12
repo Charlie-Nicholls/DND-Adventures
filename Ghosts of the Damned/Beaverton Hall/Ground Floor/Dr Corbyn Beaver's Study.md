@@ -41,8 +41,5 @@ displayLink: "[[Dr Corbyn Beaver's Study]]"
 > 
 > 	"Smuggle a knife to Weasel Brown with instructions to stab Harriet Adder in the gut in return for bribing her appeal Judge. Further instructions to follow"
 
-### Secret Passages
-None
-
 ### Other
 - Tortoise and Hare book can be found here.

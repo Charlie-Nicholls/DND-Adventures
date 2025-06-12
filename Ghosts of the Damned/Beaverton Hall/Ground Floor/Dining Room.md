@@ -58,6 +58,3 @@ Use alternatives for before Irene's ghost appears or investigation checks away f
 - Easier to spot if investigated before fire starts and dirties new bricks.
 - Will be extremely hard (potentially impossible) to open from this side if the heavy metal cabinet is blocking it from the other side.
 
-### Other
-
-

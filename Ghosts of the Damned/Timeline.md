@@ -7,11 +7,39 @@
 #### 1.0 Opening
 Watson sitting down to write The Ghost of the Damned. Scene shifts to earlier when Catherine arrives at Canis/Crowley's house to ask for help as she believes her wife was murdered.
 #### 1.1 The Death of Irene
-Flashback to several weeks earlier. Irene's Body is discovered. Introduce [[Aleksi Kuchev]] and [[Mystic Myrtle]].
+- Flashback to several weeks earlier. Irene's Body is discovered. Introduce [[Winnie Bearett]] and [[Mystic Myrtle]].
+- After a minute ⁠[[Irene Adams]] is seen opening a window in the ⁠servants-quarters and seeming to start to step out onto the ledge.
+- Once noticed she turns around and steps back into the room momentarily unseen. 
+- She is then seen to throw herself out of the window, landing on a spiked metal railing, piercing the chest.
+- [[Ruffles Hound]] runs over and takes the body off the spike, bringing it round behind the bushes where he puts it in the ⁠[[Storage Area]] and picks up ⁠the real [[Irene Adams]] instead. 
+- He then takes ⁠[[Irene Adams]] to where the others are who see her as she then fakes her death. 
+- Swap to cutscene at this point, ambulance arrives and everyone goes round front to direct/help the medical staff. ⁠
+- When alone or with [[Ruffles Hound]], ⁠[[Irene Adams]] swaps the body of ⁠[[Mystic Myrtle]] back in and hides.
+
+**Perception Check**
+
+> [!recite|nbrd no-i]- Easy
+>	The way she jumped out of the window was definitely odd but you aren't sure why.
+>^Easy
+
+> [!recite|nbrd no-i]- Medium
+>	The way she jumped out of the window was odd, more of a fall than a jump.
+>^Medium
+
+> [!recite|nbrd no-i]- Hard
+>	The way she jumped out of the window was odd, more of a fall than a jump. For a moment after you think you saw something move in the window.
+> 
+
 ### 2 Thunderbolt and Lightning
 #### 2.1 Guests arrive
 #### 2.2 Canis meets Dr Beaver 
 Flashback to [[Canis]] viewing [[Harriet Adder]]'s "dead" body
+- [[Canis]] is taken through security at the prison where ⁠[[Harriet Adder]] is confined.
+- He meets ⁠[[Dr Corbyn Beaver]] who says "I understand you insisted on seeing her body. It is unusual but I understand why in this case, there is a need to be extra sure but I can assure you she most definitely is dead".
+- He explains that she was stabbed in the stomach by Weasel Brown, they're unsure how she got the knife. Her body is on an examining table and ⁠canis is allowed to examine it briefly.
+
+
+
 #### 2.3 Dinner Begins
 ### 3 Very Very Frightening
 #### 3.1 Irene's Ghost
@@ -26,6 +54,16 @@ Flashback to [[Canis]] viewing [[Harriet Adder]]'s "dead" body
 
 If the knife is pulled Catherine Adams feels a cold shiver go down her spine. The lights are then turned on, making outside hard to see, mirror hides [[Irene Adams]] as she runs away.
 #### 3.3 Squire and Dr Beaver fight
+- Takes place in the [[Master Bedroom]] by default.
+- [[Squire Beaver]] and ⁠[[Dr Beaver]] can be heard arguing:
+> [!recite|clean no-t]
+>	  Squire Beaver: "She's gone, Corbyn, why shouldn't I?"
+>	  Dr Beaver: "You're really going to take that risk?" 
+>	  Squire Beaver: "I will NOT be intimidated by a ghost."
+>	  Dr Beaver: "SHE ISN'T -"
+>^Eavsedrop
+- Then he catches himself and the rest of conversation is inaudible.
+- [[Edwina Thimble]] is listening in from the [[Library]].
 #### 3.4 The Squire's Death
 ### 4 The Game is Apaw
 ### 5 A Shot in the Dark

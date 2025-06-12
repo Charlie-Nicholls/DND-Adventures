@@ -66,6 +66,3 @@ displayLink: "[[Downstairs Bathroom]]"
     - Isaac Newton - Apple Tree
 - These links can be found on a History check or by finding the books on these figures in the house.
 
-### Other
-
-

@@ -37,9 +37,3 @@ displayLink: "[[Downstairs Hallway]]"
 >	The gun found with Dr Beaver's body matches those you saw mounted here earlier. But there were two here before and now the mount is empty.
 >^Hard
 
-### Secret Passages
-None
-
-### Other
-
-

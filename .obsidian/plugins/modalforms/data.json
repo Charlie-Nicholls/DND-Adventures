@@ -732,6 +732,49 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Add New GOTD NPC",
+      "name": "GOTD NPC",
+      "customClassname": "",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Gender",
+          "label": "Gender:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "dataview",
+            "query": "['Male', 'Female', 'Gender Fluid', 'Non-Binary', 'Ungendered']"
+          }
+        },
+        {
+          "name": "Species",
+          "label": "Species",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "dataview",
+            "query": "['Beaver','Tortoise']"
+          }
+        }
+      ],
+      "version": "1",
+      "template": {
+        "createInsertCommand": false,
+        "createNoteCommand": false,
+        "parsedTemplate": []
+      }
     }
   ]
 }

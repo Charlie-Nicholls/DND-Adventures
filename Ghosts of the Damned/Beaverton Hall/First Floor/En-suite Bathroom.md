@@ -18,12 +18,4 @@ displayLink: "[[En-suite Bathroom]]"
 [[Master Bedroom]]
 
 ### Investigation Checks
-
 Nothing of interest.
-
-### Secret Passages
-None
-
-### Other
-
-

@@ -19,8 +19,6 @@ displayLink: "[[Library]]"
 
 ### Investigation Checks
 
-
-
 > [!recite|nbrd no-i]- Easy
 >	There are quite a few books in here from Russian authors in the original Russian.
 >^Easy
@@ -31,10 +29,4 @@ Any check here will find at least one of:
 - The plays of William Shakesdeer with The Globe Theater on the cover,
 - David Copperhead by Charles Chickens, the about the author section mentions he is buired in Poet's Corner,
 - Smell of ozone from lighting strike matches that of the study
-
-### Secret Passages
-None
-
-### Other
-
 

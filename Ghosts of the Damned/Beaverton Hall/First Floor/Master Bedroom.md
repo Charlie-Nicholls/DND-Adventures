@@ -32,9 +32,4 @@ displayLink: "[[Master Bedroom]]"
 >	By the bed is a half read copy of War and Peace in the original Russian and a half used packet of prescription painkillers. There is a check made out to Catherine Adams for a not small amount of money dated a week before Irene's death tucked away in a draw. There is a well thumbed copy of a children's book: "The Tortoise and the Hare" on the shelf that seems out of place.
 >^Hard
 
-### Secret Passages
-None
-
-### Other
-
 

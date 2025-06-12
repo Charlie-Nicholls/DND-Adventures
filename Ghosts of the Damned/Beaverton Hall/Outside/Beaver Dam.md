@@ -15,23 +15,11 @@ displayLink: "[[Beaver Dam]]"
 >^IntroText
 	
 ### Connections
+[[Guest House]] (locked)
 
 ### Investigation Checks
-
-> [!recite|nbrd no-i]- Easy
->	Introduction for players
->^Easy
-
-> [!recite|nbrd no-i]- Medium
->	Introduction for players
->^Medium
-
-> [!recite|nbrd no-i]- Hard
->	Introduction for players
->^Hard
-
-### Secret Passages
+Nothing of Interest
 
 ### Other
-
+There are several gates that allow water through the damn to generate more or less power. These are controlled from the [[Power Control Room]].
 

@@ -46,6 +46,3 @@ displayLink: "[[Cupboard Under Stairs]]"
 - If unlocked in the ⁠[[Séance Room]] it can be opened easily with the crowbar or with a Sleight of Hand check.
 - If not unlocked then it can be opened with an Athletics check with the crowbar.
 
-### Other
-
-

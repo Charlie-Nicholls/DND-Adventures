@@ -15,23 +15,18 @@ displayLink: "[[Guest House]]"
 >^IntroText
 	
 ### Connections
+[[Power Control Room]]
 
 ### Investigation Checks
 
-> [!recite|nbrd no-i]- Easy
->	Introduction for players
->^Easy
-
 > [!recite|nbrd no-i]- Medium
->	Introduction for players
+>	Amongst Myrtle's Belongings are some shoes with wheels in the heels, presumably used in her act.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard
->	Introduction for players
+>	Amongst Myrtle's Belongings are some shoes with wheels in the heels, presumably used in her act, and a small bag of white power that seems untouched.
 >^Hard
 
 ### Secret Passages
-
-### Other
-
+Passage to ⁠[[Power Control Room]] only hidden if they check this out before ⁠[[Irene Adams]] is killed.
 

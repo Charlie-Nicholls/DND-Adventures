@@ -4,14 +4,14 @@ level: 1
 ac: 10
 hp: 10
 modifier: 0
-race: "Bear"
-class: "Barbarian"
-subClass: "Path Of The Beast"
-cover: "/Assets/Images/Portrait.jpg"
-displayLink: "[[Alex Kuchef]]"
+race: Bear
+class: Barbarian
+subClass: Path Of The Beast
+displayLink: "[[Winnie Bearett]]"
+aliases: ["Winnie Dapooh Bearett","Misha Bearov"]
 ---
 
-###### Alex Kuchef
+###### Misha Bearov A.K.A Winnie Dapooh Bearett
 :FasPerson: Player Character | :FasQuoteLeft: Quote or tagline here :FasQuoteRight:
 ___
 > [!infobox|no-t right]

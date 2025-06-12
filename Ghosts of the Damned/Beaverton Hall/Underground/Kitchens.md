@@ -11,27 +11,19 @@ displayLink: "[[Kitchens]]"
 ---
 
 > [!recite|clean no-t]
->	Introduction for players
+>	The walls of the Kitchen are a grey granite. Much of the room is taken up various ovens, cookers, sinks, shelves and work surfaces. There is an area dedicated to storing ingredients in the back.
 >^IntroText
 	
 ### Connections
+[[Downstairs Hallway]]
 
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy
->	Introduction for players
+>	Knives can be found which act like daggers
 >^Easy
 
-> [!recite|nbrd no-i]- Medium
->	Introduction for players
->^Medium
-
 > [!recite|nbrd no-i]- Hard
->	Introduction for players
+>	A vial of poison can be found taped underneath one of the shelves.
 >^Hard
-
-### Secret Passages
-
-### Other
-
 

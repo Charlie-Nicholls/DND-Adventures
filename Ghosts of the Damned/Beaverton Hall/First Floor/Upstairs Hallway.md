@@ -24,12 +24,5 @@ displayLink: "[[Upstairs Hallway]]"
 [[Master Bedroom]]
 
 ### Investigation Checks
-
 Nothing of interest.
-
-### Secret Passages
-None
-
-### Other
-
 

@@ -35,9 +35,3 @@ displayLink: "[[Servants Quarters]]"
 >	There are quite a few scuff marks by the window through which Irene fell though seemingly only one set. Someone was struggling with something. The adjacent window is hard to see out of as a tree completely obscures the view, you see that a branch on the near side of the tree has recently broken off. There is also small trace of blood on the window frame of this window. This blood is still bright red, which must be fake as blood would have oxidsed a deeper red by now.
 >^Nat20
 
-### Secret Passages
-None
-
-### Other
-
-
