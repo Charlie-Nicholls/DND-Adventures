@@ -1,21 +1,22 @@
 ---
 type: pc
-level: 1
-ac: 10
-hp: 10
-modifier: 0
+level: 4
+ac: 14
+hp: 41
+modifier: 2
 race: Bear
 class: Barbarian
 subClass: Path Of The Beast
+cover: "/Ghosts of the Damned/Assests/imgChef.jpg"
 displayLink: "[[Winnie Bearett]]"
 aliases: ["Winnie Dapooh Bearett","Misha Bearov"]
 ---
 
 ###### Misha Bearov A.K.A Winnie Dapooh Bearett
-:FasPerson: Player Character | :FasQuoteLeft: Quote or tagline here :FasQuoteRight:
+:LiChefHat: Head Chef of Beaverton Hall
 ___
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgChef.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -27,24 +28,11 @@ ___
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 11 |
+>> | :LiEye: Passive Perception | 9 |
 >> | :FasMagnifyingGlass: Passive Investigation | 10 |
->> | :RiSpeakFill: Passive Insight | 11 |
+>> | :RiSpeakFill: Passive Insight | 9 |
 >> | :FasShield: Armour Class | `=this.ac` |
 >> | :FasHeart: Max Hit Points | `=this.hp` |
->
->> [!info]- STORYLINES
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND ([[#]]  OR [[The Party]])
->>SORT file.ctime DESC
->
->>[!note]- HISTORY
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
->>SORT file.ctime DESC
->
 >^InfoBox
 
 > [!infobox|no-t clean right]
@@ -63,18 +51,6 @@ action: {type: open, link: undefined, newTab: true}
 	
 ### Description
 Description
-
-### Motivations
-- List of Motivations
-
-### Magic Items / Abilities
-- None
-
-### Allies
-- [[Characters]] or [[Organisations]]
-
-### Enemies
-- [[Characters]] or [[Organisations]]
 
 ### Secrets
 - None

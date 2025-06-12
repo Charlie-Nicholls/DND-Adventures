@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "LiNotebook",
       "LiNotepadText",
       "FasMagnifyingGlass",
@@ -14,8 +15,7 @@
       "FasCamera",
       "FasCross",
       "RiPoliceBadgeFill",
-      "FasPersonMilitaryPointing",
-      "🎖"
+      "FasPersonMilitaryPointing"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -131,5 +131,6 @@
   "Ghosts of the Damned/Cutscenes.md": "FasBook",
   "Ghosts of the Damned/General Clues.md": "FasMagnifyingGlass",
   "Ghosts of the Damned/YPI Game/Session 01 (2025-06-11).md": "LiNotepadText",
-  "Ghosts of the Damned/YPI Game": "LiNotebook"
+  "Ghosts of the Damned/YPI Game": "LiNotebook",
+  "Ghosts of the Damned/Assets": "FasImage"
 }
