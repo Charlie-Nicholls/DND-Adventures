@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouse",
       "FasImage",
       "LiNotebook",
       "LiNotepadText",
@@ -14,8 +15,7 @@
       "FasBook",
       "FasCamera",
       "FasCross",
-      "RiPoliceBadgeFill",
-      "FasPersonMilitaryPointing"
+      "RiPoliceBadgeFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -68,7 +68,7 @@
   "_Assets/DM Toolbox/NPC Creation.md": "FasPerson",
   "_Assets/DM Toolbox/Working Note.md": "LiNotebookPen",
   "Ghosts of the Damned/Ghosts of the Damned.md": "FasGhost",
-  "Ghosts of the Damned": "FasGhost",
+  "Ghosts of the Damned": "FasHouse",
   "Ghosts of the Damned/Party": "FasImagePortrait",
   "Spaceship/Spaceship.md": "FasShuttleSpace",
   "Spaceship": "FasShuttleSpace",
