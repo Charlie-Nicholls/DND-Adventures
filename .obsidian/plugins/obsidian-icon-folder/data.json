@@ -41,8 +41,6 @@
   },
   "Assets/PDF": "FasFilePdf",
   "Assets/Videos": "FasVideo",
-  "Session Notes": "LiNotebookPen",
-  "Compendium/Lore/Deities": "FasPersonRays",
   "Compendium/Lore/Events": "FasCalendar",
   "Compendium/Lore/Organizations": "FasSitemap",
   "Compendium/Party/Player Characters": "FasUser",
