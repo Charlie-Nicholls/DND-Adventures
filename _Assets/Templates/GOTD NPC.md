@@ -48,7 +48,11 @@ ___
 
 > [!infobox|no-t right]
 > ![[portrait.jpg|350]]
->
+> 
+> | Name |
+> | :----: |
+> | :FasUser: <% name %> | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | <% gender %> |
