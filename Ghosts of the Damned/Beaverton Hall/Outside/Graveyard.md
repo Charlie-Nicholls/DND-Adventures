@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Outside]]"
-displayLink: "[[Graveyard]]"
 ---
 ###### Graveyard
 <span class="sub2">:FasHouse: Outside</span>
@@ -50,7 +49,7 @@ displayLink: "[[Graveyard]]"
 
 
 ### Secret Passages
-- Top of the coffin is a panel which can be removed and leads to a tunnel dug by [[Harriet Adder]] to the chapel.
+- Top of the coffin is a panel which can be removed and leads to a tunnel dug by `= [[Ghosts of the Damned]].Villain` to the chapel.
 	- `= [[Ghosts of the Damned]].Psychic`'s body has been moved from the grave to the end of the tunnel in preparation for Irene replacing her.
 
 

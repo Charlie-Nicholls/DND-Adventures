@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasUser",
+      "LiCircle",
       "FasFish",
       "LiAlignJustify",
       "RiKnifeBloodFill",
@@ -13,9 +15,7 @@
       "FasPerson",
       "RiLightbulbFill",
       "FasCircleExclamation",
-      "RiStickyNoteFill",
-      "FasImage",
-      "RiToolsFill"
+      "RiStickyNoteFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -104,9 +104,7 @@
   "Ghosts of the Damned/NPCs (Major)": "FasUsers",
   "Ghosts of the Damned/NPCs (Minor)": "FasUsers",
   "Ghosts of the Damned/NPCs (Major)/Aurora Fable.md": "LiStars",
-  "Ghosts of the Damned/NPCs (Major)/Doctor Redmund Herring.md": "FasStethoscope",
   "Ghosts of the Damned/NPCs (Major)/Dr Corbyn Beaver.md": "FasStethoscope",
-  "Ghosts of the Damned/NPCs (Major)/Harriet Adder.md": "FasCoins",
   "Ghosts of the Damned/NPCs (Major)/Irene Adams.md": "FasPerson",
   "Ghosts of the Damned/NPCs (Major)/Lady Beaver.md": "LiStars",
   "Ghosts of the Damned/NPCs (Major)/Ruffles Hound.md": "LiConstruction",
@@ -140,5 +138,9 @@
   "Ghosts of the Damned/Party/Author.md": "RiQuillPenFill",
   "Ghosts of the Damned/Party/Chef.md": "LiChefHat",
   "Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring.md": "FasFish",
-  "Ghosts of the Damned/Party/Psychic.md": "LiStars"
+  "Ghosts of the Damned/Party/Psychic.md": "LiStars",
+  "Ghosts of the Damned/Party/Villain.md": "FasCoins",
+  "Ghosts of the Damned/NPCs (Major)/Dr Redmund Herring.md": "FasStethoscope",
+  "Ghosts of the Damned/Assets/Tokens": "LiCircle",
+  "Ghosts of the Damned/Assets/Characters": "FasUser"
 }

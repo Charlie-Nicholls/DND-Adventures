@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Aurora Fable]]"
 alias: "Weasel Brown"
 ---
 
@@ -9,7 +8,21 @@ alias: "Weasel Brown"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgAuroraFable.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Aurora Fable | 
+> 
+> | Type | Stat |
+> | ---- | ---- |
+> | :FasVenusMars: Gender | Female |
+> | :FasUser: Species | Ferret |
+> ![[imgWeaselBrown.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Weasel Brown | 
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -32,15 +45,15 @@ ___
 - Attempting to con ⁠[[Lady Beaver]] for as much money as possible.
     - Stealing valuables from the house.
     - Embezzled money from the [[Séance Room]] budget.
-- Whilst in prison took a deal to stab ⁠[[Harriet Adder]].
+- Whilst in prison took a deal to stab ⁠`= [[Ghosts of the Damned]].Villain`.
     - Judges would be blackmailed to release on appeal,
-    - Given this offer through ⁠[[Dr Beaver]],
-    - ⁠[[Dr Beaver]] also told her about ⁠[[Lady Beaver]] casually, sparking the idea to con her.
+    - Given this offer through ⁠[[Dr Corbyn Beaver]],
+    - ⁠[[Dr Corbyn Beaver]] also told her about ⁠[[Lady Beaver]] casually, sparking the idea to con her.
 - Speaks Russian
 
 ### Knowledge
-- [[Harriet Adder]] faked her death
-- [[Dr Beaver]] is a part of [[Harriet Adder]]'s network
+- `= [[Ghosts of the Damned]].Villain` faked her death
+- [[Dr Corbyn Beaver]] is a part of `= [[Ghosts of the Damned]].Villain`'s network
 - Embezzled money from [[Séance Room]]
 
 ### Alibi 

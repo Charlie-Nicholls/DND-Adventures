@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Catherine Adams]]"
 ---
 
 ###### Catherine Adams
@@ -8,8 +7,12 @@ displayLink: "[[Catherine Adams]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgCatherineAdams.png|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Catherine Adams | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

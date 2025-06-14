@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Colonel Hawkings]]"
 ---
 
 ###### Colonel Hawkings
@@ -8,8 +7,12 @@ displayLink: "[[Colonel Hawkings]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgColonelHawkings.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Colonel Hawkings | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |

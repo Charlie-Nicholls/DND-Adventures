@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Vicar Ian Prescott]]"
 ---
 
 ###### Vicar Ian Prescott
@@ -8,8 +7,12 @@ displayLink: "[[Vicar Ian Prescott]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgIanPrescott.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Vicar Ian Prescott | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |

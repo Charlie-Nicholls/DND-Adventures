@@ -13,7 +13,7 @@
 > By `= [[Ghosts of the Damned]].Author`
 > 
 > **Chapter 1: Suspicious Circumstances**
-> It has been the great honour of my life to document for the wider public, the cases to which `= [[Ghosts of the Damned]].Detective` has turned his attention. From our first meeting in "The Mimicry Murders", through the infamous "Hound and the Badgervilles" and, of course his unrelenting investigation of criminal mastermind Harriet Adder, and the betrayal he ultimately faced. But no case has been as haunting and nothing has so tested my belief in the rational, as the events which occurred on the night of Squire Beaver's 50th birthday. It began in the summer just gone, in the way of many cases prior: with a knock at the door and a cry for help.
+> It has been the great honour of my life to document for the wider public, the cases to which `= [[Ghosts of the Damned]].Detective` has turned his attention. From our first meeting in "The Mimicry Murders", through the infamous "Hound and the Badgervilles" and, of course his unrelenting investigation of criminal mastermind `= [[Ghosts of the Damned]].Villain`, and the betrayal he ultimately faced. But no case has been as haunting and nothing has so tested my belief in the rational, as the events which occurred on the night of Squire Beaver's 50th birthday. It began in the summer just gone, in the way of many cases prior: with a knock at the door and a cry for help.
 > ^Chapter1
 
 #### 1.1 The Death of Irene

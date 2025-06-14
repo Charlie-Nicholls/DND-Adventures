@@ -8,7 +8,7 @@ Author: "Featherwick Crowley"
 Chef: "Winnie Bearett"
 ChefRussian: "Misha Bearov"
 Psychic: "Mystic Myrtle"
-Villian: "Harriet Adder"
+Villain: "Harriet Adder"
 ---
 ###### Ghosts of the Damned
 <span class="sub2"> :FasCircleExclamation: Quest | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>

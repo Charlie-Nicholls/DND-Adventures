@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Matilda Molesly]]"
 ---
 
 ###### Matilda Molesly
@@ -8,8 +7,12 @@ displayLink: "[[Matilda Molesly]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgMatildaMolesly.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Matilda Molesly | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Bucky Kentucky]]"
 ---
 
 ###### Bucky Kentucky
@@ -8,8 +7,12 @@ displayLink: "[[Bucky Kentucky]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgBuckyKentucky.jpg]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Bucky Kentucky | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |

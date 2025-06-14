@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Squire Beaver]]"
 ---
 
 ###### William Thornwall Bach II A.K.A Squire Beaver
@@ -8,8 +7,12 @@ displayLink: "[[Squire Beaver]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgSquireBeaver.png|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Squire Beaver | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -30,8 +33,8 @@ A former military man, and British spy in Russia during The Great war who was fo
 - Bullet or shrapnel lodged in chest, iron core + lead lining.
 - Infiltrated The Kommodore Sect.
     - Framed someone as a mole and `= [[Ghosts of the Damned]].Chef` for killing him.
-- Was in the employ of ⁠[[Harriet Adder]] and sold secrets to her.
-- Was in a large amount of debt pre-war, cleared after work with [[Harriet Adder]]
+- Was in the employ of ⁠`= [[Ghosts of the Damned]].Villain` and sold secrets to her.
+- Was in a large amount of debt pre-war, cleared after work with `= [[Ghosts of the Damned]].Villain`
 
 ### Knowledge
 - 

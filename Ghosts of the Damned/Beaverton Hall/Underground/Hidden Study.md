@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Underground]]"
-displayLink: "[[Hidden Study]]"
 ---
 ###### Hidden Study
 <span class="sub2">:FasHouse: Underground</span>
@@ -73,7 +72,7 @@ displayLink: "[[Hidden Study]]"
 > <br>
 > 
 >> [!boxed|no-t]
->> The letters document in detail years of secrets, both British and Russian, sold by Squire Beaver to Harriet Adder during his career as a spy. Letters since Harriet's death are addressed to her previous subordinates and get increasingly angry in tone, suggesting he viewed himself as her natural successor and wished to lead the organisation.
+>> The letters document in detail years of secrets, both British and Russian, sold by Squire Beaver to `= [[Ghosts of the Damned]].Villain` during his career as a spy. Letters since `= [[Ghosts of the Damned]].Villain`'s death are addressed to her previous subordinates and get increasingly angry in tone, suggesting he viewed himself as her natural successor and wished to lead the organisation.
 >^Letters
 
 > [!recite|nbrd no-i]- `= [[Ghosts of the Damned]].ChefRussian` File

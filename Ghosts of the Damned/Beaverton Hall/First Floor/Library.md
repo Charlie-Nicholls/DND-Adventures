@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[First Floor]]"
-displayLink: "[[Library]]"
 ---
 ###### Library
 <span class="sub2">:FasHouse: First Floor</span>

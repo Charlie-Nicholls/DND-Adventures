@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/k1mpna42
-share_updated: 2025-06-14T02:51:07+01:00
+share_updated: 2025-06-14T12:36:40+01:00
 ---
 ###### Timeline
 <span class="sub2">:FasClock: Plan</span>
@@ -9,7 +9,7 @@ share_updated: 2025-06-14T02:51:07+01:00
 
 ### Stage 1 - [[Irene Adams]]' Fake Death
 **The Plan**
-[[Irene Adams]] will fake her death by throwing the real `= [[Ghosts of the Damned]].Psychic`'s body out of the [[Servants Quarters]]' window before climbing out of another window down a tree which is obscuring this from view. [[Harriet Adder]]'s henchman [[Ruffles Hound]] will be positioned closest and will run over to “help”. Picking the body up and bringing it behind a bush, it is then hidden in the [[Storage Area]] and [[Irene Adams]] swaps in. `= [[Ghosts of the Damned]].Psychic` will be out on the lawn with [[Catherine Adams]] and `= [[Ghosts of the Damned]].Chef`. The only important thing here is when the ambulance arrives, [[Irene Adams]] needs to be either left alone or with [[Ruffles Hound]] so she can replace the original body for them to find.
+[[Irene Adams]] will fake her death by throwing the real `= [[Ghosts of the Damned]].Psychic`'s body out of the [[Servants Quarters]]' window before climbing out of another window down a tree which is obscuring this from view. `= [[Ghosts of the Damned]].Villain`'s henchman [[Ruffles Hound]] will be positioned closest and will run over to “help”. Picking the body up and bringing it behind a bush, it is then hidden in the [[Storage Area]] and [[Irene Adams]] swaps in. `= [[Ghosts of the Damned]].Psychic` will be out on the lawn with [[Catherine Adams]] and `= [[Ghosts of the Damned]].Chef`. The only important thing here is when the ambulance arrives, [[Irene Adams]] needs to be either left alone or with [[Ruffles Hound]] so she can replace the original body for them to find.
 
 **What you need to do**
 ***Low*** - Comfort [[Catherine Adams]] after [[Irene Adams]] dies and guide her away from the body.
@@ -35,7 +35,7 @@ When [[Squire Beaver]] goes to [[Squire Beaver's Study]] after dinner, you need 
 
 ### Stage 4 - The Death of [[Dr Corbyn Beaver]]
 **The Plan**
-After his father's death, [[Dr Corbyn Beaver]] will begin to consider telling `= [[Ghosts of the Damned]].Detective` everything about his involvement with [[Harriet Adder]]. I will be making rolls for this as time goes on, becoming more likely each time. You will have slipped [[Dr Corbyn Beaver]] a note telling him to meet you outside at a later time. It is up to you to find an opportunity to get away from the group and meet [[Dr Corbyn Beaver]], if you do not then this murder will not happen or happen after he tells `= [[Ghosts of the Damned]].Detective` his information.
+After his father's death, [[Dr Corbyn Beaver]] will begin to consider telling `= [[Ghosts of the Damned]].Detective` everything about his involvement with `= [[Ghosts of the Damned]].Villain`. I will be making rolls for this as time goes on, becoming more likely each time. You will have slipped [[Dr Corbyn Beaver]] a note telling him to meet you outside at a later time. It is up to you to find an opportunity to get away from the group and meet [[Dr Corbyn Beaver]], if you do not then this murder will not happen or happen after he tells `= [[Ghosts of the Damned]].Detective` his information.
 You take the rifles from the [[Downstairs Hallway]] and his wife’s coat from the adjoining [[Cupboard Under Stairs]] and meet him outside far away from where people are, shooting him in time with a lightning strike to cover the sound. His body is then dragged behind the mirror in the [[Séance Room]], left with one of the rifles and you run round the other side. Dressed in the matching coat you pretend to shoot yourself, fall to the floor. [[Lady Beaver]] will be in the [[Séance Room]] and will see this in the mirror. She will run out the opposite side to you and sees the real body, you run off the right side, ditch the coat and gun in the [[Storage Area]] and come into the [[Séance Room]] to see this scene.
 
 **What you need to do**

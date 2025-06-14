@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Outside]]"
-displayLink: "[[Guest House]]"
 ---
 ###### Guest House
 <span class="sub2">:FasHouse: Outside</span>

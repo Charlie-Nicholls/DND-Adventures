@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Dr Redmund Herring]]"
 ---
 
 ###### Dr Redmund Herring
@@ -8,8 +7,12 @@ displayLink: "[[Dr Redmund Herring]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgDrRedmundHerring.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Dr Redmund Herring | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |

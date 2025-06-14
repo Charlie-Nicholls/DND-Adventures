@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Ground Floor]]"
-displayLink: "[[Dr Corbyn Beaver's Study]]"
 ---
 ###### Dr Corbyn Beaver's Study
 <span class="sub2">:FasHouse: Ground Floor</span>
@@ -55,7 +54,7 @@ displayLink: "[[Dr Corbyn Beaver's Study]]"
 >
 > $\quad$ If decoded using book cipher:
 >> [!boxed|no-t]
->> "Smuggle a knife to Weasel Brown with instructions to stab Harriet Adder in the gut in return for bribing her appeal Judge. Further instructions to follow"
+>> "Smuggle a knife to Weasel Brown with instructions to stab `= [[Ghosts of the Damned]].Villain` in the gut in return for bribing her appeal Judge. Further instructions to follow"
 
 ### Other
 - Tortoise and Hare book can be found here.

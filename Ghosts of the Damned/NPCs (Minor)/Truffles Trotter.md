@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Truffles Trotter]]"
 ---
 
 ###### Truffles Trotter
@@ -8,8 +7,12 @@ displayLink: "[[Truffles Trotter]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgTrufflesTrotter.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Truffles Trotter | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -23,10 +26,10 @@ ___
 >^IntroText
 
 ### Description
-Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠[[Harriet Adder]] and pretends to be a police officer at the end of the night. Is there to keep `= [[Ghosts of the Damned"]].Author` occupied and kill him if ⁠`= [[Ghosts of the Damned]].Detective` doesn't jump.
+Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠`= [[Ghosts of the Damned]].Villain` and pretends to be a police officer at the end of the night. Is there to keep `= [[Ghosts of the Damned"]].Author` occupied and kill him if ⁠`= [[Ghosts of the Damned]].Detective` doesn't jump.
 
 ### Secrets
-- Works for [[Harriet Adder]]
+- Works for `= [[Ghosts of the Damned]].Villain`
 
 ### Knowledge
 - 

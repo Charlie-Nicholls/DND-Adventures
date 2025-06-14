@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Underground]]"
-displayLink: "[[Kitchens]]"
 ---
 ###### Kitchens
 <span class="sub2">:FasHouse: Underground</span>

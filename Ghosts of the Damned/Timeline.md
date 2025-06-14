@@ -5,7 +5,7 @@
 
 ### 1 Suspicious Circumstances
 #### 1.0 Opening
-Watson sitting down to write The Ghost of the Damned. Scene shifts to earlier when Catherine arrives at `= [[Ghosts of the Damned]].Detective`/Crowley's house to ask for help as she believes her wife was murdered.
+`= [[Ghosts of the Damned]].Author` sitting down to write The Ghost of the Damned. Scene shifts to earlier when Catherine arrives at `= [[Ghosts of the Damned]].Detective`/Crowley's house to ask for help as she believes her wife was murdered.
 #### 1.1 The Death of Irene
 - Flashback to several weeks earlier. Irene's Body is discovered. Introduce `= [[Ghosts of the Damned]].Chef` and `= [[Ghosts of the Damned]].Psychic`.
 - After a minute ⁠[[Irene Adams]] is seen opening a window in the ⁠servants-quarters and seeming to start to step out onto the ledge.
@@ -42,8 +42,8 @@ Watson sitting down to write The Ghost of the Damned. Scene shifts to earlier wh
 ### 2 Thunderbolt and Lightning
 #### 2.1 Guests arrive
 #### 2.2 `= [[Ghosts of the Damned]].Detective` meets Dr Beaver 
-Flashback to `= [[Ghosts of the Damned]].Detective` viewing [[Harriet Adder]]'s "dead" body
-- `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠[[Harriet Adder]] is confined.
+Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the Damned]].Villain`'s "dead" body
+- `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠`= [[Ghosts of the Damned]].Villain` is confined.
 - He meets ⁠[[Dr Corbyn Beaver]] who says "I understand you insisted on seeing her body. It is unusual but I understand why in this case, there is a need to be extra sure but I can assure you she most definitely is dead".
 - He explains that she was stabbed in the stomach by Weasel Brown, they're unsure how she got the knife. Her body is on an examining table and ⁠`= [[Ghosts of the Damned]].Detective` is allowed to examine it briefly.
 
@@ -56,7 +56,7 @@ Flashback to `= [[Ghosts of the Damned]].Detective` viewing [[Harriet Adder]]'s 
 [[Lady Beaver]] calls [[Aurora Fable]], `= [[Ghosts of the Damned]].Psychic`, [[Catherine Adams]], [[Squire Beaver]] and PCs who want to do a séance to attempt to contact [[Irene Adams]]. Doors to outside are locked, [[Lady Beaver]] has keys, should slow down players chasing [[Irene Adams]]. `= [[Ghosts of the Damned]].Psychic` is sat next to [[Catherine Adams]]. Starts with standard stuff but then [[Irene Adams]] appears outside. She seems slightly translucent due to partial lighting on the one-way mirror. She is heard to shout:
 "I found what you did to her. Stay away from my wife you monster."
 
-[[Irene Adams]] has discovered the body of `= [[Ghosts of the Damned]].Psychic` and worked out [[Harriet Adder]]. [[Harriet Adder]] is messaged on an insight check:
+[[Irene Adams]] has discovered the body of `= [[Ghosts of the Damned]].Psychic` and worked out `= [[Ghosts of the Damned]].Villain`. `= [[Ghosts of the Damned]].Villain` is messaged on an insight check:
 > [!boxed|no-t]
 > "I found what you did to her" is directed at you, it seems she has found the body of the real `= [[Ghosts of the Damned]].Psychic` while hiding in the guest house and worked out you are an impostor. You think that she can be made to finish her part of the plan after which you can kill her anyway if you threaten Catherine. You can either mouth 'do your job or else' or hold a knife visibly above and behind Catherine such that only Irene can see if no-one turns around. The latter is more likely to work but is more risky, which do you choose?"
 >^IntroText

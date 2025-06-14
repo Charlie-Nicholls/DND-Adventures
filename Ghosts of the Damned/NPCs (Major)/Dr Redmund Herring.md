@@ -1,15 +1,18 @@
 ---
 type: npc
-displayLink: "[[Doctor Redmund Herring]]"
 ---
 
-###### Doctor Redmund Herring
+###### Dr Redmund Herring
 <span class="sub2">Male Herring </span>
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgDrRedmundHerring.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Dr Redmund Herring | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -38,7 +41,7 @@ None
 
 ### Statblock
 >```statblock
-> name: Doctor Redmund Herring
+> name: Dr Redmund Herring
 > speed: 15 (35 in water)
 > ac: 11
 > hp: 17

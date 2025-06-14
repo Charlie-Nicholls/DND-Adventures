@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Ground Floor]]"
-displayLink: "[[Storage Area]]"
 ---
 ###### Storage Area
 <span class="sub2">:FasHouse: Ground Floor</span>

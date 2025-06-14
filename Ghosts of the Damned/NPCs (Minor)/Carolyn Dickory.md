@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Carolyn Dickory]]"
 ---
 
 ###### Carolyn Dickory
@@ -8,8 +7,12 @@ displayLink: "[[Carolyn Dickory]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgCarolynDickory.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Carolyn Dickory | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

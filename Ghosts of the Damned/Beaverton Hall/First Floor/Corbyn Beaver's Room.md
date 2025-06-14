@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[First Floor]]"
-displayLink: "[[Corbyn Beaver's Room]]"
 ---
 ###### Corbyn Beaver's Room
 <span class="sub2">:FasHouse: First Floor</span>

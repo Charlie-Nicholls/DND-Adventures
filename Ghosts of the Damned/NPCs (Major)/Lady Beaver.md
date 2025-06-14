@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Lady Beaver]]"
 ---
 
 ###### Beatrice Bach A.K.A. Lady Beaver
@@ -8,8 +7,12 @@ displayLink: "[[Lady Beaver]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgLadyBeaver.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Lady Beaver | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

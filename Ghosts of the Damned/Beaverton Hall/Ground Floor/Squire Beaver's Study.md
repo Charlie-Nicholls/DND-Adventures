@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Ground Floor]]"
-displayLink: "[[Squire Beaver's Study]]"
 ---
 ###### Squire Beaver's Study
 <span class="sub2">:FasHouse: Ground Floor</span>
@@ -13,7 +12,7 @@ displayLink: "[[Squire Beaver's Study]]"
 > [!boxed|no-t]
 > Squire Beaver's study is rather sparser than one might expect. There is an ornate desk with a few scattered papers and the standard array of stationary upon it. By it's side is a desk with a bulky telephone built into the wall, a few folders and an open telephone book. There are also a few books on shelves but the whole place seems gives the feel of a room there to give the impression of a man hard at work more than that of a room used to bustling activity.
 >^IntroText
-	
+
 ### Connections
 [[Living Room]]
 [[Hidden Study]] (secret)
@@ -82,6 +81,7 @@ displayLink: "[[Squire Beaver's Study]]"
 - Pope Rondo Rat is an anagram of open trapdoor and the numbers correspond to the letters 'open trapdoor'
 - Rondo Rat is not the pope as the vicar can tell them or they will know on a History check
 - Phone Book is open to the following page:
+
 > [!boxed|no-t]
 > Dr Redmund Herring - 080128841913
 > Rufus Hound - 017078965405 

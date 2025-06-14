@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[First Floor]]"
-displayLink: "[[Storage Cupboard]]"
 ---
 ###### Storage Cupboard
 <span class="sub2">:FasHouse: First Floor</span>
@@ -21,5 +20,5 @@ displayLink: "[[Storage Cupboard]]"
 Nothing of interest.
 
 ### Other
-[[Colonel Hawkings]] will lock [[Dr Redmund Herring]] in here until his innocence is proven.
+[[Colonel Hawkings]] will lock [[Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring]] in here until his innocence is proven.
 

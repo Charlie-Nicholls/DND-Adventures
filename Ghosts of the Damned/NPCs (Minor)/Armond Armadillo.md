@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Armond Armadillo]]"
 ---
 
 ###### Armond Armadillo
@@ -8,8 +7,12 @@ displayLink: "[[Armond Armadillo]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgArmondArmadillo.png|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Armond Armadillo | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |

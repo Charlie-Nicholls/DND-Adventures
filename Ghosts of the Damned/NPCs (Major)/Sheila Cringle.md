@@ -1,6 +1,6 @@
 ---
 type: npc
-displayLink: "[[Sheila Cringle]]"
+alias: "Zykova Nikitova"
 ---
 
 ###### Zykova Nikitova A.K.A Sheila Cringle
@@ -8,8 +8,12 @@ displayLink: "[[Sheila Cringle]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgShielaCringle.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Sheila Cringle | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Irene Adams]]"
 ---
 
 ###### Irene Adams
@@ -9,7 +8,11 @@ ___
 
 > [!infobox|no-t right]
 > ![[portrait.jpg|350]]
->
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Irene Adams | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |

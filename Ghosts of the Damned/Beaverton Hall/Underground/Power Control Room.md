@@ -3,7 +3,6 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Underground]]"
-displayLink: "[[Power Control Room]]"
 ---
 ###### Power Control Room
 <span class="sub2">:FasHouse: Underground</span>

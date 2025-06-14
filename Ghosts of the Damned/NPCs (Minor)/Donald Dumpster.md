@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Donald Dumpster]]"
 ---
 
 ###### Donald Dumpster
@@ -8,8 +7,12 @@ displayLink: "[[Donald Dumpster]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgDonaldDumpster.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Donald Dumpster | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -23,10 +26,10 @@ ___
 >^IntroText
 
 ### Description
-Introduced as Officer Donald Dumpster, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠[[Harriet Adder]] and pretends to be a police officer at the end of the night. Is there to keep ⁠`= [[Ghosts of the Damned]].Author` occupied and kill him if ⁠`= [[Ghosts of the Damned]].Detective` doesn't jump.
+Introduced as Officer Donald Dumpster, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠`= [[Ghosts of the Damned]].Villain` and pretends to be a police officer at the end of the night. Is there to keep ⁠`= [[Ghosts of the Damned]].Author` occupied and kill him if ⁠`= [[Ghosts of the Damned]].Detective` doesn't jump.
 
 ### Secrets
-- Works for [[Harriet Adder]]
+- Works for `= [[Ghosts of the Damned]].Villain`
 
 ### Knowledge
 - 
