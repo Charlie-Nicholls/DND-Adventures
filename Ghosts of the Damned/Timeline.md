@@ -40,21 +40,22 @@
 >^Hard
 
 ### 2 Thunderbolt and Lightning
+Read [[Cutscenes#^Chapter2|Cutscene]]
 #### 2.1 Guests arrive
-#### 2.2 `= [[Ghosts of the Damned]].Detective` meets Dr Beaver 
-Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the Damned]].Villain`'s "dead" body
+#### 2.2 `= [[Ghosts of the Damned]].Detective` meets [[Dr Corbyn Beaver]] 
+Occurs whenever `= [[Ghosts of the Damned]].Detective` talks to [[Dr Corbyn Beaver]], or at the start of [[#4 The Game is Apaw]] if they haven't spoken by then.
+- Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the Damned]].Villain`'s "dead" body
 - `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠`= [[Ghosts of the Damned]].Villain` is confined.
 - He meets ⁠[[Dr Corbyn Beaver]] who says "I understand you insisted on seeing her body. It is unusual but I understand why in this case, there is a need to be extra sure but I can assure you she most definitely is dead".
 - He explains that she was stabbed in the stomach by Weasel Brown, they're unsure how she got the knife. Her body is on an examining table and ⁠`= [[Ghosts of the Damned]].Detective` is allowed to examine it briefly.
 
-
-
 #### 2.3 Dinner Begins
 ### 3 Very Very Frightening
+Read [[Cutscenes#^Chapter3|Cutscene]]
 #### 3.1 Irene's Ghost
+Read [[Cutscenes#^Chapter3-1|Cutscene]]
 #### 3.2 Séance
-[[Lady Beaver]] calls [[Aurora Fable]], `= [[Ghosts of the Damned]].Psychic`, [[Catherine Adams]], [[Squire Beaver]] and PCs who want to do a séance to attempt to contact [[Irene Adams]]. Doors to outside are locked, [[Lady Beaver]] has keys, should slow down players chasing [[Irene Adams]]. `= [[Ghosts of the Damned]].Psychic` is sat next to [[Catherine Adams]]. Starts with standard stuff but then [[Irene Adams]] appears outside. She seems slightly translucent due to partial lighting on the one-way mirror. She is heard to shout:
-"I found what you did to her. Stay away from my wife you monster."
+[[Lady Beaver]] calls [[Aurora Fable]], `= [[Ghosts of the Damned]].Psychic`, [[Catherine Adams]], [[Squire Beaver]] and PCs who want to do a séance to attempt to contact [[Irene Adams]]. Doors to outside are locked, [[Lady Beaver]] has keys, should slow down players chasing [[Irene Adams]]. `= [[Ghosts of the Damned]].Psychic` is sat next to [[Catherine Adams]]. Allow players to lead for a while, then read [[Cutscenes#^Chapter3-2|Cutscene]].
 
 [[Irene Adams]] has discovered the body of `= [[Ghosts of the Damned]].Psychic` and worked out `= [[Ghosts of the Damned]].Villain`. `= [[Ghosts of the Damned]].Villain` is messaged on an insight check:
 > [!boxed|no-t]
@@ -63,8 +64,7 @@ Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the D
 
 If the knife is pulled Catherine Adams feels a cold shiver go down her spine. The lights are then turned on, making outside hard to see, mirror hides [[Irene Adams]] as she runs away.
 #### 3.3 Squire and Dr Beaver fight
-- Takes place in the [[Master Bedroom]] by default.
-- [[Squire Beaver]] and ⁠[[Dr Corbyn Beaver]] can be heard arguing:
+[[Squire Beaver]] and ⁠[[Dr Corbyn Beaver]] can be heard arguing in the [[Master Bedroom]]. [[Dr Corbyn Beaver]] is trying to convince him to back off his attempts to control `= [[Ghosts of the Damned]].Villain`'s network, and when he refuses, quietly tells him she is still alive.
 
 > [!boxed|no-t]
 > Squire Beaver: "She's gone, Corbyn, why shouldn't I?"
@@ -75,6 +75,7 @@ If the knife is pulled Catherine Adams feels a cold shiver go down her spine. Th
 - Then he catches himself and the rest of conversation is inaudible.
 - [[Edwina Thimble]] is listening in from the [[Library]].
 #### 3.4 The Squire's Death
+After this conversation, [[Squire Beaver]] starts to fear for his life, and resolves to tell `= [[Ghosts of the Damned]].Detective` about his involvement with `= [[Ghosts of the Damned]].Villain`. He heads into [[Squire Beaver's Study]] and uses the phone to open the trapdoor to his [[Hidden Study]]. He calls `= [[Ghosts of the Damned]].Detective` in as he replaces the phone, sits at his desk and pours a glass of whiskey from a bottle [[Dr Redmund Herring]] gifted him. Before he says anything useful however, [[Irene Adams]] starts ramping up the power in the [[Power Control Room]]. Read [[Cutscenes#^Chapter3-4In|Cutscene]] and [[Cutscenes#^Chapter3-4Out|Cutscene]].
 ### 4 The Game is Apaw
 ### 5 A Shot in the Dark
 #### 5.1 The Death of Dr Corbyn Beaver

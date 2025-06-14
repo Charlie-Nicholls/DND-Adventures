@@ -47,10 +47,16 @@
 **Inside The Office**
 > [!boxed|no-t]
 > The lights begin to flicker, you hear a loud crash of thunder and the rush of water from the dam seems to intensify before the bulbs burst, plunging the room into darkness. You hear a distant laughter that for a moment you think you recognise. Then the Squire stands up and stumbles sideways. You hear a click and the sound of various objects clattering to the floor and the squire grunts. You see him open a draw and withdraw a knife which he then turns upon himself. His face is strained, eyes seeming to stare at something he can't see and the knife enters his chest. He struggles for a few seconds before collapsing in a heap before you, knife still clutched in his paws.
->^Chapter3-4
+>^Chapter3-4In
 
 **Outside The Office (Perception Check)**
 
 > [!boxed|no-t]
 > The lights begin to flicker, you hear a loud crash of thunder and the rush of water from the dam seems to intensify. From inside the Squire's study a clattering sound can be heard and then a few seconds later a loud thump. Not long after the sounds die down and the lights return to normal.
->^Chapter3-4
+>^Chapter3-4Out
+
+### 4 The Game is Apaw
+> [!boxed|no-t]
+> **Chapter 4: The Game is Apaw**
+> 
+>^Chapter4

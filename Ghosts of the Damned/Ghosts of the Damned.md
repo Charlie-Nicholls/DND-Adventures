@@ -1,7 +1,7 @@
 ---
 type: adventure
 level: 4
-players: 3-5
+players: 3-4
 length: 6-8
 Detective: "Canis"
 Author: "Featherwick Crowley"
@@ -11,7 +11,7 @@ Psychic: "Mystic Myrtle"
 Villain: "Harriet Adder"
 ---
 ###### Ghosts of the Damned
-<span class="sub2"> :FasCircleExclamation: Quest | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
+<span class="sub2"> :RiKnifeBloodFill: Murder Mystery | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
 
 ---
 
