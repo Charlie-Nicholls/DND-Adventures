@@ -10,8 +10,8 @@ displayLink: "[[Library]]"
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Connections
@@ -20,7 +20,10 @@ displayLink: "[[Library]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy
->	There are quite a few books in here from Russian authors in the original Russian.
+> <br>
+> 
+>> [!boxed|no-t]
+>> There are quite a few books in here from Russian authors in the original Russian.
 >^Easy
 
 Any check here will find at least one of:

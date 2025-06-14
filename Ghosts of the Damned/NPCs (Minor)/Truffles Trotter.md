@@ -18,12 +18,12 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description
-Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠[[Harriet Adder]] and pretends to be a police officer at the end of the night. Is there to keep ⁠[[Featherwick Crowley]] occupied and kill him if ⁠[[Canis]] doesn't jump.
+Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s construction company and so for ⁠[[Harriet Adder]] and pretends to be a police officer at the end of the night. Is there to keep `= [[Ghosts of the Damned"]].Author` occupied and kill him if ⁠`= [[Ghosts of the Damned]].Detective` doesn't jump.
 
 ### Secrets
 - Works for [[Harriet Adder]]

@@ -10,8 +10,8 @@ displayLink: "[[Guest House]]"
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Connections
@@ -20,11 +20,17 @@ displayLink: "[[Guest House]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Medium
->	Amongst Myrtle's Belongings are some shoes with wheels in the heels, presumably used in her act.
+> <br>
+> 
+>> [!boxed|no-t]
+>> Amongst `= [[Ghosts of the Damned]].Psychic`'s Belongings are some shoes with wheels in the heels, presumably used in her act.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard
->	Amongst Myrtle's Belongings are some shoes with wheels in the heels, presumably used in her act, and a small bag of white power that seems untouched.
+> <br>
+> 
+>> [!boxed|no-t]
+>> Amongst `= [[Ghosts of the Damned]].Psychic`'s Belongings are some shoes with wheels in the heels, presumably used in her act, and a small bag of white power that seems untouched.
 >^Hard
 
 ### Secret Passages

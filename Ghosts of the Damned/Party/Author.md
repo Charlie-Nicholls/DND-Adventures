@@ -10,7 +10,7 @@ subClass: "College of Whispers"
 cover: "/Ghosts of the Damned/Assests/imgAuthor.jpg"
 ---
 
-###### `=this.file.name`
+###### `= [[Ghosts of the Damned]].Author`
 <span class="sub2">:RiQuillPenFill: Chronicler of Mysteries </span>
 ___
 > [!infobox|no-t right]
@@ -43,10 +43,6 @@ style: default
 action: {type: open, link: undefined, newTab: true}
 
 # Profile
-
-> [!recite|clean no-t]
->	Introduction for players
->^IntroText
 	
 ### Description
 Description

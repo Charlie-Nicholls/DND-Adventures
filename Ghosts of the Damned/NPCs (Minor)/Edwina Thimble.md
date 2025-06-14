@@ -18,15 +18,15 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description
 Maid at [[Beaverton Hall]]. `=this.nameDet` has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠[[Harriet Adder]] is also using it for blackmail etc... Refers to her as Miss Adams.
 
 ### Secrets
-- Employed by ⁠[[Mystic Myrtle]] to eavesdrop
+- Employed by ⁠`= [[Ghosts of the Damned]].Psychic` to eavesdrop
 
 ### Knowledge
 - Overhears [[Dr Beaver]] and [[Squire Beaver]] arguing after dinner in the [[Master Bedroom]].

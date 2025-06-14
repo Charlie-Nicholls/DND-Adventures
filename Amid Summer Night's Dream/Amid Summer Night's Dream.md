@@ -1,8 +1,5 @@
 ---
 type: adventure
-locations:
-  - Hotel Midsummer
-displayLink: "[[Amid Summer Night's Dream]]"
 level: 5
 players: 2-6
 length: 2-3

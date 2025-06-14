@@ -18,8 +18,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description
@@ -31,7 +31,7 @@ ___
 - Helped fake [[Harriet Adder]]'s death
 	- Smuggled the stab-proof vest + blood packs to [[Harriet Adder]]
 	- Smuggled knife and gave instructions to [[Aurora Fable|Weasel Brown]]
-	- Set up the body to fool [[Canis]]
+	- Set up the body to fool `= [[Ghosts of the Damned]].Detective`
 
 ### Knowledge
 - Knows [[Harriet Adder]] is alive

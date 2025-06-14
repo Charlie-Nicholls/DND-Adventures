@@ -18,8 +18,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A reddish orange fish with a meek bearing.
+> [!boxed|no-t]
+> A reddish orange fish with a meek bearing.
 >^IntroText
 
 ### Description

@@ -1,10 +1,10 @@
 ---
 type: npc
-displayLink: "[[Colonel Hawkings]]"
+displayLink: "[[Dr Redmund Herring]]"
 ---
 
-###### Colonel Hawkings
-<span class="sub2">Male Hawk </span>
+###### Dr Redmund Herring
+<span class="sub2">Male Herring </span>
 ___
 
 > [!infobox|no-t right]
@@ -13,7 +13,7 @@ ___
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
-> | :FasUser: Species | Hawk |
+> | :FasUser: Species | Herring |
 >^InfoBox
 
 # Profile
@@ -23,20 +23,20 @@ ___
 >^IntroText
 
 ### Description
-Military man, former [[Squire Beaver]]'s former boss.
+
 
 ### Secrets
-- Knows about ⁠[[Squire Beaver]]'s work as a spy
+- 
 
 ### Knowledge
-- Knows about ⁠[[Squire Beaver]]'s work as a spy
+- 
 
 ### Alibi 
 
 
 ### Statblock
 >```statblock
-name: Colonel Hawkings
+name: Dr Redmund Herring
 speed: 30
 ac: 10
 hp: 10

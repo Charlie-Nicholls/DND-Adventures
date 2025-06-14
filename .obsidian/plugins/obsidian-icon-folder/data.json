@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasFish",
+      "LiAlignJustify",
       "RiKnifeBloodFill",
       "LiCode2",
       "FasPerson",
@@ -13,9 +15,7 @@
       "FasCircleExclamation",
       "RiStickyNoteFill",
       "FasImage",
-      "RiToolsFill",
-      "FasShuttleSpace",
-      "FasFolderOpen"
+      "RiToolsFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -103,9 +103,6 @@
   "Ghosts of the Damned/Beaverton Hall/Underground/Power Control Room.md": "LiCheck",
   "Ghosts of the Damned/NPCs (Major)": "FasUsers",
   "Ghosts of the Damned/NPCs (Minor)": "FasUsers",
-  "Ghosts of the Damned/Party/Canis.md": "FasMagnifyingGlass",
-  "Ghosts of the Damned/Party/Mystic Myrtle.md": "LiStars",
-  "Ghosts of the Damned/Party/Winnie Bearett.md": "LiChefHat",
   "Ghosts of the Damned/NPCs (Major)/Aurora Fable.md": "LiStars",
   "Ghosts of the Damned/NPCs (Major)/Doctor Redmund Herring.md": "FasStethoscope",
   "Ghosts of the Damned/NPCs (Major)/Dr Corbyn Beaver.md": "FasStethoscope",
@@ -132,11 +129,16 @@
   "Ghosts of the Damned/YPI Game/Session 01 (2025-06-11).md": "LiNotepadText",
   "Ghosts of the Damned/YPI Game": "LiNotebook",
   "Ghosts of the Damned/Assets": "FasImage",
-  "Ghosts of the Damned/Party/Featherwick Crowley.md": "RiQuillPenFill",
   "Ghosts of the Damned/Beaverton Hall/First Floor": "LiHouse",
   "Ghosts of the Damned/Beaverton Hall/Ground Floor": "LiHouse",
   "Ghosts of the Damned/Beaverton Hall/Outside": "LiTrees",
   "Ghosts of the Damned/Beaverton Hall/Underground": "LiHouse",
   "_Assets/Chase Track Test Code.md": "LiCode2",
-  "Ghosts of the Damned/Murderer Instructions.md": "RiKnifeBloodFill"
+  "Ghosts of the Damned/Murderer Instructions.md": "RiKnifeBloodFill",
+  "To Do.md": "LiAlignJustify",
+  "Ghosts of the Damned/Party/Detective.md": "FasMagnifyingGlass",
+  "Ghosts of the Damned/Party/Author.md": "RiQuillPenFill",
+  "Ghosts of the Damned/Party/Chef.md": "LiChefHat",
+  "Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring.md": "FasFish",
+  "Ghosts of the Damned/Party/Psychic.md": "LiStars"
 }

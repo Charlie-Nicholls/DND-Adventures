@@ -18,8 +18,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Squire Beaver has all the bearings of a man who was extremely well built in his youth. He stands tall and with an arrogance that would've suited him in his youth, but his aging and fattening body no longer reflects. But, underneath the fat, the muscles have not yet fully faded. His fur was once a light brown but now has distinctly grey patches sprouting across his body. He wears an expensive suit that was probably tailor made just a few years ago but has since been somewhat left behind by his waist.
+> [!boxed|no-t]
+> Squire Beaver has all the bearings of a man who was extremely well built in his youth. He stands tall and with an arrogance that would've suited him in his youth, but his aging and fattening body no longer reflects. But, underneath the fat, the muscles have not yet fully faded. His fur was once a light brown but now has distinctly grey patches sprouting across his body. He wears an expensive suit that was probably tailor made just a few years ago but has since been somewhat left behind by his waist.
 >^IntroText
 
 ### Description
@@ -29,7 +29,7 @@ A former military man, and British spy in Russia during The Great war who was fo
 - Was a spy in russia during The Great War.
 - Bullet or shrapnel lodged in chest, iron core + lead lining.
 - Infiltrated The Kommodore Sect.
-    - Framed someone as a mole and [[Winnie Bearett]] for killing him.
+    - Framed someone as a mole and `= [[Ghosts of the Damned]].Chef` for killing him.
 - Was in the employ of ⁠[[Harriet Adder]] and sold secrets to her.
 - Was in a large amount of debt pre-war, cleared after work with [[Harriet Adder]]
 

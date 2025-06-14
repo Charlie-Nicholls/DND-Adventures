@@ -1,37 +1,37 @@
 ---
 type: pc
 level: 4
-ac: 14
-hp: 41
-modifier: 2
-race: Bear
-class: Barbarian
-subClass: Path Of The Beast
-cover: "/Ghosts of the Damned/Assests/imgChef.jpg"
-alias: "Misha Bearov"
+ac: 13
+hp: 23
+modifier: 3
+race: "Wolf"
+class: "Rogue"
+subClass: "Inquisitive"
+cover: "/Ghosts of the Damned/Assests/imgDetective.jpg"
 ---
 
-###### `=this.alias` A.K.A `=this.file.name`
-:LiChefHat: Head Chef of Beaverton Hall
+###### `= [[Ghosts of the Damned]].Detective`
+:FasMagnifyingGlass: Legendary Detective
 ___
 > [!infobox|no-t right]
-> ![[imgChef.png|350]]
+> ![[imgDetective.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
 > | :RiSwordFill: Class |  `=this.class`|
-> | :LiAxe: Primal Path |  `=this.subClass`|
+> | :RiSwordFill: Archetype |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > 
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 9 |
->> | :FasMagnifyingGlass: Passive Investigation | 10 |
->> | :RiSpeakFill: Passive Insight | 9 |
+>> | :LiEye: Passive Perception | 14 |
+>> | :FasMagnifyingGlass: Passive Investigation | 18 |
+>> | :RiSpeakFill: Passive Insight | 12 |
 >> | :FasShield: Armour Class | `=this.ac` |
 >> | :FasHeart: Max Hit Points | `=this.hp` |
+>
 >^InfoBox
 
 > [!infobox|no-t clean right]
@@ -43,10 +43,6 @@ style: default
 action: {type: open, link: undefined, newTab: true}
 
 # Profile
-
-> [!recite|clean no-t]
->	Introduction for players
->^IntroText
 	
 ### Description
 Description

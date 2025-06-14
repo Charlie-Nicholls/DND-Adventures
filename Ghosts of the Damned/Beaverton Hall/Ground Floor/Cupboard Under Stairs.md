@@ -10,8 +10,8 @@ displayLink: "[[Cupboard Under Stairs]]"
 
 ---
 
-> [!recite|clean no-t]
->	The cupboard is chocked full of coats and shoes, with barely enough room to move about in.
+> [!boxed|no-t]
+> The cupboard is chocked full of coats and shoes, with barely enough room to move about in.
 >^IntroText
 	
 ### Connections
@@ -21,24 +21,36 @@ displayLink: "[[Cupboard Under Stairs]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy
->	Tucked away in the corner, underneath the shoe rack is a small crowbar
+> <br>
+> 
+>> [!boxed|no-t]
+>> Tucked away in the corner, underneath the shoe rack is a small crowbar
 >^Easy
 
 > [!recite|nbrd no-i]- Medium
->	Tucked away in the corner, underneath the shoe rack is a small crowbar. Well hidden behind the coats you notice a small seam in the wooden wall about the size of a small door.
+> <br>
+> 
+>> [!boxed|no-t]
+>> Tucked away in the corner, underneath the shoe rack is a small crowbar. Well hidden behind the coats you notice a small seam in the wooden wall about the size of a small door.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard
->	Tucked away in the corner, underneath the shoe rack is a small crowbar. Well hidden behind the coats you notice a small seam in the wooden wall about the size of a small door which the crowbar could be used to open.
-> If after séance:
+> <br>
 > 
-> 	The coats have been moved around somewhat since you were last here.
-> If after death of Dr Beaver:
-> 
->	You notice that there are coats labelled for everyone at the party except Dr Beaver and his wife Birdie Small
-> Or if the coat was returned:
-> 
-> 	You notice that the coat of Dr Beaver is wetter than the rest. His wife's coat is missing.
+>> [!boxed|no-t]
+>> Tucked away in the corner, underneath the shoe rack is a small crowbar. Well hidden behind the coats you notice a small seam in the wooden wall about the size of a small door which the crowbar could be used to open.
+>
+> $\quad$ If after séance:
+>> [!boxed|no-t]
+>> The coats have been moved around somewhat since you were last here.
+>
+> $\quad$ If after death of Dr Beaver:
+>> [!boxed|no-t]
+>> You notice that there are coats labelled for everyone at the party except Dr Beaver and his wife Birdie Small
+>
+> $\quad$ Or if the coat was returned:
+>> [!boxed|no-t]
+>> You notice that the coat of Dr Beaver is wetter than the rest. His wife's coat is missing.
 >^Hard
 
 ### Secret Passages
