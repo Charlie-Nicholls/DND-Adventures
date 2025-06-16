@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A perpetually nervous, perpetually stuttering man whose posture has him stand at half his height.
 >^IntroText
 
 ### Description
@@ -43,6 +43,6 @@ name: Armond Armadillo
 speed: 30
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [6,6,8,14,10,8]
 languages: English
 skillsaves: []

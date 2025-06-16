@@ -7,7 +7,7 @@ type: npc
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgIreneAdams.jpg|350]]
 > 
 > | Name |
 > | :----: |
@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A middle-aged tortoise with a confident stance and muscles clearly visible from a youth spent weightlifting and a recent past as a labourer.
 >^IntroText
 
 ### Description

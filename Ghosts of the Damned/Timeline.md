@@ -63,6 +63,30 @@ Read [[Cutscenes#^Chapter3-1|Cutscene]]
 >^IntroText
 
 If the knife is pulled Catherine Adams feels a cold shiver go down her spine. The lights are then turned on, making outside hard to see, mirror hides [[Irene Adams]] as she runs away.
+
+**Perception Check**
+
+> [!recite|nbrd no-i]- Easy
+> <br>
+> 
+>> [!boxed|no-t]
+>> Irene’s ghost flees, with a slight limp, before the lights were turned on and she disappeared.
+>^Easy2
+
+> [!recite|nbrd no-i]- Medium
+> <br>
+> 
+>> [!boxed|no-t]
+>> You saw a flash of something shine in the window then Irene’s ghost fleeing, with a slight limp, before the lights were turned on and she disappeared.
+>^Medium2
+
+> [!recite|nbrd no-i]- Hard
+> <br>
+> 
+>> [!boxed|no-t]
+>> You saw a flash of silver in the window and, as you turned around, you saw something move behind Catherine a the moment but couldn’t catch what. When you looked back you saw Irene’s ghost fleeing, with a slight limp, before the lights were turned on and she disappeared.
+>^Hard2
+
 #### 3.3 Squire and Dr Beaver fight
 [[Squire Beaver]] and ⁠[[Dr Corbyn Beaver]] can be heard arguing in the [[Master Bedroom]]. [[Dr Corbyn Beaver]] is trying to convince him to back off his attempts to control `= [[Ghosts of the Damned]].Villain`'s network, and when he refuses, quietly tells him she is still alive.
 

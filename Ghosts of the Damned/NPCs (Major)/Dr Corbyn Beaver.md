@@ -7,7 +7,7 @@ type: npc
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgDrCorbynBeaver.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -18,7 +18,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> Thinner and sharper than his father, Dr Beaver wears a wide smile like a mask and a sceptical look in his eyes.
 >^IntroText
 
 ### Description

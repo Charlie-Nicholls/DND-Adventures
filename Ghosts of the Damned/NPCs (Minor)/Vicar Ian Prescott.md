@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> Nowadays the old vicar has trouble keeping his head upright due to the weight of his large horns. A retirement of indulgence has left him slow and overweight.
 >^IntroText
 
 ### Description
@@ -39,9 +39,9 @@ Was alone moving old stuff out of the [[Guest House]] to get out of `= [[Ghosts 
 ### Statblock
 >```statblock
 name: Vicar Ian Prescott
-speed: 30
+speed: 10
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [14,6,13,12,15,11]
 languages: English
 skillsaves: []

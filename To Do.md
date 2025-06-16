@@ -1,6 +1,4 @@
-- [ ] Descriptions of each of the characters
+- [x] Descriptions of each of the Rooms
 - [ ] Alibis for each of the characters
 - [ ] Knowledge for each of the characters
-- [ ] Back Garden investigation checks
 - [ ] PC Notes
-- [ ] Collection of clues for each of the players so far

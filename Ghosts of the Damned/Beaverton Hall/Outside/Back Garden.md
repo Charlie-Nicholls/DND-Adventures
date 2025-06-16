@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> Introduction for players
+> A wide expanse of field, flower and trees. The careful symmetry of the back garden has been somewhat broken by the new [[Séance Room]] but otherwise it's carefully maintained and a rather pleasant place for afternoon tea.
 >^IntroText
 	
 ### Connections
@@ -26,21 +26,21 @@ locations:
 > <br>
 > 
 >> [!boxed|no-t]
->> 	
+>> The fence spike the body landed on and the surrounding area has since been cleaned. But looking around the area you notice a large tree blocks the view of the adjacent [[Servants Quarters]] window to the one [[Irene Adams]] was seen falling from. The hedges would've also blocked the view of anything happening below shoulder level to the spectators on the other side. Where the main building meets the [[Séance Room]], there is a small [[Storage Area]] accessible behind some planks of wood that have been bent out of shape, the contents of which are hard to discern from where you are.
 >^Easy
 
 > [!recite|nbrd no-i]- Medium (Irene's Death)
 > <br>
 > 
 >> [!boxed|no-t]
->> 
+>> The fence spike the body landed on and the surrounding area has since been cleaned. Looking around the area you notice a large tree blocks the view of the adjacent [[Servants Quarters]] window to the one [[Irene Adams]] was seen falling from. One of the larger branches of the tree has broken off recently. The hedges would've also blocked the view of anything happening below shoulder level to the spectators on the other side. Where the main building meets the [[Séance Room]], there is a small [[Storage Area]] accessible behind some planks of wood that have been bent out of shape, the contents of which are hard to discern from where you are.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard (Irene's Death)
 > <br>
 > 
 >> [!boxed|no-t]
->> 	
+>> The fence spike the body landed on and the surrounding area has since been cleaned. Looking around the area you notice a large tree blocks the view of the adjacent [[Servants Quarters]] window to the one [[Irene Adams]] was seen falling from. One of the larger branches of the tree has broken off recently. The hedges would've also blocked the view of anything happening below shoulder level to the spectators on the other side. Where the main building meets the [[Séance Room]], there is a small [[Storage Area]] accessible behind some planks of wood that have been bent out of shape, the contents of which are hard to discern from where you are. There may have been time to move something into or out of this area during the incident without anyone seeing, but they would've had to have been very quick to do so before [[Ruffles Hound]] emerged from the [[Séance Room]] and saw.
 >^Hard
 
 > [!recite|nbrd no-i]- Easy (Dr Beaver's death)

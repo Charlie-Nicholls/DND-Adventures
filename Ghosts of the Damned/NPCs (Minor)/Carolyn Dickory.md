@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A hamster with an excitable energy, twitch whiskers and wide eyes.
 >^IntroText
 
 ### Description
@@ -43,6 +43,6 @@ name: Carolyn Dickory
 speed: 30
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [8,14,10,15,10,10]
 languages: English
 skillsaves: []

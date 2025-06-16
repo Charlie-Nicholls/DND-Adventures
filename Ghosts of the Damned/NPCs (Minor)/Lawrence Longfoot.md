@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> Smartly dressed and professionally inconspicuous, with a camera ready at all times.
 >^IntroText
 
 ### Description

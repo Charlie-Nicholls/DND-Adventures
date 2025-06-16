@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A loud and offensively American rooster with a wide brimmed hat he has ordained to keep despite being inside.
 >^IntroText
 
 ### Description

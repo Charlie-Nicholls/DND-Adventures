@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> The séance room is a recent addition to the house and looks it, seeming to be just stuck on the back with no coherence with the rest of the house's design. It's walls are a marble white with a slanted roof. Backing onto the garden is a large wall of glass that also folds slightly around the left side. A great circular table with a purple and gold table cloth sits in the middle of the room surrounded by chairs. What walls of the room are not glass are decorated with pictures of astrological signs, constellations, shelves of scented candles, crystal balls and other such paraphernalia.
+> The séance room is a recent addition to the house and looks it, seeming to be just stuck on the back with no coherence with the rest of the house's design. Its walls are a marble white with a slanted roof. Backing onto the garden is a large wall of glass that also folds slightly around the left side. A great circular table with a purple and gold tablecloth sits in the middle of the room surrounded by chairs. What walls of the room are not glass are decorated with pictures of astrological signs, constellations, shelves of scented candles, crystal balls and other such paraphernalia.
 >^IntroText
 	
 ### Connections

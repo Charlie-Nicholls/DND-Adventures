@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> The hallway has an air of grandiosity mainly generated from it's unnecessary width and striking red carpet. There are a couple of paintings hung up on the wall along with a mounted pair of hunting rifles.
+> The hallway has an air of grandiosity mainly generated from its unnecessary width and striking red carpet. There are a couple of paintings hung up on the wall along with a mounted pair of hunting rifles.
 >^IntroText
 	
 ### Connections

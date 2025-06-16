@@ -2,7 +2,7 @@
 type: npc
 ---
 
-###### Colonel Hawkings
+###### Colonel Michael Hawkings
 <span class="sub2">Male Hawk </span>
 ___
 
@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> The colonel stands completely upright at all times, speaks quickly and curtly and wears his uniform with full assortment of medals, of which there are many.
 >^IntroText
 
 ### Description

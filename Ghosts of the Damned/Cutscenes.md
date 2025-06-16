@@ -46,7 +46,7 @@
 #### 3.4 The Squire's Death
 **Inside The Office**
 > [!boxed|no-t]
-> The lights begin to flicker, you hear a loud crash of thunder and the rush of water from the dam seems to intensify before the bulbs burst, plunging the room into darkness. You hear a distant laughter that for a moment you think you recognise. Then the Squire stands up and stumbles sideways. You hear a click and the sound of various objects clattering to the floor and the squire grunts. You see him open a draw and withdraw a knife which he then turns upon himself. His face is strained, eyes seeming to stare at something he can't see and the knife enters his chest. He struggles for a few seconds before collapsing in a heap before you, knife still clutched in his paws.
+> The lights begin to flicker, you hear a loud crash of thunder and the rush of water from the dam seems to intensify before the bulbs burst, plunging the room into darkness. You hear a distant laughter that for a moment you think you recognise. Then the Squire stands up and stumbles sideways. You hear a click and the sound of various objects clattering to the floor and the squire grunts. You see him open a draw and withdraw a knife which he then turns upon himself. His face is strained, eyes seeming to stare at something he can't see, and the knife enters his chest. He struggles for a few seconds before collapsing in a heap before you, knife still clutched in his paws.
 >^Chapter3-4In
 
 **Outside The Office (Perception Check)**

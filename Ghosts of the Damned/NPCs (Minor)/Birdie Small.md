@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> Of tiny stature and large beak, Birdie has a plume of beautiful blue feathers and an expensive flowing dress.
 >^IntroText
 
 ### Description

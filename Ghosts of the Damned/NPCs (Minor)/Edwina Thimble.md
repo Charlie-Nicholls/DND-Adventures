@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> One of the many maids of Beaverton Hall, Edwina is a woman with large ears, even for a mouse, and extremely proper attire.
 >^IntroText
 
 ### Description

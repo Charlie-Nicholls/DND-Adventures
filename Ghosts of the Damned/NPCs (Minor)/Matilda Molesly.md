@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> The old maid of the house, she shuffles around the house with confidence despite hardly being able to see where she's going.
 >^IntroText
 
 ### Description

@@ -23,7 +23,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> An unassuming vole, a dexterous cook who's eager to help.
 >^IntroText
 
 ### Description

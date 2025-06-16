@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> A tortoise who's body language suggests she'd never leave her shell if she had the chance. She walks with a slight limp and talks barely above a whisper.
+> A tortoise whose body language suggests she'd never leave her shell if she had the chance. She walks with a slight limp and talks barely above a whisper.
 >^IntroText
 
 ### Description

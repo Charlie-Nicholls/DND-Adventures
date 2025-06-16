@@ -22,7 +22,7 @@ ___
 # Profile
 
 > [!boxed|no-t]
-> Introduction for players
+> A pit bull who lived a life of manual labour, clearly defined muscles and poorly defined etiquette compared to the rest of the guests. 
 >^IntroText
 
 ### Description

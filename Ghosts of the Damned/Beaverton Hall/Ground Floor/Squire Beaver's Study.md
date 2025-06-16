@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> Squire Beaver's study is rather sparser than one might expect. There is an ornate desk with a few scattered papers and the standard array of stationary upon it. By it's side is a desk with a bulky telephone built into the wall, a few folders and an open telephone book. There are also a few books on shelves but the whole place seems gives the feel of a room there to give the impression of a man hard at work more than that of a room used to bustling activity.
+> Squire Beaver's study is rather sparser than one might expect. There is an ornate desk with a few scattered papers and the standard array of stationary upon it. By its side is a desk with a bulky telephone built into the wall, a few folders and an open telephone book. There are also a few books on shelves but the whole place seems gives the feel of a room there to give the impression of a man hard at work more than that of a room used to bustling activity.
 >^IntroText
 
 ### Connections
