@@ -1,4 +1,4 @@
-- [x] Descriptions of each of the Rooms
+- [ ] Descriptions of each of the Rooms
 - [ ] Alibis for each of the characters
 - [ ] Knowledge for each of the characters
 - [ ] PC Notes

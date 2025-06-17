@@ -23,6 +23,9 @@ ChefRussian: "Misha Bearov"
 Pychic: "Mystic Myrtle"
 Villian: "Harriet Adder"
 
+### Mod Rolls
+Mod 1: 17
+
 ### `=this.Author`
 
 Game is being run with three players so `=this.Author` will be run as an NPC using the following statblock:

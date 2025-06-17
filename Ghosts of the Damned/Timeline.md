@@ -45,9 +45,12 @@ Read [[Cutscenes#^Chapter2|Cutscene]]
 #### 2.2 `= [[Ghosts of the Damned]].Detective` meets [[Dr Corbyn Beaver]] 
 Occurs whenever `= [[Ghosts of the Damned]].Detective` talks to [[Dr Corbyn Beaver]], or at the start of [[#4 The Game is Apaw]] if they haven't spoken by then.
 - Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the Damned]].Villain`'s "dead" body
-- `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠`= [[Ghosts of the Damned]].Villain` is confined.
-- He meets ⁠[[Dr Corbyn Beaver]] who says "I understand you insisted on seeing her body. It is unusual but I understand why in this case, there is a need to be extra sure but I can assure you she most definitely is dead".
+- `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠`= [[Ghosts of the Damned]].Villain` is confined and meets ⁠[[Dr Corbyn Beaver]].
 - He explains that she was stabbed in the stomach by Weasel Brown, they're unsure how she got the knife. Her body is on an examining table and ⁠`= [[Ghosts of the Damned]].Detective` is allowed to examine it briefly.
+
+> [!boxed|no-t]
+> `= [[Ghosts of the Damned]].Villain`'s face is unmistakable. Beautiful even in death, though this might be the first time you've seen her without a smile, either seductive or malicious, on her leporine face. Her lower body is less pristine, a large knife wound has split her guts open and it is immediately obvious no-one could survive that. Even still you put a paw to her neck to measure her pulse, finding it too thick with fur to find one even if there were. Trying again on her wrist where your fingers can reach her skin, there is still no pulse to be found.
+>^VillainBody
 
 #### 2.3 Dinner Begins
 ### 3 Very Very Frightening

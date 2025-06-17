@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotepadText",
       "LiRabbit",
       "RiQuillPenFill",
       "FasFish",
@@ -14,8 +15,7 @@
       "FasBoxOpen",
       "FasPhone",
       "LiStars",
-      "RiDashboard2Line",
-      "RiSofaLine"
+      "RiDashboard2Line"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -142,5 +142,6 @@
   "Ghosts of the Damned/Assets/Tokens": "LiCircle",
   "Ghosts of the Damned/Assets/Characters": "FasUser",
   "Ghosts of the Damned/Beaverton Hall/Outside/Back Garden.md": "FasTree",
-  "Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring.md": "FasFish"
+  "Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring.md": "FasFish",
+  "Ghosts of the Damned/YPI Game/Session 02 (2025-06-17).md": "LiNotepadText"
 }
