@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Lawrence Longfoot]]"
 ---
 
 ###### Lawrence Longfoot
@@ -8,8 +7,12 @@ displayLink: "[[Lawrence Longfoot]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgLawrenceLongfoot.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Lawrence Longfoot | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Smartly dressed and professionally inconspicuous, with a camera ready at all times.
 >^IntroText
 
 ### Description

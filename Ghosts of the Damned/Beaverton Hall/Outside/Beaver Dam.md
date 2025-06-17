@@ -3,15 +3,14 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Outside]]"
-displayLink: "[[Beaver Dam]]"
 ---
 ###### Beaver Dam
 <span class="sub2">:FasHouse: Outside</span>
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Connections

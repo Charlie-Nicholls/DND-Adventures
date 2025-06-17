@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Irene Adams]]"
 ---
 
 ###### Irene Adams
@@ -8,8 +7,12 @@ displayLink: "[[Irene Adams]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgIreneAdams.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Irene Adams | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> A middle-aged tortoise with a confident stance and muscles clearly visible from a youth spent weightlifting and a recent past as a labourer.
 >^IntroText
 
 ### Description

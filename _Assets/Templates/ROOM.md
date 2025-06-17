@@ -48,8 +48,8 @@ displayLink: "[[<% name %>]]"
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Connections
@@ -57,15 +57,24 @@ displayLink: "[[<% name %>]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy
->	Introduction for players
+> <br>
+> 
+>> [!boxed|no-t]
+>> 
 >^Easy
 
 > [!recite|nbrd no-i]- Medium
->	Introduction for players
+> <br>
+> 
+>> [!boxed|no-t]
+>> 
 >^Medium
 
 > [!recite|nbrd no-i]- Hard
->	Introduction for players
+> <br>
+> 
+>> [!boxed|no-t]
+>> 
 >^Hard
 
 ### Secret Passages

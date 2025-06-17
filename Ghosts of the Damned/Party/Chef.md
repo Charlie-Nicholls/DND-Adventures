@@ -1,37 +1,36 @@
 ---
 type: pc
 level: 4
-ac: 13
-hp: 23
-modifier: 3
-race: "Wolf"
-class: "Rogue"
-subClass: "Inquisitive"
-cover: "/Ghosts of the Damned/Assests/imgDetective.jpg"
+ac: 14
+hp: 41
+modifier: 2
+race: Bear
+class: Barbarian
+subClass: Path Of The Beast
+cover: "/Ghosts of the Damned/Assests/imgChef.jpg"
 ---
 
-###### `=this.file.name`
-:FasMagnifyingGlass: Legendary Detective
+###### `= [[Ghosts of the Damned]].Chef` A.K.A `= [[Ghosts of the Damned]].ChefRussian`
+:LiChefHat: Head Chef of Beaverton Hall
 ___
 > [!infobox|no-t right]
-> ![[imgDetective.jpg|350]]
+> ![[imgChef.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasCrown: Level   | `=this.level` |
 > | :RiSwordFill: Class |  `=this.class`|
-> | :RiSwordFill: Archetype |  `=this.subClass`|
+> | :LiAxe: Primal Path |  `=this.subClass`|
 > |  :FasUserGroup: Race |  `=this.race`|
 > 
 >> [!tip]- STATS
 >> | Stat | Score |
 >> | ---- | :----: |
->> | :LiEye: Passive Perception | 14 |
->> | :FasMagnifyingGlass: Passive Investigation | 18 |
->> | :RiSpeakFill: Passive Insight | 12 |
+>> | :LiEye: Passive Perception | 9 |
+>> | :FasMagnifyingGlass: Passive Investigation | 10 |
+>> | :RiSpeakFill: Passive Insight | 9 |
 >> | :FasShield: Armour Class | `=this.ac` |
 >> | :FasHeart: Max Hit Points | `=this.hp` |
->
 >^InfoBox
 
 > [!infobox|no-t clean right]
@@ -43,10 +42,6 @@ style: default
 action: {type: open, link: undefined, newTab: true}
 
 # Profile
-
-> [!recite|clean no-t]
->	Introduction for players
->^IntroText
 	
 ### Description
 Description

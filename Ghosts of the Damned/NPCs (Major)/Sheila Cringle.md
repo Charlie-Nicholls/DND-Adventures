@@ -1,6 +1,6 @@
 ---
 type: npc
-displayLink: "[[Sheila Cringle]]"
+alias: "Zykova Nikitova"
 ---
 
 ###### Zykova Nikitova A.K.A Sheila Cringle
@@ -8,8 +8,12 @@ displayLink: "[[Sheila Cringle]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgShielaCringle.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Sheila Cringle | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,20 +22,20 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> An unassuming vole, a dexterous cook who's eager to help.
 >^IntroText
 
 ### Description
-Agent of the sect [[Winnie Bearett|Misha Bearov]] used to work for, sent to kill him.
+Agent of the sect `= [[Ghosts of the Damned]].ChefRussian` used to work for, sent to kill him.
 
 ### Secrets
-- Russian agent here to assassinate [[Winnie Bearett]]
+- Russian agent here to assassinate `= [[Ghosts of the Damned]].ChefRussian`
 	- Real name Zykova Nikitova
 	- Killed the real Shiela Cringle, an agouti, and took her role as of one of the excess hired cooks
 
 ### Knowledge
-- [[Winnie Bearett]] is really [[Winnie Bearett|Misha Bearov]]
+- `= [[Ghosts of the Damned]].Chef` is really `= [[Ghosts of the Damned]].ChefRussian`
 
 ### Alibi 
 Not at party

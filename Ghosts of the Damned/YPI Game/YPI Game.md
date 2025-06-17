@@ -1,15 +1,31 @@
 ---
 type: notes
 date: 2025-06-11
-nameDet: "Canis"
-nameChef: "Winnie Bearett"
-nameChefRus: "Misha Bearov"
-namePychic: "Mystic Myrtle"
+Detective: "Canis"
+Author: "Featherwick Crowley"
+Chef: "Winnie Bearett"
+ChefRussian: "Misha Bearov"
+Pychic: "Mystic Myrtle"
+Villian: "Harriet Adder"
+---
+###### YPI Game
+<span class="sub2">:FasClock: Plan</span>
+
 ---
 
-### Featherwick Crowely
 
-Game is being run with three players so [[Featherwick Crowley]] will be run as an npc using the following statblock:
+### Names
+
+Detective: "Canis"
+Author: "Featherwick Crowley"
+Chef: "Winnie Bearett"
+ChefRussian: "Misha Bearov"
+Pychic: "Mystic Myrtle"
+Villian: "Harriet Adder"
+
+### `=this.Author`
+
+Game is being run with three players so `=this.Author` will be run as an NPC using the following statblock:
 
 >```statblock
 name: Featherwick Crowely

@@ -1,8 +1,5 @@
 ---
 type: adventure
-locations:
-  - Hotel Midsummer
-displayLink: "[[Amid Summer Night's Dream]]"
 level: 5
 players: 2-6
 length: 2-3
@@ -10,7 +7,7 @@ share_link: https://share.note.sx/u6lfw6j9
 share_updated: 2025-04-24T11:42:02+01:00
 ---
 ###### Amid Summer Night's Dream
-<span class="sub2"> :FasCircleExclamation: Quest | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
+<span class="sub2"> :FasCircleExclamation: Adventure | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
 
 ---
 

@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Carolyn Dickory]]"
 ---
 
 ###### Carolyn Dickory
@@ -8,8 +7,12 @@ displayLink: "[[Carolyn Dickory]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgCarolynDickory.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Carolyn Dickory | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> A hamster with an excitable energy, twitch whiskers and wide eyes.
 >^IntroText
 
 ### Description
@@ -40,6 +43,6 @@ name: Carolyn Dickory
 speed: 30
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [8,14,10,15,10,10]
 languages: English
 skillsaves: []

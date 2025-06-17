@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Armond Armadillo]]"
 ---
 
 ###### Armond Armadillo
@@ -8,8 +7,12 @@ displayLink: "[[Armond Armadillo]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgArmondArmadillo.png|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Armond Armadillo | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> A perpetually nervous, perpetually stuttering man whose posture has him stand at half his height.
 >^IntroText
 
 ### Description
@@ -40,6 +43,6 @@ name: Armond Armadillo
 speed: 30
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [6,6,8,14,10,8]
 languages: English
 skillsaves: []

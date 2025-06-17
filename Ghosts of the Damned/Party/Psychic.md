@@ -8,10 +8,9 @@ race: "Tortoise"
 class: "Rogue"
 subClass: "Thief"
 cover: "/Ghosts of the Damned/Assests/imgPsychic.jpg"
-displayLink: "[[Mystic Myrtle]]"
 ---
 
-###### Mystic Myrtle
+###### `= [[Ghosts of the Damned]].Psychic`
 :LiStars: Famous Psychic
 ___
 > [!infobox|no-t right]
@@ -45,7 +44,8 @@ action: {type: open, link: undefined, newTab: true}
 # Profile
 	
 ### Description
-Description
+`= [[Ghosts of the Damned]].Psychic` is an American psychic, who’s stage shows demonstrating her abilities as a medium have rocketed her to fame. She is also a charlatan, but would never explain how her tricks were done. Her cousin [[Catherine Adams]] and her family moved to England when she was a baby and they hadn’t met since. When `= [[Ghosts of the Damned]].Psychic` was due for a UK tour, she contacted her cousin to see if they could meet up. [[Catherine Adams]] mentioned this to her employer [[Lady Beaver]] who is a massive believer in the occult and insisted that such a famous psychic would stay for free at their [[Guest House]].
 
 ### Secrets
-- None
+- Cocaine Addiction
+- Charlatan

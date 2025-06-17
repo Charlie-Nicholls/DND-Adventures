@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Vicar Ian Prescott]]"
 ---
 
 ###### Vicar Ian Prescott
@@ -8,8 +7,12 @@ displayLink: "[[Vicar Ian Prescott]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgIanPrescott.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Vicar Ian Prescott | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Nowadays the old vicar has trouble keeping his head upright due to the weight of his large horns. A retirement of indulgence has left him slow and overweight.
 >^IntroText
 
 ### Description
@@ -31,14 +34,14 @@ Vicar who used to live at the [[Guest House]] and work at the [[Chapel]] but is 
 - Knows Sir Christopher Wren designed St Paul's Cathedral
 
 ### Alibi 
-Was alone moving old stuff out of the [[Guest House]] to get out of [[Mystic Myrtle]]'s way.
+Was alone moving old stuff out of the [[Guest House]] to get out of `= [[Ghosts of the Damned]].Psychic`'s way.
 
 ### Statblock
 >```statblock
 name: Vicar Ian Prescott
-speed: 30
+speed: 10
 ac: 10
 hp: 10
-stats: [10,10,10,10,10,10]
+stats: [14,6,13,12,15,11]
 languages: English
 skillsaves: []

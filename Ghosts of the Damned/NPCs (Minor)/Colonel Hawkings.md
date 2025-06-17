@@ -1,15 +1,18 @@
 ---
 type: npc
-displayLink: "[[Colonel Hawkings]]"
 ---
 
-###### Colonel Hawkings
+###### Colonel Michael Hawkings
 <span class="sub2">Male Hawk </span>
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgColonelHawkings.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Colonel Hawkings | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> The colonel stands completely upright at all times, speaks quickly and curtly and wears his uniform with full assortment of medals, of which there are many.
 >^IntroText
 
 ### Description

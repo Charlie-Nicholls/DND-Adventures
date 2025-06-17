@@ -1,8 +1,10 @@
 ---
 type: locale
 locations:
- - 
-displayLink: "[[Beaverton Hall]]"
+ - "[[First Floor]]"
+ - "[[Ground Floor]]"
+ - "[[Outside]]"
+ - "[[Underground]]"
 ---
 
 ![[banner.jpg|banner]]
@@ -11,8 +13,8 @@ displayLink: "[[Beaverton Hall]]"
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

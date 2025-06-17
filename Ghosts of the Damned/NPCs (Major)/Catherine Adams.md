@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Catherine Adams]]"
 ---
 
 ###### Catherine Adams
@@ -8,8 +7,12 @@ displayLink: "[[Catherine Adams]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgCatherineAdams.png|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Catherine Adams | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A tortoise who's body language suggests she'd never leave her shell if she had the chance. She walks with a slight limp and talks barely above a whisper.
+> [!boxed|no-t]
+> A tortoise whose body language suggests she'd never leave her shell if she had the chance. She walks with a slight limp and talks barely above a whisper.
 >^IntroText
 
 ### Description

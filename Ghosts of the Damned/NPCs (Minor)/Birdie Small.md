@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Birdie Small]]"
 ---
 
 ###### Birdie Small
@@ -8,8 +7,12 @@ displayLink: "[[Birdie Small]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgBirdieSmall.jpg]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Birdie Small | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,12 +21,12 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Of tiny stature and large beak, Birdie has a plume of beautiful blue feathers and an expensive flowing dress.
 >^IntroText
 
 ### Description
-Wife of [[Dr Beaver]]. Bit of a gossip
+Wife of [[Dr Corbyn Beaver]]. Bit of a gossip
 
 ### Knowledge
 - Can be a receptacle of any rumours that might be going around

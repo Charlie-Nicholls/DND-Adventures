@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Edwina Thimble]]"
 ---
 
 ###### Edwina Thimble
@@ -8,8 +7,12 @@ displayLink: "[[Edwina Thimble]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgEdwinaThimble.jpg|350]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Edwina Thimble | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Female |
@@ -18,24 +21,25 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> One of the many maids of Beaverton Hall, Edwina is a woman with large ears, even for a mouse, and extremely proper attire.
 >^IntroText
 
 ### Description
-Maid at [[Beaverton Hall]]. `=this.nameDet` has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠[[Harriet Adder]] is also using it for blackmail etc... Refers to her as Miss Adams.
+Maid at [[Beaverton Hall]]. `= [[Ghosts of the Damned]].Psychic` has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠`= [[Ghosts of the Damned]].Villain` is also using it for blackmail etc... Refers to her as Miss Adams.
 
 ### Secrets
-- Employed by ⁠[[Mystic Myrtle]] to eavesdrop
+- Employed by ⁠`= [[Ghosts of the Damned]].Psychic` to eavesdrop
 
 ### Knowledge
-- Overhears [[Dr Beaver]] and [[Squire Beaver]] arguing after dinner in the [[Master Bedroom]].
+- Overhears [[Dr Corbyn Beaver]] and [[Squire Beaver]] arguing after dinner in the [[Master Bedroom]].
 - Was able to make out:
-> [!recite|clean no-t]
->	  Squire Beaver: "She's gone, Corbyn, why shouldn't I?"
->	  Dr Beaver: "You're really going to take that risk?" 
->	  Squire Beaver: "I will NOT be intimidated by a ghost."
->	  Dr Beaver: "SHE ISN'T -"
+
+> [!boxed|no-t]
+> Squire Beaver: "She's gone, Corbyn, why shouldn't I?"
+> Dr Beaver: "You're really going to take that risk?" 
+> Squire Beaver: "I will NOT be intimidated by a ghost."
+> Dr Beaver: "SHE ISN'T -"
 >^Eavsedrop
 - Then he seemed to catch himself and she couldn't hear the rest of conversation.
 

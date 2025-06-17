@@ -3,15 +3,14 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Ground Floor]]"
-displayLink: "[[Séance Room]]"
 ---
 ###### Séance Room
 <span class="sub2">:FasHouse: Ground Floor</span>
 
 ---
 
-> [!recite|clean no-t]
->	The séance room is a recent addition to the house and looks it, seeming to be just stuck on the back with no coherence with the rest of the house's design. It's walls are a marble white with a slanted roof. Backing onto the garden is a large wall of glass that also folds slightly around the left side. A great circular table with a purple and gold table cloth sits in the middle of the room surrounded by chairs. What walls of the room are not glass are decorated with pictures of astrological signs, constellations, shelves of scented candles, crystal balls and other such paraphernalia.
+> [!boxed|no-t]
+> The séance room is a recent addition to the house and looks it, seeming to be just stuck on the back with no coherence with the rest of the house's design. Its walls are a marble white with a slanted roof. Backing onto the garden is a large wall of glass that also folds slightly around the left side. A great circular table with a purple and gold tablecloth sits in the middle of the room surrounded by chairs. What walls of the room are not glass are decorated with pictures of astrological signs, constellations, shelves of scented candles, crystal balls and other such paraphernalia.
 >^IntroText
 	
 ### Connections
@@ -22,19 +21,31 @@ displayLink: "[[Séance Room]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy (Alternative)
->	There are 3 switches at the enterance to the room, one turns on the lights inside the room, one the lights outside and one appears to do nothing
+> <br>
+> 
+>> [!boxed|no-t]
+>> There are 3 switches at the entrance to the room, one turns on the lights inside the room, one the lights outside and one appears to do nothing
 >^Easy
 
 > [!recite|nbrd no-i]- Easy
->	There's something slightly off about the windows on the left side of the room
+> <br>
+> 
+>> [!boxed|no-t]
+>> There's something slightly off about the windows on the left side of the room
 >^Easy
 
 > [!recite|nbrd no-i]- Medium
->	The windows on the left side of the room seem off, a closer look reveals that they're more reflective than the normal glass.
+> <br>
+> 
+>> [!boxed|no-t]
+>> The windows on the left side of the room seem off, a closer look reveals that they're more reflective than the normal glass.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard
->	The windows on the left side of the room are one way mirrors, with the more reflective side facing inside.
+> <br>
+> 
+>> [!boxed|no-t]
+>> The windows on the left side of the room are one way mirrors, with the more reflective side facing inside.
 >^Hard
 
 ### Secret Passages

@@ -1,6 +1,5 @@
 ---
 type: npc
-displayLink: "[[Bucky Kentucky]]"
 ---
 
 ###### Bucky Kentucky
@@ -8,8 +7,12 @@ displayLink: "[[Bucky Kentucky]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
+> ![[imgBuckyKentucky.jpg]]
+> 
+> | Name |
+> | :----: |
+> | :FasUser: Bucky Kentucky | 
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasVenusMars: Gender | Male |
@@ -18,8 +21,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> A loud and offensively American rooster with a wide brimmed hat he has ordained to keep despite being inside.
 >^IntroText
 
 ### Description

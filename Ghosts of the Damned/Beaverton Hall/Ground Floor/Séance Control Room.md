@@ -3,15 +3,14 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[Ground Floor]]"
-displayLink: "[[Séance Control Room]]"
 ---
 ###### Séance Control Room
 <span class="sub2">:FasHouse: Ground Floor</span>
 
 ---
 
-> [!recite|clean no-t]
->	The room is split into two, the near side is some sort of alcove containing a large metal filing cabinet. The far side is a wall with various switches and levers. With various labels like "Smoke - Table", "Smoke - Vent", "Lights - Inside", "Lights - Outside", "Vibrate Table", "Table Magnet 1-9" and a vent through which it is possible to see the room on the other side.
+> [!boxed|no-t]
+> The room is split into two, the near side is some sort of alcove containing a large metal filing cabinet. The far side is a wall with various switches and levers. With various labels like "Smoke - Table", "Smoke - Vent", "Lights - Inside", "Lights - Outside", "Vibrate Table", "Table Magnet 1-9" and a vent through which it is possible to see the room on the other side.
 >^IntroText
 	
 ### Connections
@@ -22,15 +21,24 @@ displayLink: "[[Séance Control Room]]"
 ### Investigation Checks
 
 > [!recite|nbrd no-i]- Easy
->	Placed in the corner of the room is a powerful bulb that connects to the room's electrics.
+> <br>
+> 
+>> [!boxed|no-t]
+>> Placed in the corner of the room is a powerful bulb that connects to the room's electrics.
 >^Easy
 
 > [!recite|nbrd no-i]- Medium (after cabinet is moved)
->	The cabinet obscured a section of wall that swings inwards.
+> <br>
+> 
+>> [!boxed|no-t]
+>> The cabinet obscured a section of wall that swings inwards.
 >^Medium
 
 > [!recite|nbrd no-i]- Hard (after cabinet is moved)
->	The cabinet obscured a section of wall that swings inwards, on the floor are shards of thicker glass.
+> <br>
+> 
+>> [!boxed|no-t]
+>> The cabinet obscured a section of wall that swings inwards, on the floor are shards of thicker glass.
 >^Hard
 
 ### Secret Passages

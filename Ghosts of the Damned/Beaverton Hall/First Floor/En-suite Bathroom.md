@@ -3,15 +3,14 @@ cssClasses: grayTable, wideTable
 type: room
 locations:
  - "[[First Floor]]"
-displayLink: "[[En-suite Bathroom]]"
 ---
 ###### En-suite Bathroom
 <span class="sub2">:FasHouse: First Floor</span>
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Connections
