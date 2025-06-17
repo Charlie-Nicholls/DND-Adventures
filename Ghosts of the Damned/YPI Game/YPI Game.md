@@ -27,12 +27,21 @@ Villian: "Harriet Adder"
 
 Game is being run with three players so `=this.Author` will be run as an NPC using the following statblock:
 
->```statblock
-name: Featherwick Crowely
+```statblock
+name: Author
 speed: 30
 ac: 12
 hp: 28
 stats: [10,14,10,14,15,18]
 languages: English
 skillsaves: [Deception: 6, Insight: 4, Investigation: 4, Stealth: 4]
+traits:
 
+actions:
+  - name: Claw
+    desc: "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage"
+bonus_actions:
+  - name: First Aid Training (2/Day)
+    desc: "A creature of the author's choice within 5ft. gains 7(1d4 + 4) hit points"
+  - name: Bardic Inspiration (3/Day)
+    desc: "The author chooses a creature within 60 feet. That creature gains one d6 die they can expend within the next 10 minutes to add to one ability check, attack roll or saving throw."

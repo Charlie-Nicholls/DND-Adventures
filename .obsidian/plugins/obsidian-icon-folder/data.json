@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRabbit",
+      "RiQuillPenFill",
       "FasFish",
       "LiForkKnife",
       "LiArchive",
@@ -13,9 +15,7 @@
       "FasPhone",
       "LiStars",
       "RiDashboard2Line",
-      "RiSofaLine",
-      "LiFiles",
-      "FasHorseHead"
+      "RiSofaLine"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -138,7 +138,7 @@
   "Ghosts of the Damned/Party/Author.md": "RiQuillPenFill",
   "Ghosts of the Damned/Party/Chef.md": "LiChefHat",
   "Ghosts of the Damned/Party/Psychic.md": "LiStars",
-  "Ghosts of the Damned/Party/Villain.md": "FasCoins",
+  "Ghosts of the Damned/Party/Villain.md": "LiRabbit",
   "Ghosts of the Damned/Assets/Tokens": "LiCircle",
   "Ghosts of the Damned/Assets/Characters": "FasUser",
   "Ghosts of the Damned/Beaverton Hall/Outside/Back Garden.md": "FasTree",

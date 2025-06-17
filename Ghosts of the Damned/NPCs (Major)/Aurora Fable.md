@@ -61,10 +61,10 @@ Weasel Brown is a career criminal, with ties to smuggling she has since put behi
 
 ### Statblock
 >```statblock
-name: Aurora Fable
-speed: 30
-ac: 13
-hp: 20
-stats: [8,16,12,10,8,18]
-languages: English
-skillsaves: [Deception: 6, Performance: 6, Sleight of Hand: 5]
+> name: Aurora Fable
+> speed: 30
+> ac: 13
+> hp: 20
+> stats: [8,16,12,10,8,18]
+> languages: English
+> skillsaves: [Deception: 6, Performance: 6, Sleight of Hand: 5]
