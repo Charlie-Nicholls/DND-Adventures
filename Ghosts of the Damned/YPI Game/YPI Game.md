@@ -24,7 +24,8 @@ Pychic: "Mystic Myrtle"
 Villian: "Harriet Adder"
 
 ### Mod Rolls
-Mod 1: 17
+Mod 1: 17 (+1)
+Mod 2: 15 (+0)
 
 ### `=this.Author`
 

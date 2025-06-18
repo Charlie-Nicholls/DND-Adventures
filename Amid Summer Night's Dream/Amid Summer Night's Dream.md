@@ -22,39 +22,39 @@ Those who find themselves in the halls of [[Hotel Midsummer]] are pursued relent
 
 ### Images
 
-> [!info|no-i]- Hallway
+> [!recite|nbrd no-i]- Hallway
 > ![[imgHotelMidsummerCorridor.jpg]]
 
-> [!info|no-i]- The Sandman
+> [!recite|nbrd no-i]- The Sandman
 > ![[imgTheSandman.png]]
 
-> [!info|no-i]- Bottomless Pit
+> [!recite|nbrd no-i]- Bottomless Pit
 > ![[imgBottomlessPit.jpg]]
 
-> [!info|no-i]- Claustrophobia and Caving
+> [!recite|nbrd no-i]- Claustrophobia and Caving
 > ![[imgCave.webp]]
 
-> [!info|no-i]- Ravine of Monsters
+> [!recite|nbrd no-i]- Ravine of Monsters
 > ![[imgRavine.jpg]]
 
-> [!info|no-i]- Endless Ocean
+> [!recite|nbrd no-i]- Endless Ocean
 > ![[gifOcean.mp4]]
 
-> [!info|no-i]- Lost in Camarath
+> [!recite|nbrd no-i]- Lost in Camarath
 > ![[imgCamarath.jpg]]
 
-> [!info|no-i]- Fiery Voyage
+> [!recite|nbrd no-i]- Fiery Voyage
 > ![[imgSeaOfFire.jpg]]
 
-> [!info|no-i]- Zamvol's Presentation
+> [!recite|nbrd no-i]- Zamvol's Presentation
 > ![[imgOrcTent.jpg]]
 
-> [!info|no-i]- Chase Track Rules
+> [!recite|nbrd no-i]- Chase Track Rules
 > ![[Chase track Rules.png]]
 
 ### The Sandman
-> [!recite|clean no-t]
->	Long thin legs seem to make up the majority of his height with only a small torso attached. Inhumanly spindly arms reach out twice as far as is comfortable from body, each with two elbows that allow it to bend in either direction. One had is perpetually clenched into a fist, with a constant trickle of sand falling between his fingers, marking a path of dust wherever he treads. In the other is a circle of thread, woven into an intricate pattern, with several black feathers tied to the rim. He wears a dark cloak, draped loosely over his almost insect like body, and those unlucky enough to catch a glimpse under his dark hood would see his eyes are sewn shut.
+> [!boxed |no-t]
+> Long thin legs seem to make up the majority of his height with only a small torso attached. Inhumanly spindly arms reach out twice as far as is comfortable from body, each with two elbows that allow it to bend in either direction. One had is perpetually clenched into a fist, with a constant trickle of sand falling between his fingers, marking a path of dust wherever he treads. In the other is a circle of thread, woven into an intricate pattern, with several black feathers tied to the rim. He wears a dark cloak, draped loosely over his almost insect like body, and those unlucky enough to catch a glimpse under his dark hood would see his eyes are sewn shut.
 
 If [[The Sandman]] touches any of the players, he will steal one of their dreams and they take a level of exhaustion.
 

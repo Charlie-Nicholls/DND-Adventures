@@ -38,7 +38,7 @@ locations:
 > <br>
 > 
 >> [!boxed|no-t]
->> The cabinet obscured a section of wall that swings inwards, on the floor are shards of thicker glass.
+>> The cabinet obscured a section of wall that swings inwards and reveals the fireplace on the other side, on the floor are shards of thicker glass.
 >^Hard
 
 ### Secret Passages

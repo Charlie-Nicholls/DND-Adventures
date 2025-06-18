@@ -2,3 +2,5 @@
 - [ ] Alibis for each of the characters
 - [ ] Knowledge for each of the characters
 - [ ] PC Notes
+- [ ] **Add Vial of Adder Venom**
+- [ ] **More Clues to Myrtle**
