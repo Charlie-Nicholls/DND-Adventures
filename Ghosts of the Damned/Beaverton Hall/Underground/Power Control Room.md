@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> You see a long cold hallway with stone walls. Along those walls are a wide variety of levers, switches and readouts, connected to wires and pipes that follow the walls of the corridor. Next to each of the levels is a label with one of the rooms of the house printed on it.
+> You see a long cold hallway with stone walls. Along those walls are a wide variety of levers, switches and readouts, connected to wires and pipes that follow the walls of the corridor. Next to each of the levers is a label with one of the rooms of the house printed on it.
 >^IntroText
 	
 ### Connections

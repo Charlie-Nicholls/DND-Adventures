@@ -50,7 +50,7 @@ locations:
 > <br>
 > 
 >> [!boxed|no-t]
->> The hidden compartment contains letters, dated from 6 months ago, that appear to just be a sequence of random numbers and a half full vial of a clear liquid.
+>> The hidden compartment contains letters, dated from 16 months ago, that appear to just be a sequence of random numbers and a half full vial of a clear liquid.
 >
 > $\quad$ If decoded using book cipher:
 >> [!boxed|no-t]

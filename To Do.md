@@ -4,3 +4,4 @@
 - [ ] PC Notes
 - [x] **Add Vial of Adder Venom**
 - [ ] **More Clues to Myrtle**
+- [ ] Reword scuff mark clues in SQ to make it clearer
