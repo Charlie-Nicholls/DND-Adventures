@@ -5,3 +5,5 @@
  - Smell of ozone from lighting strike matches that of the study,
     
 - Ornate rapier display in any room that feels right
+
+- Any NPC in the living room can remember finding it odd that they heard the bathroom door close during the light flickering, then when they next saw it after the squire's body was discovered the door was open again but didn't see who went in or out.
