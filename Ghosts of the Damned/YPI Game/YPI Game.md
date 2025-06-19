@@ -23,6 +23,14 @@ ChefRussian: "Misha Bearov"
 Pychic: "Mystic Myrtle"
 Villian: "Harriet Adder"
 
+### Potential Harriets
+**Over 1 Year**
+[[Catherine Adams]], Canis, [[Dr Corbyn Beaver]], [[Irene Adams]], [[Lady Beaver]], [[Squire Beaver]], [[Birdie Small]], [[Colonel Hawkings]], [[Dr Redmund Herring]], [[Edwina Thimble]], Featherwick, [[Matilda Molesly]](?), [[Vicar Ian Prescott]]
+
+**Under 1 Year**
+[[Aurora Fable]](?), [[Ruffles Hound]](?), [[Sheila Cringle]], [[Armond Armadillo]](?), [[Bucky Kentucky]](?), [[Carolyn Dickory]](?), [[Lawrence Longfoot]], Mystic Myrtle
+
+(?) = Unknown by players
 ### Mod Rolls
 Mod 1: 17 (+1)
 Mod 2: 15 (+0)
