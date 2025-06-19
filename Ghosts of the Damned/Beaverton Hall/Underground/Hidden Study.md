@@ -72,7 +72,7 @@ locations:
 > <br>
 > 
 >> [!boxed|no-t]
->> The letters document in detail years of secrets, both British and Russian, sold by Squire Beaver to `= [[Ghosts of the Damned]].Villain` during his career as a spy. Letters since `= [[Ghosts of the Damned]].Villain`'s death are addressed to her previous subordinates and get increasingly angry in tone, suggesting he viewed himself as her natural successor and wished to lead the organisation.
+>> The letters document in detail years of secrets, both British and Russian, sold by Squire Beaver to `= [[Ghosts of the Damned]].Villain` during his career as a spy. Letters since `= [[Ghosts of the Damned]].Villain`'s death are addressed to her previous subordinates and get increasingly angry in tone, suggesting he viewed himself as her natural successor and wished to lead the organisation. The most recent communication is from 8 months ago and reads "I'm told you're looking to have some construction done but need some financial help. If I can recommend a company we sometimes make use of called 'Hound & Home' who will be able to offer you a reduced rate. Unofficially, of course, officially their rates are quite premium."
 >^Letters
 
 > [!recite|nbrd no-i]- `= [[Ghosts of the Damned]].ChefRussian` File

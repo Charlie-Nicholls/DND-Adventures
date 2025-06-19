@@ -34,10 +34,11 @@ Head of the construction company that built the [[Séance Room]]. This company i
 - Helped fake [[Irene Adams]]' death
 
 ### Knowledge
-- Knows `= [[Ghosts of the Damned]].Villain` is alive
 - Knows that and how [[Irene Adams]] death was faked
 - Knows the location of secret rooms
-- Does not know `= [[Ghosts of the Damned]].Villain`'s exact plan, but is ready to fight for here if needed
+- Knows the tricks of the [[Séance Room]], including the one-way mirror and how it works
+- Knows `= [[Ghosts of the Damned]].Author` is to be targeted at the end of the night and is to help
+- Does not know `= [[Ghosts of the Damned]].Villain` is alive or any further details of her plan, but is ready to fight for her if needed
 
 ### Alibi 
 Watched her fall, brought her body out for the others to see.

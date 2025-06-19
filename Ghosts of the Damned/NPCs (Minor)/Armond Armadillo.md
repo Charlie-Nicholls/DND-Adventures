@@ -26,7 +26,7 @@ ___
 >^IntroText
 
 ### Description
-
+An accountant brought in by [[Squire Beaver]] 6 months ago to attempt to wrestle their struggling finances back to stable footing. His meek demeanour has resulted in him being unable to assert himself to [[Lady Beaver]] and her constant requests for frivolous purchases has only resulted in things getting worse.
 
 ### Secrets
 - 
