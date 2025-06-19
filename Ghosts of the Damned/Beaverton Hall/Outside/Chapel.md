@@ -54,14 +54,14 @@ locations:
 > <br>
 > 
 >> [!boxed|no-t]
->> There is wound in her chest, but a lack of blood around the wound and it is not what killed her. There is also some bruising around the arms like she was restrained, and around the neck indicating strangulation was the real cause of death. You find a typewritten note on her which reads: "Will meet you at the station next Monday. Looking forward to finally getting to meet you!" the corner is slightly damp where one might hold it, indicating it must've been found recently by someone else. It doesn't seem possible to know who sent it or to whom but it has recently been scrunched up in anger. The body shows signs of recent unnatural weight loss and dilated pupils.
+>> There is wound in her chest, but a lack of blood around the wound and it is not what killed her. There is also some bruising around the arms like she was restrained, and around the neck indicating strangulation was the real cause of death. You find a typewritten note on her which reads: "Will meet you at the station next Monday. Looking forward to finally getting to meet you!" the corner is slightly damp where one might hold it, indicating it must've been found recently by someone else. It doesn't seem possible to know who sent it or to whom but it has recently been scrunched up in anger. The body shows signs of recent unnatural weight loss and dilated pupils, which you know to be common symptoms of a drug addiction.
 >^Hard
 
 > [!recite|nbrd no-i]- Nat 20 (body)
 > <br>
 > 
 >> [!boxed|no-t]
->> There is wound in her chest, but a lack of blood around the wound and it is not what killed her. There is also some bruising around the arms like she was restrained, and around the neck indicating strangulation was the real cause of death. You find a typewritten note on her which reads: "Will meet you at the station next Monday. Looking forward to finally getting to meet you!" the corner is slightly damp where one might hold it, indicating it must've been found recently by someone else. It doesn't seem possible to know who sent it or to whom but it has recently been scrunched up in anger. The body shows signs of recent unnatural weight loss and dilated pupils, common signs of a cocaine addiction.
+>> There is wound in her chest, but a lack of blood around the wound and it is not what killed her. There is also some bruising around the arms like she was restrained, and around the neck indicating strangulation was the real cause of death. You find a typewritten note on her which reads: "Will meet you at the station next Monday. Looking forward to finally getting to meet you!" the corner is slightly damp where one might hold it, indicating it must've been found recently by someone else. It doesn't seem possible to know who sent it or to whom but it has recently been scrunched up in anger. The body shows signs of recent unnatural weight loss and dilated pupils, which you know to be common symptoms of a cocaine addiction.
 >^Nat20
 
 ### Secret Passages
