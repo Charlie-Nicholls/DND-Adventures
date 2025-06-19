@@ -36,10 +36,25 @@ Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s cons
 
 ### Statblock
 >```statblock
-name: Truffles Trotter
-speed: 30
-ac: 10
-hp: 10
-stats: [10,10,10,10,10,10]
-languages: English
-skillsaves: []
+> name: Truffles Trotter
+> source: 5e SRD
+> size: Medium
+> type: humanoid
+> subtype: pig
+> ac: 11
+> hp: 18
+> speed: 30 ft.
+> stats: [15,11,14,10,10,11]
+> skillsaves: [Intimidation: 2]
+> senses: passive Perception 10
+> languages: English
+> traits:
+>   - name: Surprise Attack
+>     desc: "If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat."
+> actions:
+>   - name: Multiattack
+>     desc: The thug makes two Truncheon or Hand Gun attacks.
+>   - name: Truncheon
+>     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage."
+>   - name: Hand Gun
+>     desc: "Ranged Weapon Attack: +2 to hit, range 80/320 ft., one target. Hit: 5 (1d8) piercing damage."

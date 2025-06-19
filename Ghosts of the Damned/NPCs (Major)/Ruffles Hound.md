@@ -46,16 +46,16 @@ Watched her fall, brought her body out for the others to see.
 >```statblock
 > name: Ruffles Hound
 > speed: 30
-> ac: 16
+> ac: 15
 > hp: 27
 > stats: [16,14,16,8,10,10]
 > languages: English
 > skillsaves: [Atheletics: 5, Deception: 3, Intimidation: 3]
-> traits:
->   - name: Surprise Attack
->     desc: "If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat."
 > actions:
 >   - name: Multiattack
 >     desc: "Ruffles Hound makes two Unarmed Strikes"
 >   - name: Unarmed Strike
->     desc: "Melee Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 3) Bludgeoning damage"
+>     desc: "Melee Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 3) Bludgeoning damage"
+> bonus_actions:
+>   - name: Aggressive.
+>     desc: "Ruffles Hound can move up to its speed toward a hostile creature that it can see."

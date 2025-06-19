@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> The downstairs bathroom is rather elaborate. 5 Paintings are scattered across the wall, depicting a beautiful landscape, a cathedral, an elizabethan building, a tree and a mural of carved figures. The far side of the room has busts of various figures, a wren, a nightingale, a deer, a chicken and a newt.
+> The downstairs bathroom is rather elaborate. 5 Paintings are scattered across the wall, depicting a beautiful landscape, a cathedral, an Elizabethan building, a tree and a mural of carved figures. The far side of the room has busts of various figures, a wren, a nightingale, a deer, a chicken and a newt.
 >^IntroText
 	
 ### Connections
