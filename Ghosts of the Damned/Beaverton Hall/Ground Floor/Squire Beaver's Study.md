@@ -83,13 +83,13 @@ locations:
 - Phone Book is open to the following page:
 
 > [!boxed|no-t]
-> Dr Redmund Herring - 080128841913
-> Rufus Hound - 017078965405 
+> [[Dr Redmund Herring]] - 080128841913
+> [[Ruffles Hound]] - 017078965405 
 > Bucky Kentucky - 077368280196
 > Lady Calliope Fawnbrook - 088260788170
 > Pope Rondo Rat - 042569596282
-> Vicar Ian Prescott - 014982134216
-> Armondo Armadillo - 077185937087
+> [[Vicar Ian Prescott]] - 014982134216
+> [[Armond Armadillo]] - 077185937087
 > Lars Vandenchomp - 087087155999
 > Ambrose Harding - 062039102637
 >^PhoneBook
