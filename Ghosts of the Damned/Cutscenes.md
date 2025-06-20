@@ -60,3 +60,18 @@
 > **Chapter 4: The Game is Apaw**
 > Many detectives describe the interplay between murderer and detective like a game of chess., but `= [[Ghosts of the Damned]].Detective` always considered this inaccurate. The game of murder was asymmetric; the murderer would set up the pieces before the detective even knows the game is being played. It is only on the first attacking move the second player gets to see the board, after which it becomes very hard for the first player to make a move without collapsing the defences they so carefully constructed. To break this convention, to make an attack so bold as to kill again with `= [[Ghosts of the Damned]].Detective` in the room, I would've told you it was the utmost of stupidity were it not for the look on `= [[Ghosts of the Damned]].Detective`'s face.
 >^Chapter4
+
+### 5 A Shot in the Dark
+> [!boxed|no-t]
+> **Chapter 5: A Shot in the Dark**
+> 
+
+### 6 Whatever Remains
+> [!boxed|no-t]
+> **Chapter 6 Whatever Remains**
+> "When you eliminate the impossible, whatever remains, however unlikely, must be the truth" is an oft quoted philosophy in detective work. Usually this is simple to follow, however there are some few scenarios where one naturally starts to waver. Sometimes, the impossible seems a hell of a lot more likely then the unlikely. This was what was running through my mind as we prepared to open the lid of the casket, and to look down at [[Irene Adams]], or at least, whatever remains.
+
+### 7 A Wolf in Sheep's Clothing
+> [!boxed|no-t]
+> **Chapter 7 A Wolf in Sheep's Clothing**
+> 

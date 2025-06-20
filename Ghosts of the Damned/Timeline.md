@@ -110,3 +110,5 @@ After this conversation, [[Squire Beaver]] starts to fear for his life, and reso
 ### 7 A Wolf in Sheep's Clothing
 #### 7.1 The Reveal
 #### 7.2 `= [[Ghosts of the Damned]].Detective` is Damned
+- Always leave at least one of the police or ruffles at the house, if a fight on the dam breaks out, they will go to the power control room and attempt to use the gate controls.
+- The police/ruffles/adder will try to draw the fight out onto the damn, and lock or block the door behind them.

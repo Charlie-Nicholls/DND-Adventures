@@ -7,7 +7,6 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiText",
-      "RiKnifeBloodFill",
       "LiNotepadText",
       "LiRabbit",
       "RiQuillPenFill",
@@ -15,7 +14,8 @@
       "LiForkKnife",
       "LiArchive",
       "FasBoxOpen",
-      "FasPhone"
+      "FasPhone",
+      "LiStars"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -144,7 +144,7 @@
   "Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring.md": "FasFish",
   "Ghosts of the Damned/YPI Game/Session 02 (2025-06-17).md": "LiNotepadText",
   "Ghosts of the Damned/YPI Game/Session 03 (2025-06-19).md": "LiNotepadText",
-  "Ghosts of the Damned/YPI Game/Session 04 (2025-06-20).md": "LiNotepadText",
   "Ghosts of the Damned/Murder Plan.md": "RiKnifeBloodFill",
+  "Ghosts of the Damned/YPI Game/Session 04 (2025-06-20).md": "LiNotepadText",
   "Ghosts of the Damned/Full Explanation.md": "LiText"
 }
