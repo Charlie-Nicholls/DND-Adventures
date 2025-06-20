@@ -43,7 +43,7 @@ Game is being run with three players so `=this.Author` will be run as an NPC usi
 name: Author
 speed: 30
 ac: 12
-hp: 28
+hp: 14
 stats: [10,14,10,14,15,18]
 languages: English
 skillsaves: [Deception: 6, Insight: 4, Investigation: 4, Stealth: 4]
