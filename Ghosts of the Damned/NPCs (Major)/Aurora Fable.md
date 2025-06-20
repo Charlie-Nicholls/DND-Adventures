@@ -52,9 +52,10 @@ Weasel Brown is a career criminal, with ties to smuggling she has since put behi
 - Speaks Russian
 
 ### Knowledge
-- `= [[Ghosts of the Damned]].Villain` faked her death
-- [[Dr Corbyn Beaver]] is a part of `= [[Ghosts of the Damned]].Villain`'s network
+- [[Dr Corbyn Beaver]] instructed her to stab `= [[Ghosts of the Damned]].Villain` in the gut
 - Embezzled money from [[Séance Room]]
+- There is a one way mirror in the [[Séance Room]]
+- How to get into the [[Séance Control Room]]
 
 ### Alibi 
 
