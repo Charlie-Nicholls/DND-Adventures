@@ -2,7 +2,7 @@
 type: adventure
 level: 4
 players: 3-4
-length: 6-8
+length: 10-15
 Detective: "Canis"
 Author: "Featherwick Crowley"
 Chef: "Winnie Bearett"
