@@ -47,8 +47,7 @@ hp: 14
 stats: [10,14,10,14,15,18]
 languages: English
 skillsaves: [Deception: 6, Insight: 4, Investigation: 4, Stealth: 4]
-traits:
-
+cr: 1/2
 actions:
   - name: Claw
     desc: "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage"
