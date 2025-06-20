@@ -39,33 +39,49 @@ ___
 > subtype: hare
 > ac: 13
 > hp: 27
-> hit_dice: 6d8
 > speed: 30 ft.
-> stats: [10,16,10,12,14,17]
-> skillsaves:
->   - deception: 5
->   - insight: 4
->   - investigation: 5
->   - perception: 6
->   - persuasion: 5
->   - stealth: 4
-> damage_vulnerabilities: ""
-> damage_resistances: ""
-> damage_immunities: ""
-> condition_immunities: ""
+> stats: [10,17,10,12,15,18]
+> saves: ["dexterity": 5]
+> skillsaves: ["deception": 6,"insight": 4,"investigation": 3,"perception": 4,"persuasion": 6,"stealth": 4]
 > senses: passive Perception 16
 > languages: English, Russian, German, French
-> cr: "1"
+> cr: 1
 > traits:
 >   - name: Master of Intrigue,
->     desc: "the villain can unerringly mimic the speech patterns and accent of a creature that they hear speak for at least 1 minute, enabling them to pass themsevles off as a native speaker of a particular land, provided that they know the language."
+>     desc: "the villain can unerringly mimic the speech patterns and accent of a creature that they hear speak for at least 1 minute, enabling them to pass themselves off as a native speaker of a particular land, provided that they know the language."
 > actions:
 >   - name: Poisoned Dagger
->     desc: "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage plus 7 (2d6) Poison damage."
+>     desc: "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d4 + 3) Piercing damage plus 7 (2d6) Poison damage."
 >   - name: Hand Gun
->     desc: "Ranged Attack Roll: +4, range 30/120 ft. Hit: 8 (1d10 + 3) Piercing damage."
+>     desc: "Ranged Attack Roll: +5, range 30/120 ft. Hit: 8 (1d10 + 3) Piercing damage."
 > bonus_actions:
 >   - name: Cunning Action
 >     desc: "On each of its turns, the villain can use a bonus action to take the Dash, Disengage, or Hide action."
 >   - name: Hare Hope (2/Day)
 >     desc: "The villain can jump 10 feet without provoking opportunity attacks. They can use this trait only if their speed is greater than 0."
+
+> ```statblock
+> name: Villain (Wearing Shell)
+> size: Medium
+> type: humanoid
+> subtype: hare
+> ac: 17
+> hp: 27
+> speed: 30 ft.
+> stats: [10,14,10,12,14,17]
+> saves: ["dexterity": 4]
+> skillsaves: ["deception": 6,"insight": 4,"investigation": 3,"perception": 4,"persuasion": 6,"stealth": 4]
+> senses: passive Perception 16
+> languages: English, Russian, German, French
+> cr: 1
+> traits:
+>   - name: Master of Intrigue,
+>     desc: "the villain can unerringly mimic the speech patterns and accent of a creature that they hear speak for at least 1 minute, enabling them to pass themselves off as a native speaker of a particular land, provided that they know the language."
+> actions:
+>   - name: Poisoned Dagger
+>     desc: "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d4 + 2) Piercing damage plus 7 (2d6) Poison damage."
+>   - name: Hand Gun
+>     desc: "Ranged Attack Roll: +4, range 30/120 ft. Hit: 7 (1d10 + 2) Piercing damage."
+> bonus_actions:
+>   - name: Cunning Action
+>     desc: "On each of its turns, the villain can use a bonus action to take the Dash, Disengage, or Hide action."
