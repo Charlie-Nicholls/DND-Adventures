@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/k1mpna42
-share_updated: 2025-06-14T12:36:40+01:00
+share_updated: 2025-06-20T22:15:28+01:00
 ---
 ###### Murder Plan
 <span class="sub2">:FasClock: Plan</span>

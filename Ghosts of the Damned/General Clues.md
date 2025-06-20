@@ -1,3 +1,10 @@
+###### General Clues
+<span class="sub2">:FasClock: Plan</span>
+
+---
+
+Any investigations in rooms with nothing in or at another opportunity can present these:
+
 - A book about the discover of gravity by Isaac Newton,
 - A book about Florence Nightingale with a picture of her in front of a crimean landscape on the cover,
 - The plays of William Shakesdeer with The Globe Theater on the cover,

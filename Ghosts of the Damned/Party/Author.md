@@ -45,7 +45,7 @@ action: {type: open, link: undefined, newTab: true}
 # Profile
 	
 ### Description
-Description
+Originally a commoner, performing in bars and streets for entertainment. Occasionally getting involved with some shadier operations & bumping shoulders with important people through his skills with people. Ends up framed for murder in the Mimmick Murders. `= [[Ghosts of the Damned]].Detective` managed to prove his innocence and they've been friends ever since. He has since become a best selling author chronicling `= [[Ghosts of the Damned]].Detective`s adventures.
 
 ### Secrets
 - None
