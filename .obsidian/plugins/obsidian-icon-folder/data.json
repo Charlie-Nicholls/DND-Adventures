@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMap",
       "LiText",
       "RiKnifeBloodFill",
       "LiNotepadText",
@@ -14,8 +15,7 @@
       "FasFish",
       "LiForkKnife",
       "LiArchive",
-      "FasBoxOpen",
-      "FasPhone"
+      "FasBoxOpen"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -145,5 +145,6 @@
   "Ghosts of the Damned/YPI Game/Session 03 (2025-06-19).md": "LiNotepadText",
   "Ghosts of the Damned/YPI Game/Session 04 (2025-06-20).md": "LiNotepadText",
   "Ghosts of the Damned/Murder Plan.md": "RiKnifeBloodFill",
-  "Ghosts of the Damned/Full Explanation.md": "LiText"
+  "Ghosts of the Damned/Full Explanation.md": "LiText",
+  "Ghosts of the Damned/Assets/Maps": "FasMap"
 }
