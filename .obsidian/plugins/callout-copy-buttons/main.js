@@ -109,6 +109,10 @@ async function onCopyButtonClick({ getCalloutBodyText, copyButton, }) {
         new obsidian_1.Notice("Error: Could not copy callout text");
         return;
     }
+    if (calloutBodyText === "") {
+        new obsidian_1.Notice("Callout Copy Buttons: Nothing to copy");
+        return;
+    }
     await navigator.clipboard.writeText(calloutBodyText);
     // console.log(`Copied: ${JSON.stringify(calloutBodyText)}`);
     (0, obsidian_1.setIcon)(copyButton, "check");
@@ -412,7 +416,7 @@ function addCopyPlainTextButtonToCalloutDiv({ calloutNode, isCMCalloutNode, plug
     }
     addCopyButtonToCallout({
         calloutNode,
-        getCalloutBodyText: () => (0, getCalloutBodyText_1.getCalloutBodyTextFromInnerText)(calloutNode),
+        getCalloutBodyText: () => (0, getCalloutBodyText_1.getCalloutBodyPlainText)(calloutNode),
         tooltipText: "Copy (plain text)",
         buttonClassName: "callout-copy-button-plain-text",
         isCMCalloutNode,
@@ -543,12 +547,21 @@ function moveEditBlockButtonOutOfWrapper(editBlockButton) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-exports.getCalloutBodyTextFromInnerText = getCalloutBodyTextFromInnerText;
+exports.getCalloutBodyPlainText = getCalloutBodyPlainText;
 exports.getCalloutBodyLines = getCalloutBodyLines;
 exports.getCalloutBodyTextFromSectionInfo = getCalloutBodyTextFromSectionInfo;
 const CALLOUT_HEADER_WITH_INDENT_CAPTURE_REGEX = /^((?:> )+)\[!.+\]/;
-function getCalloutBodyTextFromInnerText(calloutNode) {
-    return calloutNode.innerText.split("\n").slice(1).join("\n").trim();
+/**
+ * Gets the body content of the given callout node, in plain text format, from the `innerText` HTML
+ * attribute of the node's `.callout-content` child div if found, else the callout node itself (in
+ * which case we strip off the first line which corresponds to the callout header).
+ *
+ * Trims any leading/trailing whitespace before returning.
+ */
+function getCalloutBodyPlainText(calloutNode) {
+    const maybeBodyFromCalloutContentDiv = calloutNode.querySelector("div.callout-content")?.innerText;
+    const calloutBodyContent = maybeBodyFromCalloutContentDiv ?? calloutNode.innerText.split("\n").slice(1).join("\n");
+    return calloutBodyContent.replace(/\n\n\n+/g, "\n\n").trim();
 }
 /**
  * Returns the lines of the callout body, starting from the line after the callout header, with the
