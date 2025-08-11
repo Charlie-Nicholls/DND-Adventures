@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasSpider",
+      "FasClock",
+      "LiBedSingle",
+      "RiHexagonFill",
+      "FasGem",
+      "LiImages",
+      "RiZzzFill",
       "FasQuestion",
       "FasMap",
-      "LiText",
-      "RiKnifeBloodFill",
-      "LiNotepadText",
-      "LiRabbit",
-      "RiQuillPenFill",
-      "FasFish",
-      "LiForkKnife",
-      "LiArchive"
+      "LiText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -74,7 +74,6 @@
   "Spaceship": "FasShuttleSpace",
   "Ghosts of the Damned/Beaverton Hall": "FasHouse",
   "Amid Summer Night's Dream/Hotel Midsummer.md": "FasHotel",
-  "Amid Summer Night's Dream/The Gem.md": "FasGem",
   "Ghosts of the Damned/Beaverton Hall/Ground Floor/Dr Corbyn Beaver's Study.md": "LiFiles",
   "Ghosts of the Damned/Beaverton Hall/First Floor/Corbyn Beaver's Room.md": "LiBedSingle",
   "Ghosts of the Damned/Beaverton Hall/First Floor/En-suite Bathroom.md": "FasBath",
@@ -147,5 +146,12 @@
   "Ghosts of the Damned/Murder Plan.md": "RiKnifeBloodFill",
   "Ghosts of the Damned/Full Explanation.md": "LiText",
   "Ghosts of the Damned/Assets/Maps": "FasMap",
-  "Ghosts of the Damned/Assets/Other": "FasQuestion"
+  "Ghosts of the Damned/Assets/Other": "FasQuestion",
+  "Amid Summer Night's Dream/NPCs/Nightmare Hag.md": "RiZzzFill",
+  "Amid Summer Night's Dream/Images.md": "LiImages",
+  "Amid Summer Night's Dream/Chase Track Mechanics.md": "RiHexagonFill",
+  "Amid Summer Night's Dream/Timeline.md": "FasClock",
+  "Amid Summer Night's Dream/Phantasmal Gem.md": "FasGem",
+  "Amid Summer Night's Dream/Nightmare Creatures.md": "FasSpider",
+  "Amid Summer Night's Dream/Dream Rooms.md": "LiBedSingle"
 }
