@@ -53,6 +53,7 @@ When [[The Sandman]] first appears play the following  [music](https://www.youtu
 ```statblock
 name: The Sandman
 speed: 30
+ac: 16
 stats: [11,14,-,14,20,18]
 languages: Understands Common and Elvish but can't speak
 skillsaves: [charisma: 7, dexterity: 5]
