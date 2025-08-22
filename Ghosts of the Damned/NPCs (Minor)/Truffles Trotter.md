@@ -41,7 +41,7 @@ Introduced as Officer Truffles Trotter, he works for ⁠[[Ruffles Hound]]'s cons
 > size: Medium
 > type: humanoid
 > subtype: pig
-> ac: 11
+> ac: 14
 > hp: 18
 > speed: 30 ft.
 > stats: [15,11,14,10,10,11]

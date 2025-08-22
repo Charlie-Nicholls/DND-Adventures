@@ -41,7 +41,7 @@ Introduced as Officer Donald Dumpster, he works for ⁠[[Ruffles Hound]]'s const
 > size: Medium
 > type: humanoid
 > subtype: badger
-> ac: 18
+> ac: 14
 > hp: 18
 > speed: 30 ft.
 > stats: [15,11,14,10,10,11]

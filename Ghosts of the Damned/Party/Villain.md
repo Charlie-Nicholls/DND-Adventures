@@ -43,7 +43,7 @@ ___
 > stats: [10,17,10,12,15,18]
 > saves: ["dexterity": 5]
 > skillsaves: ["deception": 6,"insight": 4,"investigation": 3,"perception": 4,"persuasion": 6,"stealth": 4]
-> senses: passive Perception 16
+> senses: passive Perception 14
 > languages: English, Russian, German, French
 > cr: 1
 > traits:
@@ -71,7 +71,7 @@ ___
 > stats: [10,14,10,12,14,17]
 > saves: ["dexterity": 4]
 > skillsaves: ["deception": 6,"insight": 4,"investigation": 3,"perception": 4,"persuasion": 6,"stealth": 4]
-> senses: passive Perception 16
+> senses: passive Perception 14
 > languages: English, Russian, German, French
 > cr: 1
 > traits:

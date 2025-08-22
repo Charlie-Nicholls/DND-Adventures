@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMagnifyingGlass",
+      "FasShuttleSpace",
+      "FasUsers",
+      "FasImage",
       "LiText",
       "LiNotepadText",
       "LiRabbit",
       "RiQuillPenFill",
       "FasFish",
-      "LiForkKnife",
-      "LiArchive",
-      "FasBoxOpen",
-      "FasPhone",
-      "LiStars"
+      "LiForkKnife"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -68,10 +68,8 @@
   "_Assets/DM Toolbox/NPC Creation.md": "FasPerson",
   "_Assets/DM Toolbox/Working Note.md": "LiNotebookPen",
   "Ghosts of the Damned/Ghosts of the Damned.md": "FasGhost",
-  "Ghosts of the Damned": "FasHouse",
+  "Ghosts of the Damned": "FasMagnifyingGlass",
   "Ghosts of the Damned/Party": "FasImagePortrait",
-  "Spaceship/Spaceship.md": "FasShuttleSpace",
-  "Spaceship": "FasShuttleSpace",
   "Ghosts of the Damned/Beaverton Hall": "FasHouse",
   "Amid Summer Night's Dream/Hotel Midsummer.md": "FasHotel",
   "Amid Summer Night's Dream/The Gem.md": "FasGem",
@@ -146,5 +144,10 @@
   "Ghosts of the Damned/YPI Game/Session 03 (2025-06-19).md": "LiNotepadText",
   "Ghosts of the Damned/Murder Plan.md": "RiKnifeBloodFill",
   "Ghosts of the Damned/YPI Game/Session 04 (2025-06-20).md": "LiNotepadText",
-  "Ghosts of the Damned/Full Explanation.md": "LiText"
+  "Ghosts of the Damned/Full Explanation.md": "LiText",
+  "Spaceship Survival": "FasShuttleSpace",
+  "Spaceship Survival/Assets": "FasImage",
+  "Spaceship Survival/NPCs": "FasUsers",
+  "Spaceship Survival/Spaceship Survival.md": "FasShuttleSpace",
+  "Spaceship Survival/Ship": "FasShuttleSpace"
 }

@@ -2,7 +2,7 @@
 type: adventure
 level: 4
 players: 3-4
-length: 6-8
+length: 8-10
 Detective: "Canis"
 Author: "Featherwick Crowley"
 Chef: "Winnie Bearett"
@@ -15,6 +15,8 @@ Villain: "Harriet Adder"
 
 ---
 
+### Description
+It's the night of [[Squire Beaver]]'s 50th birthday party and his friends and family gather to celebrate. But, just a few weeks earlier [[Irene Adams]] seemed to throw herself to her death and her ghost haunts the occasion. As the supernatural continues to escalate and the threat becomes ever more real, can the guests solve the mystery surrounding [[Squire Beaver]] before it's too late. Or will they succumb to the schemes of revenge from the ghosts of the damned.
 
 ### Names
 

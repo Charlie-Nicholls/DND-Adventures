@@ -10,7 +10,7 @@ locations:
 ---
 
 > [!boxed|no-t]
-> Introduction for players
+> The Chapel is fairly old and disused. The pews are starting to fall apart and in the north-east corner is a messy pile of crates.
 >^IntroText
 	
 ### Connections
