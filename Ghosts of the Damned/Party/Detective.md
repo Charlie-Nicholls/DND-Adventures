@@ -45,7 +45,7 @@ action: {type: open, link: undefined, newTab: true}
 # Profile
 	
 ### Description
-Description
+Known as the "world's greatest detective", though in no small part because of the popularity of his friend `= [[Ghosts of the Damned]].Author`'s series of best selling books about his adventures. `= [[Ghosts of the Damned]].Detective` has solved many seemingly impossible cases. But his greatest feat was identifying `= [[Ghosts of the Damned]].Villain` and her network of spies, blackmailers, smugglers and other criminals, eventually getting her arrested. During this time she manipulated her way into `= [[Ghosts of the Damned]].Detective`'s life, seducing him and "helping" him with his cases whilst steering him away from her network. She died in prison a year ago after being stabbed in an "incident".
 
 ### Secrets
 - None

@@ -2,5 +2,18 @@
   "saveWindowLocations": true,
   "useCustomWindowName": true,
   "customWindowName": "Player View",
-  "windows": {}
+  "windows": {
+    "Second Window": {
+      "hosts": {
+        "Charlie-PC": {
+          "x": 1912,
+          "y": -8,
+          "width": 1936,
+          "height": 1048,
+          "fullscreen": false,
+          "maximized": true
+        }
+      }
+    }
+  }
 }

@@ -18,10 +18,6 @@ ___
 
 # Profile
 
-> [!boxed|no-t]
-> Introduction for players
->^IntroText
-
 ### Description
 `= [[Ghosts of the Damned]].Villain` is a master criminal and head of a massive network of smugglers and spies, weaving a web of political power and wealth through her skill in gathering secrets and blackmail. Some years ago, `= [[Ghosts of the Damned]].Detective` was closing in on her network, so she had her contacts perpetrate a crime against herself for him to investigate. During this time, she seduced him, and worked with him on several occasions, sometimes helping and sometimes leading him away from her network. Eventually, she was caught and imprisoned. 
 

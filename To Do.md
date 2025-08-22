@@ -1,7 +1,0 @@
-- [ ] Descriptions of each of the Rooms
-- [ ] Alibis for each of the characters
-- [ ] Knowledge for each of the characters
-- [ ] PC Notes
-- [x] **Add Vial of Adder Venom**
-- [ ] **More Clues to Myrtle**
-- [ ] Reword scuff mark clues in SQ to make it clearer

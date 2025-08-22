@@ -7,7 +7,7 @@
 #### 1.0 Opening
 `= [[Ghosts of the Damned]].Author` sitting down to write The Ghost of the Damned. Scene shifts to earlier when Catherine arrives at `= [[Ghosts of the Damned]].Detective`/Crowley's house to ask for help as she believes her wife was murdered.
 #### 1.1 The Death of Irene
-- Flashback to several weeks earlier. Irene's Body is discovered. Introduce `= [[Ghosts of the Damned]].Chef` and `= [[Ghosts of the Damned]].Psychic`.
+Flashback to several weeks earlier. Irene's Body is discovered. Introduce `= [[Ghosts of the Damned]].Chef` and `= [[Ghosts of the Damned]].Psychic`.
 - After a minute ⁠[[Irene Adams]] is seen opening a window in the ⁠servants-quarters and seeming to start to step out onto the ledge.
 - Once noticed she turns around and steps back into the room momentarily unseen. 
 - She is then seen to throw herself out of the window, landing on a spiked metal railing, piercing the chest.
@@ -104,11 +104,13 @@ If the knife is pulled Catherine Adams feels a cold shiver go down her spine. Th
 #### 3.4 The Squire's Death
 After this conversation, [[Squire Beaver]] starts to fear for his life, and resolves to tell `= [[Ghosts of the Damned]].Detective` about his involvement with `= [[Ghosts of the Damned]].Villain`. He heads into [[Squire Beaver's Study]] and uses the phone to open the trapdoor to his [[Hidden Study]]. He calls `= [[Ghosts of the Damned]].Detective` in as he replaces the phone, sits at his desk and pours a glass of whiskey from a bottle [[Dr Redmund Herring]] gifted him. Before he says anything useful however, [[Irene Adams]] starts ramping up the power in the [[Power Control Room]]. Read [[Cutscenes#^Chapter3-4In|Cutscene]] and [[Cutscenes#^Chapter3-4Out|Cutscene]].
 ### 4 The Game is Apaw
+After [[Squire Beaver]]'s death, roll a D20, on a 20 [[Dr Corbyn Beaver]] will seek out `= [[Ghosts of the Damned]].Detective` to tell him everything he knows. Continue to roll at the start of each new scene ~ every 30-45 mins in real life, reducing the required roll each time. Ensure the `= [[Ghosts of the Damned]].Villain` knows what this roll is to build tension for them and encourage them to kill [[Dr Corbyn Beaver]].
 ### 5 A Shot in the Dark
 #### 5.1 The Death of Dr Corbyn Beaver
 ### 6 Whatever Remains
 ### 7 A Wolf in Sheep's Clothing
 #### 7.1 The Reveal
+- At least one of the police/ruffles needs to be with `= [[Ghosts of the Damned]].Author` when the reveal occurs
 #### 7.2 `= [[Ghosts of the Damned]].Detective` is Damned
-- Always leave at least one of the police or ruffles at the house, if a fight on the dam breaks out, they will go to the power control room and attempt to use the gate controls.
+- Try leave at least one of the police or ruffles at the house, if a fight on the dam breaks out, they will go to the power control room and attempt to use the gate controls.
 - The police/ruffles/adder will try to draw the fight out onto the damn, and lock or block the door behind them.

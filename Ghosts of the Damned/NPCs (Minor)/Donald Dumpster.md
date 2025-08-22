@@ -58,3 +58,4 @@ Introduced as Officer Donald Dumpster, he works for ⁠[[Ruffles Hound]]'s const
 >     desc: "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage."
 >   - name: Hand Gun
 >     desc: "Ranged Weapon Attack: +2 to hit, range 80/320 ft., one target. Hit: 5 (1d8) piercing damage."
+
