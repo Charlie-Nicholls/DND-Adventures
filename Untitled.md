@@ -8,7 +8,7 @@
   Purpose (glitched) - Gather knowledge, collect wisdom and record the truths of Mystery. 
 - Athena
 - First person they met was Prince Kevin and trusted him as a source of a lot of knowledge.
-- 
+- arcane gauntlets reskinned to detachable hands
 
 #### Fairy (Mum)
 
