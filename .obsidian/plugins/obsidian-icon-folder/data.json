@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiPlantFill",
+      "FasHandFist",
+      "RiQuillPenFill",
       "LiNotebookPen",
       "RiHexagonFill",
       "FasBed",
       "FasImages",
       "FasSpider",
       "FasGem",
-      "FasClock",
-      "FasMap",
-      "FasImagePortrait",
-      "LiTrees"
+      "FasClock"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -154,5 +154,8 @@
   "Amid Summer Night's Dream/Images.md": "FasImages",
   "Amid Summer Night's Dream/Dream Rooms.md": "FasBed",
   "Amid Summer Night's Dream/Chase Track Mechanics.md": "RiHexagonFill",
-  "Grove of Eloris/Plan.md": "LiNotebookPen"
+  "Grove of Eloris/Plan.md": "LiNotebookPen",
+  "Grove of Eloris/Party/Prince Kevin of Accle.md": "RiQuillPenFill",
+  "Grove of Eloris/Party/TBD Clank.md": "FasHandFist",
+  "Grove of Eloris/Party/TBD Fairy.md": "RiPlantFill"
 }

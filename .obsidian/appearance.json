@@ -49,5 +49,6 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "monospaceFontFamily": "Fira Code",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "showRibbon": true
 }
