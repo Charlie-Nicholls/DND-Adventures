@@ -83,24 +83,27 @@ ___
 >^IntroText
 
 ### Description
+
+#### Background
 Description
+
+#### Motivations
+- List of Motivations
+
+#### Secrets
+- None
 
 ### Appearances
 - Summary of Appearances
 
-### Motivations
-- List of Motivations
+### Relationships
+#### Allies
+- [[Characters]] or [[Organisations]]
+
+#### Enemies
+- [[Characters]] or [[Organisations]]
 
 ### Magic Items / Abilities
-- None
-
-### Allies
-- [[Characters]] or [[Organisations]]
-
-### Enemies
-- [[Characters]] or [[Organisations]]
-
-### Secrets
 - None
 
 ### Statblock

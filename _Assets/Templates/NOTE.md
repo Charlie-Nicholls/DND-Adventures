@@ -51,8 +51,6 @@ _%>
 ---
 type: notes
 date: <% date %>
-locations:
-<% location ? location : ' - '%>
 alias: "<% title %>"
 displayLink: "[[<% name %>]]"
 ---
@@ -70,7 +68,7 @@ ___
 >> - [[Characters]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> <% location ? location : ' - '%>
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]
@@ -78,6 +76,9 @@ ___
 ---
 
 ### Plan
+> [!recite|nbrd no-i] Fear Tracker
+> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+
 Plan for the session here.
 
 ### Notes

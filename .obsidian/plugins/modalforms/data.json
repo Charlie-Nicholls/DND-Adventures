@@ -662,13 +662,11 @@
           "name": "Community",
           "label": "Community:",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "dataview",
-            "allowUnknownValues": false,
-            "hidden": false,
             "query": "['Highborne','Loreborne','Orderborne','Ridgeborne','Seaborne','Slyborne','Underborne','Wanderborne','Wildborne']"
-          },
-          "isRequired": false
+          }
         },
         {
           "name": "Class",
