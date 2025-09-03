@@ -5238,6 +5238,186 @@
         ],
         "source": "Homebrew"
       }
+    ],
+    [
+      "Hurricane",
+      {
+        "name": "Hurricane",
+        "tier": "2",
+        "layout": "Daggerheart Environment",
+        "type": "Event",
+        "description": "Winds whipped up to terrifying speeds and waves that threaten to overturn your ship.",
+        "impulses": null,
+        "difficulty": "15",
+        "potential_adversaries": "Electric Eels, Shark, Siren",
+        "feats": [
+          {
+            "name": "Survive the Storm - Passive",
+            "text": "When the Hurricane arrives, activate a Countdown (1d6+2), which decreases each time a PC rolls with Hope. When the countdown ends, replace this with the Ocean environment and set the Weather Difficulty to 4.\n          \n  *What questions should go here? What questions should go here?*"
+          },
+          {
+            "name": "Sink or Swim - Passive",
+            "text": "Any PCs in the water who cannot breather underwater when the Hurricane is spotlighted must mark 2 Stress.\n\n  *What questions should go here? What questions should go here?*\n "
+          },
+          {
+            "name": "Tip The Boat - Action",
+            "text": "Begin a Consequence Countdown (3). When the countdown completes, the boat is flipped and all PCs onboard are thrown into the water, taking 4d8 physical damage and mark a Stress. Any PC can use an action when spotlighted to attempted to stabalise the boat, increasing the countdown by 1 on a success with fear and 2 on a success with hope.\n\n  *What questions should go here? What questions should go here?*\n       "
+          },
+          {
+            "name": "High Winds - Action",
+            "text": "Decrease the Tip The Boat Countdown by 1. High winds buffet the boat, each creature onboard must succeed on an Agility Reaction Roll or take 1d8 physical damage and mark a Stress.\n\n  *What questions should go here? What questions should go here?*\n           "
+          },
+          {
+            "name": "Tidal Wave - Action",
+            "text": "Spend a Fear to have a massive wave hit the boat, decreasing the Tip The Boat Countdown by 2. Pick a point on the boat, all creatures within Close range must make an Agility saving throw. Targets who fail take 3d4+2 physical damage and have disadvantage on their next action.\n\n  *What questions should go here? What questions should go here?*"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Ocean",
+      {
+        "name": "Ocean",
+        "tier": "2",
+        "layout": "Daggerheart Environment",
+        "type": "Traversal",
+        "description": "Water stretches out as far as the eye can see, stormy waters threaten sailors while creatures unknown lurk beneath the surface.",
+        "impulses": "Test stamina and navigational skills, rock the boat, monsters seek to sink ships",
+        "difficulty": "13",
+        "potential_adversaries": "Pirate Ship (Pirate Captain, Pirate Raiders, Pirate Tough), Electric Eels, Shark, Siren",
+        "feats": [
+          {
+            "name": "Sleepless Nights - Passive",
+            "text": "It is not possibly to truly rest during the harsh life on the sea. PCs may choose 1 fewer Downtime Actions during rests.\n  *How do you help with navigation? Directly or by helping with life on the ship in other ways? How are you spending your free time during the long voyage?*"
+          },
+          {
+            "name": "Ocean Navigation - Passive",
+            "text": "Crossing the ocean requires the party to complete a Progress Countdown (number of hexes moved), by making Navigation rolls every 6 hours. A Navigation roll with fear immediately acivate the Worsen Weather, High Seas or Siren's Lure feature without the need to spend a fear. On a Navigation roll with Hope, the PC can choose to spend a Hope to reduce the Weather Difficulty by 1.\n\n  *How do you help with navigation? Directly or by helping with life on the ship in other ways? How are you spending your free time during the long voyage?*\n  "
+          },
+          {
+            "name": "Weather Effects - Passive",
+            "text": "Choose a Weather Difficulty to start the journey at, by default 2. Waiting for 6 hours without a Navigation check causes the Weather Difficulty to change according to a d6 roll as follows: \n1: +1 (max 4), 2-4: +0, 5-6: -1. \nEach weather has the following effect:\n1. Clear Skies - Advantage on Navigation rolls\n2. Rainy Day - **Mark a Stress** on a Navigation roll with Fear.\n3. Foggy Waters - Disadvantage on Navigation rolls\n4. Stormy Seas - Players must **Mark a Stress** to make or help with a Navigation rolls. Failure with Fear blows you off course, increasing the Progress Countdown by 1.\n5. Hurricane Season (Phase Change) - A Hurricane rolls in, replace this with the Hurricane environment. This cannot be activated more than once.\n\n  *What questions should go here? What questions should go here?*\n  \n  "
+          },
+          {
+            "name": "Worsen Weather - Action",
+            "text": "*Spend a Fear* to increase the Weather Difficulty by 1.\n\n  *What questions should go here? What questions should go here?*\n  "
+          },
+          {
+            "name": "High Seas - Action",
+            "text": "*Spend a Fear* to cause a Pirate Ship containing a Pirate Captain, 2 Pirate Bruisers and 3 Pirate Hordes to appear at Very Far distance.\n\n  *Does the Pirate Ship try to board them? Do the players recognise it for what it is? Do the players flee the ship or try to fight it?*\n  "
+          },
+          {
+            "name": "Siren's Lure - Action",
+            "text": "Have an alluring Siren appear at the side of the ship and try to charm the PCs. *Spend a Fear* when two Sharks under her spell pretend to attack her and drag her underwater attempting to lure the PCs into jumping in to rescue her. If any do, the Siren and 2 Sharks attempt to attack and eat the PC.\n\n  *How does the Siren attempt to charm the Players? What would she appear like to her target? How good is her acting when being 'attacked'?*"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Ambusher",
+      {
+        "name": "Ambusher",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Standard",
+        "difficulty": "12",
+        "thresholds": "6/12",
+        "hp": "3",
+        "stress": "2",
+        "atk": "+1",
+        "attack": "Dagger",
+        "range": "Melee",
+        "damage": "1d8+5 phy",
+        "feats": [
+          {
+            "name": "Ambush - Reaction",
+            "text": "When the Ambusher enters the scene without being spotted first, they can immediately move into Melee with a target and make an attack against them. On a success, they strike with their dagger for 2d4+8 physical damage."
+          }
+        ],
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Thief",
+      {
+        "name": "Thief",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Leader",
+        "difficulty": "14",
+        "thresholds": "7/14",
+        "hp": "4",
+        "stress": "2",
+        "atk": "+3",
+        "attack": "Serrated Blade",
+        "range": "Melee",
+        "damage": "2d4+3 phy",
+        "feats": [
+          {
+            "name": "Back Off - Action",
+            "text": "**Spend a Fear** to make an attack against all targets within Melee range. Any they succeed against are blasted backwards, dealing 2d6+3 magic damage and pushing them into Far range."
+          }
+        ],
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Strixwolf",
+      {
+        "name": "Strixwolf",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Standard",
+        "difficulty": "10",
+        "thresholds": "4/8",
+        "hp": "3",
+        "stress": "3",
+        "atk": "+1",
+        "attack": "Bite",
+        "range": "Melee",
+        "damage": "1d6+3 phy",
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Molgrir Darkfall",
+      {
+        "name": "Molgrir Darkfall",
+        "type": "solo",
+        "hp": 7,
+        "stress": 4,
+        "feats": [
+          {
+            "name": "Relentless (2) - Passive",
+            "text": "Molgrir Darkfall can be spotlighted up to 2 times per GM turn. Spend Fear as usualy to spotlight them."
+          },
+          {
+            "name": "Adrenaline Burst - Action",
+            "text": "Once per scene, spend a Fear to clear 2 HP and 2 Stress."
+          },
+          {
+            "name": "Momentum - Reaction",
+            "text": "When the Weaponmaster makes a successful attack against a PC, you gain a Fear."
+          },
+          {
+            "name": "Hold Them Down - Action",
+            "text": "Make and attack against a target within Melee range. On a success, that target takes no damage but is *Restrained* and *Vulnerable*. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if Molgrir Darkfall takes Major or greater damage."
+          }
+        ],
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "description": "A master-at-arms wielding a sword twice their size.",
+        "motives_and_tactics": "Act first, aim for the weakest, intimidate",
+        "difficulty": "14",
+        "thresholds": "8/15",
+        "atk": "+2",
+        "attack": "Claymore",
+        "range": "Very Close",
+        "damage": "1d12+2 phy",
+        "source": "DaggerheartSRD"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -6073,7 +6253,7 @@
     "/"
   ],
   "autoParse": false,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": false,
   "debug": false,
   "notifiedOfFantasy": false,

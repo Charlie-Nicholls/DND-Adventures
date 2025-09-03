@@ -785,6 +785,35 @@
         "createNoteCommand": false,
         "parsedTemplate": []
       }
+    },
+    {
+      "title": "Add New Countdown",
+      "name": "COUNTDOWN",
+      "version": "1",
+      "fields": [
+        {
+          "name": "Label",
+          "label": "Label:",
+          "description": "",
+          "input": {
+            "type": "text",
+            "allowUnknownValues": false,
+            "hidden": false
+          },
+          "isRequired": true
+        },
+        {
+          "name": "StartValue",
+          "label": "Start Value:",
+          "description": "",
+          "input": {
+            "type": "number",
+            "allowUnknownValues": false,
+            "hidden": false
+          },
+          "isRequired": true
+        }
+      ]
     }
   ]
 }

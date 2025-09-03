@@ -78,7 +78,7 @@ ___
 
 # Profile
 
-> [!boxed|clean no-t]
+> [!boxed|no-t]
 > Introduction for players
 >^IntroText
 
