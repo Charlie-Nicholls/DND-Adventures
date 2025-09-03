@@ -789,31 +789,29 @@
     {
       "title": "Add New Countdown",
       "name": "COUNTDOWN",
-      "version": "1",
       "fields": [
         {
           "name": "Label",
           "label": "Label:",
           "description": "",
+          "isRequired": true,
           "input": {
             "type": "text",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": true
+          }
         },
         {
           "name": "StartValue",
           "label": "Start Value:",
           "description": "",
+          "isRequired": true,
           "input": {
             "type": "number",
-            "allowUnknownValues": false,
             "hidden": false
-          },
-          "isRequired": true
+          }
         }
-      ]
+      ],
+      "version": "1"
     }
   ]
 }

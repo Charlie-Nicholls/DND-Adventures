@@ -17,9 +17,13 @@
 > 	- [[Bobee]] Seeks [[Prince Kevin of Accle]] after the talk, preferably when he's alone
 > 		- Try to bond, recognise some symbol of his family (seen before in the grove but didn't know what it was)
 > 		- Also believes in the rumours of the spirits in the woods, wants them gone
-> 		- Try to use this to grab [[TBD Fairy]]'s interest, ask if he tells people about the talking bee
+> 		- Try to use this to grab [[Mellonia Euodia]]'s interest, ask if he tells people about the talking bee
 
 > [!recite|nbrd no-i] [[Molgrir Darkfall]] 
+> - Face you think you recognise in a crowd then look back and gone
+> - Hooded figure watching you
+> - Shadow moving out of the corner of your eye
+> - Feeling of Being watched
 > - 
 
 ### Ambush

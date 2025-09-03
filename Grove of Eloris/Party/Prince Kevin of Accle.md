@@ -35,20 +35,11 @@ ___
 >> | :LiEye: Instinct | +0 |
 >> | :RiSpeakFill: Presence | +0 |
 >> | :FasBook: Knowledge | +0 |
->> | :FasShield: Evasion | `=this.evasion` |
+>> | :RaPlayerDodge: Evasion | `=this.evasion` |
 >> | :FasHeart: Max HP | `=this.hp` |
 >> | :FasBoltLightning: Max Stress | `=this.stress` |
 >
 >^InfoBox
-
-> [!infobox|no-t clean right]
-> ```meta-bind-button
-> label: Character Sheet
-> icon: link
-> tooltip: external character sheet
-> style: default
-> action: {type: open, link: undefined, newTab: true}
-> ```
 
 # Profile
 

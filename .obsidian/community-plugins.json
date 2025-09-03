@@ -4,7 +4,6 @@
   "dataview",
   "folder-notes",
   "link-headers-directly",
-  "obsidian-icon-folder",
   "obsidian-meta-bind-plugin",
   "modalforms",
   "obsidian-sortable",
@@ -20,5 +19,6 @@
   "obsidian-git",
   "callout-copy-buttons",
   "obsidian-custom-frames",
-  "widgets"
+  "widgets",
+  "obsidian-icon-folder"
 ]

@@ -97,7 +97,7 @@ ___
 >> | :LiEye: Instinct | +0 |
 >> | :RiSpeakFill: Presence | +0 |
 >> | :FasBook: Knowledge | +0 |
->> | :FasShield: Evasion | `=this.evasion` |
+>> | :RaPlayerDodge: Evasion | `=this.evasion` |
 >> | :FasHeart: Max HP | `=this.hp` |
 >> | :FasBoltLightning: Max Stress | `=this.stress` |
 >

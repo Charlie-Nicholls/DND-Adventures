@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiRobot3Fill",
+      "RaPlayerKing",
+      "RaHoneycomb",
+      "RaFairy",
       "LiNotepadText",
       "LiText",
       "FasCity",
       "FasPerson",
       "LiSwords",
-      "LiSword",
-      "FasTree",
-      "🐝",
-      "LiTrees",
-      "LiNotebook"
+      "LiSword"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -158,7 +158,7 @@
   "Grove of Eloris/Encounters/Ambush.md": "RiTreeFill",
   "Grove of Eloris/Plan.md": "LiNotebook",
   "Grove of Eloris/NPCs/Hag of the Forest.md": "LiTrees",
-  "Grove of Eloris/NPCs/Bobee.md": "🐝",
+  "Grove of Eloris/NPCs/Bobee.md": "RaHoneycomb",
   "Grove of Eloris/Encounters/Grove Ritual.md": "FasTree",
   "Daggerheart SRD": "LiSword",
   "Grove of Eloris/Encounters/Quick Reference.md": "LiSwords",
@@ -166,5 +166,8 @@
   "Grove of Eloris/Locations/Portanforst.md": "FasCity",
   "Grove of Eloris/Locations/Eloris.md": "FasTree",
   "Grove of Eloris/NPCs/Quick Names.md": "LiText",
-  "Grove of Eloris/Notes (2025-09-03).md": "LiNotepadText"
+  "Grove of Eloris/Notes (2025-09-03).md": "LiNotepadText",
+  "Grove of Eloris/Party/Mellonia Euodia.md": "RaFairy",
+  "Grove of Eloris/Party/Prince Kevin of Accle.md": "RaPlayerKing",
+  "Grove of Eloris/Party/TBD Clank.md": "RiRobot3Fill"
 }
