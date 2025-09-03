@@ -27,7 +27,7 @@ ___
 >^IntroText
 
 ### Description
-Eilbiad Idiam
+Elibiad Idiam
 
 #### Background
 Description

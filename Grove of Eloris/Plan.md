@@ -13,7 +13,7 @@
 
 > [!recite|nbrd no-i] Introductions 
 > - Start with [[Prince Kevin of Accle]] talking to a crowd
-> - [[TBD Clank]] is in the crowd
+> - [[Frog]] is in the crowd
 > 	- [[Bobee]] Seeks [[Prince Kevin of Accle]] after the talk, preferably when he's alone
 > 		- Try to bond, recognise some symbol of his family (seen before in the grove but didn't know what it was)
 > 		- Also believes in the rumours of the spirits in the woods, wants them gone
