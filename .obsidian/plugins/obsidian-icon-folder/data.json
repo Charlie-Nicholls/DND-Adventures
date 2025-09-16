@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiZzzFill",
       "RiRobot3Fill",
       "RaPlayerKing",
       "RaHoneycomb",
@@ -14,8 +15,7 @@
       "LiText",
       "FasCity",
       "FasPerson",
-      "LiSwords",
-      "LiSword"
+      "LiSwords"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -169,5 +169,6 @@
   "Grove of Eloris/Notes (2025-09-03).md": "LiNotepadText",
   "Grove of Eloris/Party/Mellonia Euodia.md": "RaFairy",
   "Grove of Eloris/Party/Prince Kevin of Accle.md": "RaPlayerKing",
-  "Grove of Eloris/Party/Frog.md": "RiRobot3Fill"
+  "Grove of Eloris/Party/Frog.md": "RiRobot3Fill",
+  "Amid Summer Night's Dream/NPCs/Nightmare Hag.md": "RiZzzFill"
 }
