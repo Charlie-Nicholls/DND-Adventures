@@ -38,6 +38,7 @@ Nightmare Hags exist to warp the dreams of mortals into the disturbing, the frig
 - [[Summer Night]]
 
 ### Statblock
+### Statblock
 > ```statblock
 > name: Nightmare Hag
 > type: Fey
@@ -64,7 +65,7 @@ Nightmare Hags exist to warp the dreams of mortals into the disturbing, the frig
 > cr: 3
 > traits:
 >   - name: Incorporeal
->     desc: The Nightmare Hag is resistant to all damage dealt by creatures outside of dreams.
+>     desc: The Nightmare Hag is resistant to all damage dealt whilst outside of dreams or dream rooms. If the Nightmare Hag ends her turn inside a nightmare she regains 2d8 hit points.
 >   - name: Innate Spellcasting
 >     desc: |-
 >       The nightmare hag's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
@@ -77,5 +78,8 @@ Nightmare Hags exist to warp the dreams of mortals into the disturbing, the frig
 >     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
 > bonus_actions:
 >   - name: Weave Nightmare
->     desc: "Wisdom Saving Throw: DC 12, one creature within 60 ft. Failure: The target sees a creature from their nightmares in front of them and becomes frightened. The target can repeat this save at the end of each of its turns. If the target is Summer Night, the creature can be brought to life if it is CR 1 or lower with half hit points. A maximum of two such creatures can exist at once."
+>     desc: "Wisdom Saving Throw: DC 12, one creature within 60 ft. Failure: The target sees a creature from their nightmares in front of them and becomes frightened. The target can repeat this save at the end of each of its turns. If the target is Summer Night, the creature is be brought to life if it is CR 1 or lower with half hit points. A maximum of two such creatures can exist at once."
+> legendary_actions:
+>   - name: Nightmarish
+>     desc: "The Nightmare Hag uses Weave Nightmare"
 > ```
