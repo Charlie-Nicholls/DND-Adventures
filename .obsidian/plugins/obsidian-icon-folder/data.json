@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaPerspectiveDiceOne",
+      "FasUsers",
+      "RaPerspectiveDiceSix",
       "RiZzzFill",
       "RiRobot3Fill",
       "RaPlayerKing",
       "RaHoneycomb",
       "RaFairy",
       "LiNotepadText",
-      "LiText",
-      "FasCity",
-      "FasPerson",
-      "LiSwords"
+      "LiText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -170,5 +170,9 @@
   "Grove of Eloris/Party/Mellonia Euodia.md": "RaFairy",
   "Grove of Eloris/Party/Prince Kevin of Accle.md": "RaPlayerKing",
   "Grove of Eloris/Party/Frog.md": "RiRobot3Fill",
-  "Amid Summer Night's Dream/NPCs/Nightmare Hag.md": "RiZzzFill"
+  "Amid Summer Night's Dream/NPCs/Nightmare Hag.md": "RiZzzFill",
+  "Trails of Ludicrum/Trails of Ludicrum.md": "RaPerspectiveDiceSix",
+  "Trails of Ludicrum": "RaPerspectiveDiceSix",
+  "Trails of Ludicrum/NPCs": "FasUsers",
+  "Trails of Ludicrum/NPCs/Ludicrum.md": "RaPerspectiveDiceOne"
 }
