@@ -1,654 +1,6 @@
 {
   "monsters": [
     [
-      "Van Patten Mercenary",
-      {
-        "image": null,
-        "name": "Van Patten Mercenary",
-        "source": "CritterDB",
-        "type": "Humanoid (human)",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Chaotic Neutral",
-        "hp": 7,
-        "hit_dice": "1d8 + 2",
-        "ac": 13,
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          15,
-          15,
-          9,
-          11,
-          11
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [
-          {
-            "strength": 5
-          },
-          {
-            "constitution": 4
-          },
-          {
-            "wisdom": 2
-          }
-        ],
-        "skillsaves": [],
-        "senses": "",
-        "languages": "Common",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Longsword",
-            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 slashing damage."
-          },
-          {
-            "name": "Crossbow, hand",
-            "desc": "Ranged Weapon Attack: +2 to hit, range 40/80 ft., one target. Hit: 2 piercing damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": []
-      }
-    ],
-    [
-      "Eddie Van Patten",
-      {
-        "image": null,
-        "name": "Eddie Van Patten",
-        "source": "CritterDB",
-        "type": "Human",
-        "size": "Medium",
-        "alignment": "Unaligned",
-        "hp": 9,
-        "hit_dice": "2d8 + 0",
-        "ac": 10,
-        "speed": "30 ft.",
-        "stats": [
-          10,
-          10,
-          10,
-          12,
-          9,
-          14
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [],
-        "skillsaves": [
-          {
-            "Deception": 4
-          }
-        ],
-        "senses": "",
-        "languages": "Common",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Dagger",
-            "desc": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d4) piercing damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": [],
-        "modifier": 0,
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Huck",
-      {
-        "image": null,
-        "name": "Huck",
-        "source": "CritterDB",
-        "type": "Construct",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Lawful Neutral",
-        "hp": 9,
-        "hit_dice": "2d8 + 0",
-        "ac": 12,
-        "speed": "30 ft.",
-        "stats": [
-          13,
-          12,
-          10,
-          10,
-          10,
-          11
-        ],
-        "damage_immunities": "poison",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned",
-        "saves": [],
-        "skillsaves": [
-          {
-            "Athletics": 3
-          }
-        ],
-        "senses": "",
-        "languages": "Common",
-        "cr": "",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Lever Action Firearm",
-            "desc": "Ranged Weapon Attack: +3 to hit, range 5/20 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": [],
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Mercenary Jail Guard",
-      {
-        "image": null,
-        "name": "Mercenary Jail Guard",
-        "source": "CritterDB",
-        "type": "Human",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Unaligned",
-        "hp": 19,
-        "hit_dice": "3d8 + 6",
-        "ac": 13,
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          15,
-          15,
-          9,
-          15,
-          11
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [
-          {
-            "strength": 5
-          },
-          {
-            "constitution": 4
-          },
-          {
-            "wisdom": 4
-          }
-        ],
-        "skillsaves": [],
-        "senses": "",
-        "languages": "Common",
-        "cr": "",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Knockout Baton",
-            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 3 bludgeoning damage and the target must make a DC10 Constitution saving throw or become stunned until the end of their next turn."
-          },
-          {
-            "name": "Manacles",
-            "desc": "A mercenary jail guard can try to manacle any creature within 5 feet of him. The target creature must succeed on a DC 16 Dexterity saving through or become manacled, grappled and restrained by the mercenary jail guard."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": []
-      }
-    ],
-    [
-      "Sheriff Reardon",
-      {
-        "image": null,
-        "name": "Sheriff Reardon",
-        "source": "CritterDB",
-        "type": "Human",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Unaligned",
-        "hp": 26,
-        "hit_dice": "4d8 + 8",
-        "ac": 15,
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          15,
-          15,
-          9,
-          15,
-          11
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [
-          {
-            "strength": 5
-          },
-          {
-            "constitution": 4
-          },
-          {
-            "wisdom": 4
-          }
-        ],
-        "skillsaves": [],
-        "senses": "",
-        "languages": "Common",
-        "cr": "",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "After Sheriff Reardon makes a longsword attack or uses his Manacle action, he uses his Command action."
-          },
-          {
-            "name": "Longsword",
-            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 slashing damage."
-          },
-          {
-            "name": "Manacles",
-            "desc": "Sheriff Reardon can try to manacle any creature within 5 feet of him. The target creature must succeed on a DC 22 Dexterity saving through or become manacled, grappled and restrained by Sheriff Reardon"
-          },
-          {
-            "name": "Command",
-            "desc": "Sheriff Reardon commands one mercenary within 30 feet. The chosen mercenary uses their reaction to use any one of their actions."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": []
-      }
-    ],
-    [
-      "Van Patten Conductor",
-      {
-        "image": null,
-        "name": "Van Patten Conductor",
-        "source": "CritterDB",
-        "type": "Half-Orc",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Neutral",
-        "hp": 19,
-        "hit_dice": "3d8 + 6",
-        "ac": 13,
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          15,
-          15,
-          9,
-          11,
-          11
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [
-          {
-            "strength": 5
-          },
-          {
-            "constitution": 4
-          },
-          {
-            "wisdom": 2
-          }
-        ],
-        "skillsaves": [],
-        "senses": "Darkvision 60ft.",
-        "languages": "Common, Orc",
-        "cr": "",
-        "traits": [],
-        "actions": [
-          {
-            "name": "Wrench",
-            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 bludgeoning damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": []
-      }
-    ],
-    [
-      "Wandering Spirit",
-      {
-        "image": null,
-        "name": "Wandering Spirit",
-        "source": "CritterDB",
-        "type": "Undead",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Neutral Evil",
-        "hp": 15,
-        "hit_dice": "2d8 + 6",
-        "ac": 13,
-        "speed": "0 ft. fly 50 ft. (hover)",
-        "stats": [
-          6,
-          16,
-          16,
-          12,
-          14,
-          15
-        ],
-        "damage_immunities": "necrotic; poison",
-        "damage_resistances": "acid, cold, fire, lightning, thunder",
-        "damage_vulnerabilities": "radiant",
-        "condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained",
-        "saves": [],
-        "skillsaves": [],
-        "senses": "darkvision 60ft.",
-        "languages": "the languages it knew in life",
-        "cr": 0.125,
-        "traits": [
-          {
-            "name": "Incorporeal Movement",
-            "desc": "The wandering spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
-          },
-          {
-            "name": "Sunlight Sensitivity",
-            "desc": "While in sunlight, the wandering spirit has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Consuming Touch",
-            "desc": " Melee Weapon Attack : +4 to hit, reach 5ft., one target. Hit: 3 necrotic damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": [],
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Mire-Cursed Aemily Lothbrook",
-      {
-        "image": null,
-        "name": "Mire-Cursed Aemily Lothbrook",
-        "source": "CritterDB",
-        "type": "Undead",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Neutral Evil",
-        "hp": 45,
-        "hit_dice": "6d8 + 18",
-        "ac": 14,
-        "speed": "30 ft.",
-        "stats": [
-          15,
-          16,
-          16,
-          9,
-          13,
-          6
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "necrotic, poison",
-        "damage_vulnerabilities": "radiant",
-        "condition_immunities": "exhaustion",
-        "saves": [],
-        "skillsaves": [
-          {
-            "Perception": 3
-          },
-          {
-            "Stealth": 5
-          }
-        ],
-        "senses": "darkvision 60ft.",
-        "languages": "",
-        "cr": 0.5,
-        "traits": [
-          {
-            "name": "Mire-cursed",
-            "desc": "Because of an accursed object, Aemily has been turned into an unfeeling, undead predator, preying upon any living creature that enters her grounds."
-          },
-          {
-            "name": "Shadow Stealth",
-            "desc": "While in dim light or darkness, Aemily can take the Hide action as a bonus action."
-          },
-          {
-            "name": "Sunlight Weakness",
-            "desc": "While in sunlight, Aemily has disadvantage on attack rolls, ability checks, and saving throws."
-          },
-          {
-            "name": "Turn Resistance",
-            "desc": "Aemily has advantage on saving throws against any effect that turns undead."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "Aemily makes two claw or bite attacks."
-          },
-          {
-            "name": "Claw",
-            "desc": " Melee Weapon Attack : +4 to hit, reach 10 ft., one target. Hit: 6 slashing damage."
-          },
-          {
-            "name": "Bite",
-            "desc": " Melee Weapon Attack : +4 to hit, reach 5 ft., one target. Hit: 7 piercing damage."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": [
-          {
-            "name": "Channel Negative Energy",
-            "desc": "Aemily magically unleashes negative energy. Creatures within 60 feet of Aemily, including ones behind barriers and around corners, can't regain hit points until the end of Aemily's next turn."
-          }
-        ]
-      }
-    ],
-    [
-      "Marie Anchester",
-      {
-        "image": null,
-        "name": "Marie Anchester",
-        "source": "CritterDB",
-        "type": "Human",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Neutral",
-        "hp": 33,
-        "hit_dice": "6d8 + 6",
-        "ac": 15,
-        "speed": "30 ft.",
-        "stats": [
-          11,
-          14,
-          12,
-          10,
-          13,
-          14
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [],
-        "skillsaves": [
-          {
-            "Deception": 4
-          },
-          {
-            "Persuasion": 4
-          }
-        ],
-        "senses": "",
-        "languages": "Common",
-        "cr": 0.25,
-        "traits": [
-          {
-            "name": "Dark Devotion",
-            "desc": "Marie Anchester has advantage on saving throws against being charmed or frightened."
-          },
-          {
-            "name": "Undead Fortitude",
-            "desc": "If damage reduces Marie Anchester to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, Marie Anchester drops to 1 hit point instead."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "Marie Anchester makes one Dagger and one Life Drain attack."
-          },
-          {
-            "name": "Dagger",
-            "desc": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6+1) piercing damage."
-          },
-          {
-            "name": "Life Drain (Undead Only)",
-            "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 1d4 nectrotic damage. The target must succeed on a DC 10 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target completes a long rest. The target dies if this effect reduces its hit point maximum to 0."
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": []
-      }
-    ],
-    [
-      "Thatticus Shorn",
-      {
-        "image": null,
-        "name": "Thatticus Shorn",
-        "source": "CritterDB",
-        "type": "Undead",
-        "subtype": "",
-        "size": "Medium",
-        "alignment": "Chaotic Evil",
-        "hp": 82,
-        "hit_dice": "11d8 + 33",
-        "ac": 14,
-        "speed": "30 ft.",
-        "stats": [
-          14,
-          12,
-          16,
-          18,
-          14,
-          14
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "",
-        "condition_immunities": "",
-        "saves": [
-          {
-            "intelligence": 6
-          },
-          {
-            "wisdom": 4
-          }
-        ],
-        "skillsaves": [
-          {
-            "Arcana": 6
-          },
-          {
-            "Deception": 4
-          },
-          {
-            "Perception": 4
-          }
-        ],
-        "senses": "darkvision 60ft.",
-        "languages": "Common, Elvish",
-        "cr": 3,
-        "traits": [],
-        "actions": [
-          {
-            "name": "Dagger",
-            "desc": "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) slashing damage"
-          },
-          {
-            "name": "Decaying Grasp",
-            "desc": "Ranged Spell Attack: +8 to hit, range 120 ft. or range 20/60 ft., one target. Hit: 9 (2d8 + 2) necrotic damage"
-          },
-          {
-            "name": "Gashing Necrosis (Recharge 6)",
-            "desc": "Ranged Spell Attack: +8 to hit, range 120 ft. or range 20/60 ft., one target. Hit: 16 (3d10) necrotic damage"
-          },
-          {
-            "name": "Soul Siphon (Recharge 5-6)",
-            "desc": "Melee Spell Attack: +8 to hit, reach 5 ft., one target. Hit: 10 (3d6) necrotic damage and Thatticus heals 7 (2d6) hit points."
-          },
-          {
-            "name": "Spellcasting",
-            "desc": "Thatticus casts one of the following spells, requiring no material components and using intelligence as his spellcasting ability (spell save DC 16):\nAt will:  animate dead "
-          }
-        ],
-        "reactions": [],
-        "legendary_actions": [
-          {
-            "name": "Frightening Gaze",
-            "desc": "Thatticus fixes his gaze on one creature he can see within 10 feet of himself. The target must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immnune to Thatticus's gaze for the next 24 hours."
-          }
-        ]
-      }
-    ],
-    [
-      "The Sandman",
-      {
-        "name": "The Sandman",
-        "speed": 30,
-        "stats": [
-          11,
-          14,
-          "-",
-          14,
-          20,
-          18
-        ],
-        "languages": "Understands Common and Elvish but can't speak",
-        "saves": [
-          {
-            "charisma": 7
-          },
-          {
-            "dexterity": 5
-          }
-        ],
-        "skillsaves": [
-          {
-            "deception": 7
-          },
-          {
-            "insight": 8
-          },
-          {
-            "intimidation": 7
-          },
-          {
-            "stealth": 8
-          }
-        ],
-        "cr": 5,
-        "traits": [
-          {
-            "name": "Non-corporeal",
-            "desc": "The Sandman cannot be harmed, and can only be killed permantantly when Hotel Midsummer dies; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw."
-          },
-          {
-            "name": "Creature of Dreams",
-            "desc": "The Sandman is invisible to all creatures with their eyes open. He can be briefly seen when blinking."
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
       "Acid Burrower",
       {
         "name": "Acid Burrower",
@@ -5841,69 +5193,230 @@
       }
     ],
     [
-      "Nightmare Hag",
+      "Il'Zuk",
       {
-        "name": "Nightmare Hag",
-        "type": "Fey",
-        "size": "Medium",
-        "alignment": "Neutral Evil",
-        "hp": 82,
-        "hit_dice": "11d8 + 33",
-        "ac": 17,
-        "speed": "30 ft.",
-        "stats": [
-          18,
-          12,
-          16,
-          13,
-          14,
-          14
-        ],
-        "skillsaves": [
+        "name": "Il'Zuk",
+        "tier": "4",
+        "layout": "Daggerheart Adversary",
+        "type": "Leader/Solo",
+        "description": "A decaying mage adorned in dark, tattered robes.",
+        "motives_and_tactics": "Corrupt, decay, flee to fight another day, resurrect",
+        "difficulty": "21",
+        "thresholds": "33/66",
+        "hp": "9",
+        "stress": "8",
+        "atk": "+6",
+        "attack": "Necrotic Blast",
+        "range": "Far",
+        "damage": "4d12+8 mag",
+        "experience": "Forbidden Knowledge +3, Wisdom of Centuries +3",
+        "feats": [
           {
-            "Arcana": 3
+            "name": "Relentless (2) - Passive",
+            "text": "Il'Zuk can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
           },
           {
-            "Deception": 4
+            "name": "Dance of Death - Action",
+            "text": "Mark a Stress to spotlight 1d4 allies. Attacks they make while spotlighted in this way deal half damage, or full damage if you spend a Fear."
           },
           {
-            "Perception": 4
+            "name": "Beam of Decay - Action",
+            "text": "Mark 2 Stress to cause all targets within Far range to make a Strength Reaction Roll. Targets who fail take 2d20+12 magic damage and you gain a Fear. Targets who succeed take half damage. A target who marks 2 or more HP must also mark 2 Stress and becomes Vulnerable until they roll with Hope."
           },
           {
-            "Stealth": 3
+            "name": "Open the Gates of Death - Action",
+            "text": "Spend a Fear to summon a Zombie Legion, which appears at Close range and immediately takes the spotlight."
+          },
+          {
+            "name": "Your Demise is Near - Reaction",
+            "text": "Countdown (2d6). When the Necromancer has marked 6 or more of their HP, activate the countdown. When it triggers, deal 2d10+6 direct magic damage to a target within Close range. The Necromancer then clears a number of Stress or HP equal to the number of HP marked by the target from this attack."
+          },
+          {
+            "name": "Entropy Incarnate (Phase Change) - Reaction",
+            "text": "When Il'Zuk marks their last HP, replace with Il'Zuk (Entropic Form) and immediately spotlight."
           }
         ],
-        "senses": "Darkvision 120 ft.",
-        "languages": "Common, Elvish, Sylvan",
-        "cr": 3,
-        "traits": [
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Hurricane",
+      {
+        "name": "Hurricane",
+        "tier": "2",
+        "layout": "Daggerheart Environment",
+        "type": "Event",
+        "description": "Winds whipped up to terrifying speeds and waves that threaten to overturn your ship.",
+        "impulses": null,
+        "difficulty": "15",
+        "potential_adversaries": "Electric Eels, Shark, Siren",
+        "feats": [
           {
-            "name": "Incorporeal",
-            "desc": "The Nightmare Hag is resistant to all damage dealt by creatures who are not unconscious."
+            "name": "Survive the Storm - Passive",
+            "text": "When the Hurricane arrives, activate a Countdown (1d6+2), which decreases each time a PC rolls with Hope. When the countdown ends, replace this with the Ocean environment and set the Weather Difficulty to 4.\n          \n  *What questions should go here? What questions should go here?*"
           },
           {
-            "name": "Innate Spellcasting",
-            "desc": "The nightmare hag's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\nAt will: dancing lights, disguise self, invisibility, minor illusion, ray of sickness (level 3 version)"
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The Nightmare Hag makes two Claw attacks."
+            "name": "Sink or Swim - Passive",
+            "text": "Any PCs in the water who cannot breather underwater when the Hurricane is spotlighted must mark 2 Stress.\n\n  *What questions should go here? What questions should go here?*\n "
           },
           {
-            "name": "Claw",
-            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
-          }
-        ],
-        "bonus_actions": [
+            "name": "Tip The Boat - Action",
+            "text": "Begin a Consequence Countdown (3). When the countdown completes, the boat is flipped and all PCs onboard are thrown into the water, taking 4d8 physical damage and mark a Stress. Any PC can use an action when spotlighted to attempted to stabalise the boat, increasing the countdown by 1 on a success with fear and 2 on a success with hope.\n\n  *What questions should go here? What questions should go here?*\n       "
+          },
           {
-            "name": "Weave Nightmare",
-            "desc": "Wisdom Saving Throw: DC 12, one creature within 60 ft. Failure: The target sees a creature from their nightmares in front of them and becomes frightened. The target can repeat this save at the end of each of its turns. If the target is Summer Night, the creature can be brought to life if it is CR 1 or lower with half hit points. A maximum of two such creatures can exist at once."
+            "name": "High Winds - Action",
+            "text": "Decrease the Tip The Boat Countdown by 1. High winds buffet the boat, each creature onboard must succeed on an Agility Reaction Roll or take 1d8 physical damage and mark a Stress.\n\n  *What questions should go here? What questions should go here?*\n           "
+          },
+          {
+            "name": "Tidal Wave - Action",
+            "text": "Spend a Fear to have a massive wave hit the boat, decreasing the Tip The Boat Countdown by 2. Pick a point on the boat, all creatures within Close range must make an Agility saving throw. Targets who fail take 3d4+2 physical damage and have disadvantage on their next action.\n\n  *What questions should go here? What questions should go here?*"
           }
         ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Ocean",
+      {
+        "name": "Ocean",
+        "tier": "2",
+        "layout": "Daggerheart Environment",
+        "type": "Traversal",
+        "description": "Water stretches out as far as the eye can see, stormy waters threaten sailors while creatures unknown lurk beneath the surface.",
+        "impulses": "Test stamina and navigational skills, rock the boat, monsters seek to sink ships",
+        "difficulty": "13",
+        "potential_adversaries": "Pirate Ship (Pirate Captain, Pirate Raiders, Pirate Tough), Electric Eels, Shark, Siren",
+        "feats": [
+          {
+            "name": "Sleepless Nights - Passive",
+            "text": "It is not possibly to truly rest during the harsh life on the sea. PCs may choose 1 fewer Downtime Actions during rests.\n  *How do you help with navigation? Directly or by helping with life on the ship in other ways? How are you spending your free time during the long voyage?*"
+          },
+          {
+            "name": "Ocean Navigation - Passive",
+            "text": "Crossing the ocean requires the party to complete a Progress Countdown (number of hexes moved), by making Navigation rolls every 6 hours. A Navigation roll with fear immediately acivate the Worsen Weather, High Seas or Siren's Lure feature without the need to spend a fear. On a Navigation roll with Hope, the PC can choose to spend a Hope to reduce the Weather Difficulty by 1.\n\n  *How do you help with navigation? Directly or by helping with life on the ship in other ways? How are you spending your free time during the long voyage?*\n  "
+          },
+          {
+            "name": "Weather Effects - Passive",
+            "text": "Choose a Weather Difficulty to start the journey at, by default 2. Waiting for 6 hours without a Navigation check causes the Weather Difficulty to change according to a d6 roll as follows: \n1: +1 (max 4), 2-4: +0, 5-6: -1. \nEach weather has the following effect:\n1. Clear Skies - Advantage on Navigation rolls\n2. Rainy Day - **Mark a Stress** on a Navigation roll with Fear.\n3. Foggy Waters - Disadvantage on Navigation rolls\n4. Stormy Seas - Players must **Mark a Stress** to make or help with a Navigation rolls. Failure with Fear blows you off course, increasing the Progress Countdown by 1.\n5. Hurricane Season (Phase Change) - A Hurricane rolls in, replace this with the Hurricane environment. This cannot be activated more than once.\n\n  *What questions should go here? What questions should go here?*\n  \n  "
+          },
+          {
+            "name": "Worsen Weather - Action",
+            "text": "*Spend a Fear* to increase the Weather Difficulty by 1.\n\n  *What questions should go here? What questions should go here?*\n  "
+          },
+          {
+            "name": "High Seas - Action",
+            "text": "*Spend a Fear* to cause a Pirate Ship containing a Pirate Captain, 2 Pirate Bruisers and 3 Pirate Hordes to appear at Very Far distance.\n\n  *Does the Pirate Ship try to board them? Do the players recognise it for what it is? Do the players flee the ship or try to fight it?*\n  "
+          },
+          {
+            "name": "Siren's Lure - Action",
+            "text": "Have an alluring Siren appear at the side of the ship and try to charm the PCs. *Spend a Fear* when two Sharks under her spell pretend to attack her and drag her underwater attempting to lure the PCs into jumping in to rescue her. If any do, the Siren and 2 Sharks attempt to attack and eat the PC.\n\n  *How does the Siren attempt to charm the Players? What would she appear like to her target? How good is her acting when being 'attacked'?*"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Ambusher",
+      {
+        "name": "Ambusher",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Standard",
+        "difficulty": "12",
+        "thresholds": "6/12",
+        "hp": "3",
+        "stress": "2",
+        "atk": "+1",
+        "attack": "Dagger",
+        "range": "Melee",
+        "damage": "1d8+5 phy",
+        "feats": [
+          {
+            "name": "Ambush - Reaction",
+            "text": "When the Ambusher enters the scene without being spotted first, they can immediately move into Melee with a target and make an attack against them. On a success, they strike with their dagger for 2d4+8 physical damage."
+          }
+        ],
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Thief",
+      {
+        "name": "Thief",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Leader",
+        "difficulty": "14",
+        "thresholds": "7/14",
+        "hp": "4",
+        "stress": "2",
+        "atk": "+3",
+        "attack": "Serrated Blade",
+        "range": "Melee",
+        "damage": "2d4+3 phy",
+        "feats": [
+          {
+            "name": "Back Off - Action",
+            "text": "**Spend a Fear** to make an attack against all targets within Melee range. Any they succeed against are blasted backwards, dealing 2d6+3 magic damage and pushing them into Far range."
+          }
+        ],
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Strixwolf",
+      {
+        "name": "Strixwolf",
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "type": "Standard",
+        "difficulty": "10",
+        "thresholds": "4/8",
+        "hp": "3",
+        "stress": "3",
+        "atk": "+1",
+        "attack": "Bite",
+        "range": "Melee",
+        "damage": "1d6+3 phy",
+        "source": "DaggerheartQuickstart"
+      }
+    ],
+    [
+      "Molgrir Darkfall",
+      {
+        "name": "Molgrir Darkfall",
+        "type": "solo",
+        "hp": 7,
+        "stress": 4,
+        "feats": [
+          {
+            "name": "Relentless (2) - Passive",
+            "text": "Molgrir Darkfall can be spotlighted up to 2 times per GM turn. Spend Fear as usualy to spotlight them."
+          },
+          {
+            "name": "Adrenaline Burst - Action",
+            "text": "Once per scene, spend a Fear to clear 2 HP and 2 Stress."
+          },
+          {
+            "name": "Momentum - Reaction",
+            "text": "When the Weaponmaster makes a successful attack against a PC, you gain a Fear."
+          },
+          {
+            "name": "Hold Them Down - Action",
+            "text": "Make and attack against a target within Melee range. On a success, that target takes no damage but is *Restrained* and *Vulnerable*. The target can break free, clearing both conditions, with a successful Strength Roll or is freed automatically if Molgrir Darkfall takes Major or greater damage."
+          }
+        ],
+        "tier": "1",
+        "layout": "Daggerheart Adversary",
+        "description": "A master-at-arms wielding a sword twice their size.",
+        "motives_and_tactics": "Act first, aim for the weakest, intimidate",
+        "difficulty": "14",
+        "thresholds": "8/15",
+        "atk": "+2",
+        "attack": "Claymore",
+        "range": "Very Close",
+        "damage": "1d12+2 phy",
+        "source": "DaggerheartSRD"
       }
     ]
   ],
@@ -6740,7 +6253,7 @@
     "/"
   ],
   "autoParse": false,
-  "disableSRD": false,
+  "disableSRD": true,
   "tryToRenderLinks": false,
   "debug": false,
   "notifiedOfFantasy": false,

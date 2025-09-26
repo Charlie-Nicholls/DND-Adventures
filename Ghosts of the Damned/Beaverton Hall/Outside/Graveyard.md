@@ -24,7 +24,7 @@ locations:
 >> The back panel of the coffin can be easily removed and behind it a tunnel can be seen leading towards the chapel.
 >^Hard
 
-**If Irene's body has been placed in the grave, else use this for body in [[Power Control Room]]**
+**If [[Irene Adams]]'s body has not been placed in the grave use this for body in [[Power Control Room]]**
 
 > [!recite|nbrd no-i]- Easy (body)
 > <br>
