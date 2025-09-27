@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasImage",
       "LiNotebookText",
       "LiNotebook",
       "FasUsers",
@@ -14,8 +15,7 @@
       "🗡",
       "FasShuttleSpace",
       "FasSpider",
-      "FasClock",
-      "LiBedSingle"
+      "FasClock"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -159,5 +159,6 @@
   "Trails of Ludicrum/NPCs/Ludicrum.md": "FasDiceSix",
   "Trails of Ludicrum/NPCs": "FasUsers",
   "Trails of Ludicrum/Notes": "LiNotebook",
-  "Trails of Ludicrum/Notes/Session 00 (2025-09-29).md": "LiNotebookText"
+  "Trails of Ludicrum/Notes/Session 00 (2025-09-29).md": "LiNotebookText",
+  "Trails of Ludicrum/Assets": "FasImage"
 }

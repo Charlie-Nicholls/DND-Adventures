@@ -1,7 +1,7 @@
 ---
 type: deity
 displayLink: "[[Ludicrum]]"
-domains:  Games, Entertainment, Tricks
+domains:  Games, Tricks, Entertainment
 pantheon: Whimsy
 ---
 
@@ -10,7 +10,7 @@ pantheon: Whimsy
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgLudicrum.png|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
