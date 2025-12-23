@@ -20,5 +20,5 @@ locations:
 Nothing of interest.
 
 ### Other
-[[Colonel Hawkings]] will lock [[Ghosts of the Damned/NPCs (Minor)/Dr Redmund Herring]] in here until his innocence is proven.
+[[Colonel Hawkings]] will lock [[Dr Redmund Herring]] in here until his innocence is proven.
 
