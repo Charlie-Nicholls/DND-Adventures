@@ -49,22 +49,55 @@ When [[The Sandman]] first appears play the following  [music](https://www.youtu
 ```
 
 ### Statblock
-
+#### DND
 ```statblock
+layout: Basic 5e Layout
 name: The Sandman
 speed: 30
 ac: 16
-stats: [11,14,-,14,20,18]
+stats: [11,14,1,14,20,18]
 languages: Understands Common and Elvish but can't speak
-skillsaves: [charisma: 7, dexterity: 5]
+saves: [charisma: 7, dexterity: 5]
 skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
 cr: 5
 traits:
   - name: Non-corporeal
-    desc: The Sandman cannot be harmed, and can only be killed permantantly when Summer Night dies or wakes; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw.
+    desc: "The Sandman cannot be harmed, and can only be killed permantantly when Summer Night dies or wakes; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw."
   - name: Creature of Dreams
-    desc: The Sandman is invisible to all creatures with their eyes open. He can be briefly seen when blinking.
+    desc: "The Sandman is invisible to all creatures with their eyes open outside of dreams. He becomes visible inside dreams."
 actions:
   - name: Weave Dreams
-    desc: The Sandman can warp the reality of Hotel Midsummer to add or remove environmental obstacles.
+    desc: "The Sandman can warp the reality of Hotel Midsummer to add or remove environmental obstacles."
+  - name: Steal Dream
+    desc: "Melee Attack Roll: +5 to hit, reach 5 ft., one target. Hit: The target falls unconscious and gains 1 level of exhaustion. Another creature can use an action to shake them awake."
 ```
+#### Daggerheart
+```statblock
+name: The Sandman
+tier: "2"
+layout: Daggerheart Adversary
+type: Solo
+description: 
+motives_and_tactics: Protect Summer Night, steal dreams, 
+difficulty: "14"
+thresholds: 7/15
+hp: "9"
+stress: "4"
+atk: "+4"
+attack: Steal Dream
+range: Melee
+damage: 0
+feats:
+  - name: Non-corporeal - Passive
+    desc: "The Sandman cannot be harmed, and can only be killed permantantly when Summer Night dies or wakes; successful attacks against The Sandman instead slow him down."
+  - name: Dream Stealer - Passive
+    desc: "Creatures hit by The Sandman's Steal Dream attack fall unconscious and mark 1d4+1 stress. They describe a dream for The Sandman to steal. Another creature may use an action to wake them."
+  - name: Weave Dreams - Action
+    text: "Warp the reality of Hotel Midsummer to add or remove environmental obstacles."
+  - name: Creature of Dreams - Action
+    text: "The Sandman is invisible to all creatures with their eyes open outside of dreams. He becomes visible inside dreams."
+  - name: Death Quake - Reaction
+    text: When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage.
+source: DaggerheartSRD
+```
+

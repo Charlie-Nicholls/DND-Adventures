@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasMap",
+      "FasSpider",
       "LiNotebook",
       "RaPerspectiveDiceOne",
       "FasUsers",
@@ -13,9 +15,7 @@
       "RiZzzFill",
       "RiRobot3Fill",
       "RaPlayerKing",
-      "RaHoneycomb",
-      "RaFairy",
-      "LiNotepadText"
+      "RaHoneycomb"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -83,7 +83,6 @@
   "Grove of Eloris/Assets": "FasImage",
   "Amid Summer Night's Dream/Timeline.md": "FasClock",
   "Amid Summer Night's Dream/Phantasmal Gem.md": "FasGem",
-  "Amid Summer Night's Dream/Nightmare Creatures.md": "FasSpider",
   "Amid Summer Night's Dream/Images.md": "FasImages",
   "Amid Summer Night's Dream/Dream Rooms.md": "FasBed",
   "Amid Summer Night's Dream/Chase Track Mechanics.md": "RiHexagonFill",
@@ -175,5 +174,8 @@
   "Ghosts of the Damned/4.1 YPI Game/Session 02 (2025-06-17).md": "LiNotepadText",
   "Ghosts of the Damned/4.1 YPI Game/Session 04 (2025-06-20).md": "LiNotepadText",
   "Ghosts of the Damned/4.1 YPI Game/Session 03 (2025-06-19).md": "LiNotepadText",
-  "Ghosts of the Damned/4.2 Family Game": "LiNotebook"
+  "Ghosts of the Damned/4.2 Family Game": "LiNotebook",
+  "Amid Summer Night's Dream/Nightmare Creatures (DND).md": "FasSpider",
+  "Amid Summer Night's Dream/Nightmare Creatures (DH).md": "FasSpider",
+  "Ghosts of the Damned/0. Assets/Maps": "FasMap"
 }

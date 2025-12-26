@@ -5,9 +5,11 @@
 
 To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose.
 
+> [!recite|nbrd no-i]- Brown Bear 
 > ```statblock
 > name: Brown Bear
 > source: 5e SRD
+> layout: Basic 5e Layout
 > size: Large
 > type: beast
 > subtype: ""
@@ -53,9 +55,11 @@ To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose
 >     damage_bonus: 4
 > ```
 
+> [!recite|nbrd no-i]- Dire Wolf 
 > ```statblock
 > name: Dire Wolf
 > source: 5e SRD
+> layout: Basic 5e Layout
 > size: Medium
 > type: beast
 > subtype: ""
@@ -93,9 +97,11 @@ To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose
 >     damage_bonus: 2
 > ```
 
+> [!recite|nbrd no-i]- Giant Centipede 
 > ```statblock
 > name: Giant Centipede
 > source: 5e SRD
+> layout: Basic 5e Layout
 > size: Small
 > type: beast
 > subtype: ""
@@ -127,6 +133,7 @@ To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose
 >     damage_bonus: 2
 > ```
 
+> [!recite|nbrd no-i]- Brown Bear 
 > ```statblock
 > name: Giant Spider
 > source: 5e SRD
@@ -176,9 +183,11 @@ To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose
 >     attack_bonus: 5
 > ```
 
+> [!recite|nbrd no-i]- Giant Venomous Snake 
 > ```statblock
 > name: Giant Venomous Snake
 > source: 5e SRD
+> layout: Basic 5e Layout
 > size: Medium
 > type: beast
 > subtype: ""
@@ -212,9 +221,11 @@ To be used in the final fight with the [[Nightmare Hag]], can roll 1d6 to choose
 >     damage_bonus: 4
 > ```
 
+> [!recite|nbrd no-i]- Swarm of Insects 
 > ```statblock
 > name: Swarm of Insects
 > source: 5e SRD
+> layout: Basic 5e Layout
 > size: Medium
 > type: swarm of Tiny beasts
 > subtype: ""

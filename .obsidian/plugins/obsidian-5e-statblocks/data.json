@@ -5418,6 +5418,91 @@
         "damage": "1d12+2 phy",
         "source": "DaggerheartSRD"
       }
+    ],
+    [
+      "Nightmare Hag",
+      {
+        "name": "Nightmare Hag",
+        "tier": "2",
+        "layout": "Daggerheart Adversary",
+        "type": "Solo",
+        "description": null,
+        "motives_and_tactics": null,
+        "difficulty": "15",
+        "thresholds": "12/22",
+        "hp": "10",
+        "stress": "5",
+        "atk": "+5",
+        "attack": "Dark Magic",
+        "range": "Close",
+        "damage": "2d6+3 mag",
+        "experience": "Instinct +3",
+        "feats": [
+          {
+            "name": "Relentless (2) - Passive",
+            "text": "The Nightmare Hag can be spotlighted up to two times per GM turn. Spend Fear as usual to spotlight them."
+          },
+          {
+            "name": "Creature of Dreams - Passive",
+            "text": "The Nightmare Hag is invisible to all creatures with their eyes open outside of dreams, attacks made against them have disadvantage. They becomes visible inside dreams."
+          },
+          {
+            "name": "Weave Nightmare - Action",
+            "text": "Spend a Fear to force all targets within Far range to make an Instinct Reaction Roll. On a failure, the target is frightened by visions of a creature from their nightmares, becoming vulnerable until they make a successful instinct roll or Mark a Stress to clear the condition. If Summer Night is targeted, summon a creature from the Nightmare Creatures table."
+          },
+          {
+            "name": "Summon Nightmare Creatures",
+            "text": "Spend a Fear to summon two creatures from the Nightmare Creatures table."
+          },
+          {
+            "name": "Fearful Presence",
+            "text": "mark 2 Stress to force all targets within Far range to make a Presence Reaction Roll. For each target who fails, you gain a Fear"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "The Sandman",
+      {
+        "name": "The Sandman",
+        "tier": "2",
+        "layout": "Daggerheart Adversary",
+        "type": "Solo",
+        "description": null,
+        "motives_and_tactics": "Protect Summer Night, steal dreams,",
+        "difficulty": "14",
+        "thresholds": "7/15",
+        "hp": "9",
+        "stress": "4",
+        "atk": "+4",
+        "attack": "Steal Dream",
+        "range": "Melee",
+        "damage": 0,
+        "feats": [
+          {
+            "name": "Non-corporeal - Passive",
+            "desc": "The Sandman cannot be harmed, and can only be killed permantantly when Summer Night dies or wakes; successful attacks against The Sandman instead slow him down."
+          },
+          {
+            "name": "Dream Stealer - Passive",
+            "desc": "Creatures hit by The Sandman's Steal Dream attack fall unconscious and mark 1d4+1 stress. They describe a dream for The Sandman to steal. Another creature may use an action to wake them."
+          },
+          {
+            "name": "Weave Dreams - Action",
+            "text": "Warp the reality of Hotel Midsummer to add or remove environmental obstacles."
+          },
+          {
+            "name": "Creature of Dreams - Action",
+            "text": "The Sandman is invisible to all creatures with their eyes open outside of dreams. He becomes visible inside dreams."
+          },
+          {
+            "name": "Death Quake - Reaction",
+            "text": "When the Construct marks their last HP, the magic powering them ruptures in an explosion of force. Make an attack with advantage against all targets within Very Close range. Targets the Construct succeeds against take 1d12+2 magic damage."
+          }
+        ],
+        "source": "DaggerheartSRD"
+      }
     ]
   ],
   "defaultLayouts": {
@@ -6239,7 +6324,7 @@
     }
   },
   "layouts": [],
-  "default": "daggerheart-adversary",
+  "default": "basic-5e-layout",
   "useDice": false,
   "renderDice": false,
   "export": true,

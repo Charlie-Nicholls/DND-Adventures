@@ -42,6 +42,6 @@
 ### Nightmare Hag
 - After escaping the [[Phantasmal Gem]], the [[Nightmare Hag]] will come to steal [[Summer Night|Summer]].
 - If the players refuse to let her keep [[Summer Night|Summer]] and honour their deal she will initiate combat.
-- She can use her *Weave Nightmare* ability on [[Summer Night|Summer]] to make [[Nightmare Creatures]] to attack the players.
+- She can use her *Weave Nightmare* ability on [[Summer Night|Summer]] to make [[Nightmare Creatures (DND)]] to attack the players.
 - She is resistant to all damage when outside the [[Dream Rooms]]
 - [[The Sandman]] can be instructed to manipulate the [[Dream Rooms]]
