@@ -1,6 +1,6 @@
 ---
 type: dmtool
-displayLink: "[[Ideas]]"
+displayLink: "[[_Assets/DM Toolbox/Ideas]]"
 ---
 
 ###### Ideas

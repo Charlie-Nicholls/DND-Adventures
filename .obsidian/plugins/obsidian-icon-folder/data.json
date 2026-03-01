@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasLightbulb",
       "FasMap",
       "FasSpider",
       "LiNotebook",
@@ -14,8 +15,7 @@
       "RaPerspectiveDiceSix",
       "RiZzzFill",
       "RiRobot3Fill",
-      "RaPlayerKing",
-      "RaHoneycomb"
+      "RaPlayerKing"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -92,7 +92,6 @@
   "Grove of Eloris/NPCs/Hag of the Forest.md": "LiTrees",
   "Grove of Eloris/NPCs/Bobee.md": "RaHoneycomb",
   "Grove of Eloris/Encounters/Grove Ritual.md": "FasTree",
-  "Daggerheart SRD": "LiSword",
   "Grove of Eloris/Encounters/Quick Reference.md": "LiSwords",
   "Grove of Eloris/NPCs/Molgrir Darkfall.md": "FasPerson",
   "Grove of Eloris/Locations/Portanforst.md": "FasCity",
@@ -177,5 +176,7 @@
   "Ghosts of the Damned/4.2 Family Game": "LiNotebook",
   "Amid Summer Night's Dream/Nightmare Creatures (DND).md": "FasSpider",
   "Amid Summer Night's Dream/Nightmare Creatures (DH).md": "FasSpider",
-  "Ghosts of the Damned/0. Assets/Maps": "FasMap"
+  "Ghosts of the Damned/0. Assets/Maps": "FasMap",
+  "_Assets/Daggerheart SRD": "LiSword",
+  "Ideas.md": "FasLightbulb"
 }
