@@ -26,7 +26,7 @@
   "publish": false,
   "sync": false,
   "canvas": false,
-  "bookmarks": false,
+  "bookmarks": true,
   "properties": false,
   "webviewer": true,
   "footnotes": false,
