@@ -53,8 +53,7 @@
     "useActualLinks": false,
     "fmtpIntegration": false,
     "titleSize": 1,
-    "isInCallout": false,
-    "useWikilinks": true
+    "isInCallout": false
   },
   "useSubmenus": false,
   "syncMove": true,

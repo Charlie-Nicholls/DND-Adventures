@@ -28,19 +28,19 @@ length: 10-12
 ```
 > [!boxed|no-t]
 > Beware, beware the shadow man,
-> For once he follows you,
+> If the shadow follows you,
 > You can't out run nor stand in sun,
 > While the shadow chases you,
-> He grows in light and hides in night,
+> He hides in night and grows in light,
 > Till the shadow catches you,
 > He fills your heart with endless dark,
-> The shadow puppets you,
+> So the shadow puppets you,
 > He takes control evicts your soul,
 > And now you are the shadow,
 > And the shadow man is you.
 >^ShadowPoem
 
-%% [menacing] [whispering loudly] Beware beware the shadow man, For once he follows you, You can't out run nor stand in sun While the shadow chases you, He grows in light and hides in night Till the shadow catches you, He fills your heart with endless dark The shadow puppets you, [short pause] He takes control - evicts your soul, [short pause] [whispering] And now you are the shadow, [short pause] [whispering] And the shadow man is YOU. %%
+%% [menacing] [whispering loudly] Beware beware the shadow man, If the shadow follows you, You can't out run nor stand in sun While the shadow chases you, He hides in night and grows in light Till the shadow catches you, He fills your heart with endless dark So the shadow puppets you, He takes control - evicts your soul, [short pause] [whispering] And now you are the shadow, [short pause] [whispering] And the shadow man is YOU... [pause] %%
 
 ### Soundtrack
 

@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouse",
+      "FasImage",
+      "FasShuttleSpace",
       "FasLightbulb",
       "FasMap",
       "FasSpider",
       "LiNotebook",
       "RaPerspectiveDiceOne",
       "FasUsers",
-      "RaPerspectiveDiceSix",
-      "RiZzzFill",
-      "RiRobot3Fill",
-      "RaPlayerKing"
+      "RaPerspectiveDiceSix"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -114,5 +114,9 @@
   "Amid Summer Night's Dream/Nightmare Creatures (DH).md": "FasSpider",
   "Ghosts of the Damned/0. Assets/Maps": "FasMap",
   "_Assets/Daggerheart SRD": "LiSword",
-  "Ideas.md": "FasLightbulb"
+  "Ideas.md": "FasLightbulb",
+  "Spaceship Survival": "FasShuttleSpace",
+  "Ghosts of the Damned/Assets": "FasImage",
+  "Ghosts of the Damned/Beaverton Hall": "FasHouse",
+  "Ghosts of the Damned/Family Game": "LiNotebook"
 }

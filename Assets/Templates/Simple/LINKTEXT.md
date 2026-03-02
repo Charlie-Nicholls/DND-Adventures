@@ -1,1 +1,0 @@
-![[#^IntroText|clean collapse nlk]]
