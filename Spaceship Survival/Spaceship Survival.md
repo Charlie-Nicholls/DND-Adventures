@@ -4,7 +4,7 @@ level: 0
 players: 3-6
 length: 10-12
 ---
-###### Gloom Division
+###### Project Tartarus
 <span class="sub2"> :FasShuttleSpace: Space Survival Horror | :FasCrown: Level `=this.level` |  :FasUserGroup: `=this.players` Players | :LiClock: `=this.length` Hours </span>
 
 ---
@@ -19,10 +19,6 @@ length: 10-12
 
 ##### The Shadow Man
 
-
-```audio-player
-[[The Shadow Man v2.mp3]]
-```
 ```audio-player
 [[The Shadow Man v4.mp3]]
 ```
