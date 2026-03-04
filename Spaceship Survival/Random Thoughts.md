@@ -12,3 +12,7 @@
 	- Excellent chance for an exposition dump on the lore of the world + ship
 		- Mention losing war in the context of this research being key
 		- Mention the pandora pioneering the semi-organic ships
+
+- An Entity that has fraction of it's consciousness merge with the living part of the Pandora
+	- It wants to understand mortal life so views this as an experiment
+	- The Pandora wants revenge for the experiments performed on it
