@@ -9,7 +9,7 @@
 		- End with a timeskip to a large colony ship that has followed the cradle of life to a new universe where they can settle on Aebir-Toril - not a safe world, but a new chance
 
 > [!boxed|no-t]
-> There are many versions of the tale of Pandora. In some the myth centres around a box, in some a jar, or a spaceship. Some say it was opened by a man, some a woman, some through curiosity and others malice. They cannot even agree on what was inside; some say it contained our greatest blessings and others disease and pain and death. There is just one thing all the tales agree on. That in the end, there was one thing that always remained: hope.
+> There are many versions of the tale of Pandora. In some the myth centres around a box, in some a jar, or a spaceship. Some say it was opened by a man, some a woman, some through curiosity and others malice. They cannot even agree on what was inside; some say it contained our greatest blessings and others disease, and pain, and death. But all the tales agree on this, That in the end, there is one thing that always remains: hope.
 
 - Start with one of the PCs being given a stay of service on the Pandora as punishment for some act
 	- probably pick the most sympathetic backstory PC for this
