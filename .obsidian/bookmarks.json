@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1772375154203,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Assets"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Daggerheart SRD"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Amid Summer Night's Dream"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "Assets"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1772375320701,
+                  "items": [],
+                  "title": "NPCs (Major)"
+                }
+              ],
+              "title": "Beaverton Hall"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "Family Game"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "NPCs (Major)"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "NPCs (Minor)"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "Party"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "Family Game"
+            },
+            {
+              "type": "group",
+              "ctime": 1772375320701,
+              "items": [],
+              "title": "YPI Game"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/Timeline.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/Cutscenes.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/Full Explanation.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/General Clues.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/Ghosts of the Damned.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1772375320701,
+              "path": "Ghosts of the Damned/Murder Plan.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Ghosts of the Damned"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Grove of Eloris"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Project Tartarus"
+        },
+        {
+          "type": "group",
+          "ctime": 1772375154203,
+          "items": [],
+          "title": "Trails of Ludicrum"
+        },
+        {
+          "type": "file",
+          "ctime": 1772375154203,
+          "path": "INDEX.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
