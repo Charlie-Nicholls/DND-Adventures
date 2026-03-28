@@ -41,7 +41,6 @@
   },
   "Assets/PDF": "FasFilePdf",
   "Assets/Videos": "FasVideo",
-  "Session Notes": "LiNotebookPen",
   "Compendium/Lore/Deities": "FasPersonRays",
   "Compendium/Lore/Events": "FasCalendar",
   "Compendium/Lore/Organizations": "FasSitemap",
@@ -115,8 +114,9 @@
   "Ghosts of the Damned/0. Assets/Maps": "FasMap",
   "_Assets/Daggerheart SRD": "LiSword",
   "Ideas.md": "FasLightbulb",
-  "Spaceship Survival": "FasShuttleSpace",
   "Ghosts of the Damned/Assets": "FasImage",
   "Ghosts of the Damned/Beaverton Hall": "FasHouse",
-  "Ghosts of the Damned/Family Game": "LiNotebook"
+  "Ghosts of the Damned/Family Game": "LiNotebook",
+  "Project Tartarus": "FasShuttleSpace",
+  "Project Tartarus/Session Notes": "LiNotebookPen"
 }

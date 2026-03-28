@@ -1,7 +1,7 @@
 ---
 type: adventure
-level: 0
-players: 3-6
+level: 8
+players: 5-6
 length: 10-12
 ---
 ###### Project Tartarus
@@ -16,6 +16,9 @@ length: 10-12
 >^IntroText
 
 ### Monster Ideas
+
+Cute fluffy meep-esque thing that's actually super evil
+Fungus
 
 ##### The Shadow Man
 
