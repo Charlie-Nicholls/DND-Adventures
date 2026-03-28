@@ -45,6 +45,10 @@ Read [[Cutscenes#^Chapter2|Cutscene]]
 #### 2.2 `= [[Ghosts of the Damned]].Detective` meets [[Dr Corbyn Beaver]] 
 Occurs whenever `= [[Ghosts of the Damned]].Detective` talks to [[Dr Corbyn Beaver]], or at the start of [[#4 The Game is Apaw]] if they haven't spoken by then.
 - Flashback to `= [[Ghosts of the Damned]].Detective` viewing `= [[Ghosts of the Damned]].Villain`'s "dead" body
+
+> [!boxed|no-t]
+> I did not realise it until I saw him in that moment, but this was not the first time we had met [[Dr Corbyn Beaver]]. On year earlier we received a call from the prison holding `= [[Ghosts of the Damned]].Villain` informing us that there had been an "incident" and she had been killed. Given her reputation and the profile of the case we were invited in to examine the body. Soon we found ourselves walking through the layers of security and into the medical room of the prison, inside of which was a bulky medical examination table on which laid the body of a hare and we were greeted by...
+> 
 - `= [[Ghosts of the Damned]].Detective` is taken through security at the prison where ⁠`= [[Ghosts of the Damned]].Villain` is confined and meets ⁠[[Dr Corbyn Beaver]].
 - He explains that she was stabbed in the stomach by Weasel Brown, they're unsure how she got the knife. Her body is on an examining table and ⁠`= [[Ghosts of the Damned]].Detective` is allowed to examine it briefly.
 
