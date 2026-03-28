@@ -103,3 +103,48 @@ feats:
   - name: Fearful Presence
     text: "mark 2 Stress to force all targets within Far range to make a Presence Reaction Roll. For each target who fails, you gain a Fear"
 ```
+### Statblock
+> ```statblock
+> name: Nightmare Hag
+> type: Fey
+> size: Medium
+> alignment: Neutral Evil
+> hp: 82
+> hit_dice: 11d8 + 33
+> ac: 17
+> speed: 30 ft.
+> stats:
+>   - 18
+>   - 12
+>   - 16
+>   - 13
+>   - 14
+>   - 14
+> skillsaves:
+>   - Arcana: 3
+>   - Deception: 4
+>   - Perception: 4
+>   - Stealth: 3
+> senses: Darkvision 120 ft.
+> languages: Common, Elvish, Sylvan
+> cr: 3
+> traits:
+>   - name: Incorporeal
+>     desc: The Nightmare Hag is resistant to all damage dealt whilst outside of dreams or dream rooms. If the Nightmare Hag ends her turn inside a nightmare she regains 2d8 hit points.
+>   - name: Innate Spellcasting
+>     desc: |-
+>       The nightmare hag's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+> 
+>       At will: dancing lights, disguise self, invisibility, minor illusion, ray of sickness (level 3 version)
+> actions:
+>   - name: Multiattack
+>     desc: The Nightmare Hag makes two Claw attacks.
+>   - name: Claw
+>     desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
+> bonus_actions:
+>   - name: Weave Nightmare
+>     desc: "Wisdom Saving Throw: DC 12, one creature within 60 ft. Failure: The target sees a creature from their nightmares in front of them and becomes frightened. The target can repeat this save at the end of each of its turns. If the target is Summer Night, the creature is be brought to life if it is CR 1 or lower with half hit points. A maximum of two such creatures can exist at once."
+> legendary_actions:
+>   - name: Nightmarish
+>     desc: "The Nightmare Hag uses Weave Nightmare"
+> ```

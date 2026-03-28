@@ -55,7 +55,7 @@ layout: Basic 5e Layout
 name: The Sandman
 speed: 30
 ac: 16
-stats: [11,14,1,14,20,18]
+stats: [11,14,NA,14,20,18]
 languages: Understands Common and Elvish but can't speak
 saves: [charisma: 7, dexterity: 5]
 skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
