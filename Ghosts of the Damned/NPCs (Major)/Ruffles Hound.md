@@ -30,7 +30,7 @@ Head of the construction company that built the [[Séance Room]]. This company i
 
 ### Secrets
 - Works for `= [[Ghosts of the Damned]].Villain`
-	- Gave here the schematics of [[Beaverton Hall]] he received during construction
+	- Gave here the schematics of [[1. Beaverton Hall]] he received during construction
 - Helped fake [[Irene Adams]]' death
 
 ### Knowledge

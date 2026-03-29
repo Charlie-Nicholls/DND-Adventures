@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://freshcutgrass.app/",
+      "displayName": "Fresh Cut Grass",
+      "icon": "sprout",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

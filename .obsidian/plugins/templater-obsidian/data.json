@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_Assets/Templates",
+  "templates_folder": "Assets/Templates",
   "templates_pairs": [
     [
       "",
@@ -32,7 +32,7 @@
     ""
   ],
   "startup_templates": [
-    "_Assets/Templates/STARTUP.md"
+    "Assets/Templates/STARTUP.md"
   ],
   "intellisense_render": 1,
   "enable_ribbon_icon": false

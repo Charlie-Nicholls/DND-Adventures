@@ -26,7 +26,7 @@ ___
 >^IntroText
 
 ### Description
-Maid at [[Beaverton Hall]]. `= [[Ghosts of the Damned]].Psychic` has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠`= [[Ghosts of the Damned]].Villain` is also using it for blackmail etc... Refers to her as Miss Adams.
+Maid at [[1. Beaverton Hall]]. `= [[Ghosts of the Damned]].Psychic` has employed her to eavesdrop and look for details she can purportedly use for physic demonstrations, but ⁠`= [[Ghosts of the Damned]].Villain` is also using it for blackmail etc... Refers to her as Miss Adams.
 
 ### Secrets
 - Employed by ⁠`= [[Ghosts of the Damned]].Psychic` to eavesdrop

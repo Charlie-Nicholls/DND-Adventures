@@ -40,6 +40,7 @@ Mod 2: 15 (+0)
 Game is being run with three players so `=this.Author` will be run as an NPC using the following statblock:
 
 ```statblock
+layout: Basic 5e Layout
 name: Author
 speed: 30
 ac: 12
